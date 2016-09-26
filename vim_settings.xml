@@ -1,0 +1,657 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/parsers/flights/attributes.rb" timestamp="1474546468642">
+        <mark key="[" line="48" column="21" />
+        <mark key="]" line="48" column="33" />
+        <mark key="^" line="48" column="33" />
+        <mark key="." line="48" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_content_types.html.erb" timestamp="1474284528453">
+        <mark key="[" line="3" column="35" />
+        <mark key="]" line="3" column="41" />
+        <mark key="." line="3" column="41" />
+        <mark key="^" line="3" column="41" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/models/target_group.rb" timestamp="1474699422314">
+        <mark key="[" line="4" column="36" />
+        <mark key="]" line="4" column="36" />
+        <mark key="^" line="4" column="24" />
+        <mark key="." line="4" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/factories/panel_providers.rb" timestamp="1474723807026">
+        <mark key="[" line="2" column="10" />
+        <mark key="]" line="2" column="14" />
+        <mark key="." line="2" column="14" />
+        <mark key="^" line="2" column="14" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/flight_setup_spreadsheets/_advanced_video_targeting.html.erb" timestamp="1471435050772">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="6" column="74" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/locations_controller_spec.rb" timestamp="1474716526665">
+        <mark key="^" line="15" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_placement_types.html.erb" timestamp="1474285292148">
+        <mark key="[" line="3" column="37" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/models/target_evaluator.rb" timestamp="1474741776446">
+        <mark key="'" line="29" column="2" />
+        <mark key="[" line="5" column="67" />
+        <mark key="]" line="5" column="71" />
+        <mark key="." line="5" column="71" />
+        <mark key="^" line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/lib/json_web_token.rb" timestamp="1474706334573">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="30" />
+        <mark key="^" line="3" column="30" />
+        <mark key="." line="3" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" timestamp="1474724051740">
+        <mark key="'" line="42" column="0" />
+        <mark key="[" line="18" column="0" />
+        <mark key="]" line="18" column="40" />
+        <mark key="^" line="45" column="41" />
+        <mark key="." line="42" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/models/country.rb" timestamp="1474704011658">
+        <mark key="[" line="4" column="44" />
+        <mark key="]" line="4" column="53" />
+        <mark key="." line="4" column="53" />
+        <mark key="^" line="4" column="53" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1473831057074">
+        <mark key="[" line="0" column="70" />
+        <mark key="]" line="0" column="76" />
+        <mark key="^" line="0" column="76" />
+        <mark key="." line="0" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/config/application.rb" timestamp="1474635351692">
+        <mark key="[" line="31" column="64" />
+        <mark key="]" line="33" column="48" />
+        <mark key="." line="33" column="48" />
+        <mark key="^" line="33" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_sizes.html.erb" timestamp="1474284489853">
+        <mark key="[" line="3" column="27" />
+        <mark key="]" line="3" column="33" />
+        <mark key="." line="3" column="33" />
+        <mark key="^" line="3" column="33" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/base_controller.rb" timestamp="1474736658567">
+        <mark key="[" line="10" column="67" />
+        <mark key="]" line="10" column="71" />
+        <mark key="." line="10" column="71" />
+        <mark key="^" line="10" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160923130848_create_countries.rb" timestamp="1474651072613">
+        <mark key="[" line="3" column="8" />
+        <mark key="]" line="3" column="13" />
+        <mark key="." line="3" column="13" />
+        <mark key="^" line="3" column="13" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/segments/_first_party_table.html.erb" timestamp="1472130705519">
+        <mark key="[" line="30" column="98" />
+        <mark key="]" line="30" column="98" />
+        <mark key="^" line="30" column="163" />
+        <mark key="." line="30" column="98" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_placement_type.rb" timestamp="1473833821290">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="60" />
+        <mark key="." line="2" column="60" />
+        <mark key="^" line="2" column="60" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_interstitial.rb" timestamp="1473833808793">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+        <mark key="^" line="2" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/Cebiro-CRM/app/controllers/users_controller.rb" timestamp="1474546787893">
+        <mark key="[" line="8" column="5" />
+        <mark key="]" line="9" column="1" />
+        <mark key="^" line="9" column="1" />
+        <mark key="." line="9" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/models/location_group.rb" timestamp="1474699669227">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="36" />
+        <mark key="^" line="3" column="24" />
+        <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/lib/provider_price_fetcher.rb" timestamp="1474723928929">
+        <mark key="'" line="24" column="22" />
+        <mark key="[" line="16" column="10" />
+        <mark key="]" line="16" column="10" />
+        <mark key="^" line="16" column="14" />
+        <mark key="." line="16" column="10" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_interstitial.rb" timestamp="1473844172825">
+        <mark key="[" line="7" column="122" />
+        <mark key="]" line="7" column="122" />
+        <mark key="." line="7" column="122" />
+        <mark key="^" line="16" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" timestamp="1474741432561">
+        <mark key="'" line="47" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="6" column="65" />
+        <mark key="." line="47" column="69" />
+        <mark key="^" line="47" column="69" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/config/routes.rb" timestamp="1474734385076">
+        <mark key="[" line="6" column="52" />
+        <mark key="]" line="6" column="71" />
+        <mark key="." line="6" column="71" />
+        <mark key="^" line="6" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/models/location.rb" timestamp="1474701668847">
+        <mark key="[" line="2" column="42" />
+        <mark key="]" line="2" column="42" />
+        <mark key="." line="2" column="42" />
+        <mark key="^" line="2" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/private/target_groups_controller.rb" timestamp="1474707269324">
+        <mark key="[" line="0" column="58" />
+        <mark key="]" line="0" column="79" />
+        <mark key="." line="0" column="79" />
+        <mark key="^" line="0" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/models/tokenizer_spec.rb" timestamp="1474709555080">
+        <mark key="[" line="16" column="62" />
+        <mark key="]" line="16" column="63" />
+        <mark key="." line="16" column="63" />
+        <mark key="^" line="16" column="68" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" timestamp="1474727643965">
+        <mark key="'" line="5" column="48" />
+        <mark key="[" line="56" column="56" />
+        <mark key="]" line="56" column="56" />
+        <mark key="." line="56" column="56" />
+        <mark key="^" line="55" column="56" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_content_type_spec.rb" timestamp="1472546790562">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="47" />
+        <mark key="^" line="1" column="47" />
+        <mark key="." line="1" column="47" />
+      </file>
+      <file name="$USER_HOME$/Projects/Cebiro-CRM/config/locales/pl.yml" timestamp="1474547458560">
+        <mark key="[" line="380" column="54" />
+        <mark key="]" line="364" column="31" />
+        <mark key="^" line="364" column="31" />
+        <mark key="." line="364" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_state_spec.rb" timestamp="1472545368379">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="24" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/features/step_definitions/web_steps.rb" timestamp="1472564503676">
+        <mark key="[" line="182" column="40" />
+        <mark key="]" line="182" column="5" />
+        <mark key="^" line="182" column="5" />
+        <mark key="." line="182" column="5" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flights/video_player_updater.rb" timestamp="1473841258646">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="^" line="8" column="55" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/Gemfile" timestamp="1474721388889">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="7" column="0" />
+        <mark key="^" line="6" column="0" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/target_groups_controller.rb" timestamp="1474703222097">
+        <mark key="[" line="0" column="15" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+        <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_content_type.rb" timestamp="1473833828052">
+        <mark key="[" line="2" column="46" />
+        <mark key="]" line="2" column="58" />
+        <mark key="^" line="2" column="58" />
+        <mark key="." line="2" column="58" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/controllers/application_controller.rb" timestamp="1474711127500">
+        <mark key="[" line="0" column="51" />
+        <mark key="]" line="1" column="71" />
+        <mark key="." line="1" column="71" />
+        <mark key="^" line="1" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924063444_add_index_for_parent_id_to_target_group.rb" timestamp="1474698896288">
+        <mark key="[" line="1" column="12" />
+        <mark key="]" line="2" column="39" />
+        <mark key="^" line="2" column="39" />
+        <mark key="." line="2" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_size.rb" timestamp="1473838160792">
+        <mark key="[" line="3" column="28" />
+        <mark key="]" line="3" column="83" />
+        <mark key="." line="3" column="83" />
+        <mark key="^" line="3" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/models/tokenizer.rb" timestamp="1474713448594">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="0" />
+        <mark key="." line="10" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/target_groups_controller_spec.rb" timestamp="1474705739655">
+        <mark key="'" line="5" column="0" />
+        <mark key="[" line="38" column="7" />
+        <mark key="]" line="39" column="3" />
+        <mark key="." line="39" column="3" />
+        <mark key="^" line="39" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/README.rdoc" timestamp="1474734926714">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/db/seeds.rb" timestamp="1474732290668">
+        <mark key="'" line="11" column="19" />
+        <mark key="[" line="29" column="14" />
+        <mark key="]" line="29" column="17" />
+        <mark key="." line="29" column="17" />
+        <mark key="^" line="29" column="17" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/README.md" timestamp="1474741832076">
+        <mark key="[" line="35" column="89" />
+        <mark key="]" line="35" column="89" />
+        <mark key="^" line="35" column="126" />
+        <mark key="." line="35" column="89" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/features/flights/device_targeting_omichannel_campaign.feature" timestamp="1472547307026">
+        <mark key="[" line="14" column="25" />
+        <mark key="]" line="14" column="49" />
+        <mark key="^" line="13" column="15" />
+        <mark key="." line="14" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_interstitials.html.erb" timestamp="1474284518763">
+        <mark key="[" line="3" column="36" />
+        <mark key="]" line="3" column="42" />
+        <mark key="." line="3" column="42" />
+        <mark key="^" line="3" column="42" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/factories/locations.rb" timestamp="1474648616925">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="2" />
+        <mark key="." line="2" column="30" />
+        <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/factories/location_groups.rb" timestamp="1474648639546">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="31" />
+        <mark key="^" line="4" column="23" />
+        <mark key="." line="4" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924064437_create_countries_target_groups.rb" timestamp="1474699543389">
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="31" />
+        <mark key="^" line="4" column="44" />
+        <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/cms/db/migrate/20160906141629_add_permissions_for_AVT_tables_access.rb" timestamp="1473147407176">
+        <mark key="[" line="0" column="24" />
+        <mark key="]" line="0" column="25" />
+        <mark key="^" line="0" column="25" />
+        <mark key="." line="0" column="25" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_states.html.erb" timestamp="1474284503150">
+        <mark key="[" line="3" column="29" />
+        <mark key="]" line="3" column="35" />
+        <mark key="." line="3" column="35" />
+        <mark key="^" line="3" column="35" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/.env.development" timestamp="1471949349972">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924064824_create_location_groups_locations.rb" timestamp="1474699729328">
+        <mark key="[" line="4" column="25" />
+        <mark key="]" line="4" column="27" />
+        <mark key="^" line="4" column="27" />
+        <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/config/database.yml" timestamp="1474714829100">
+        <mark key="[" line="11" column="12" />
+        <mark key="]" line="11" column="26" />
+        <mark key="." line="11" column="26" />
+        <mark key="^" line="11" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" timestamp="1474546926154">
+        <mark key="[" line="7" column="29" />
+        <mark key="]" line="7" column="48" />
+        <mark key="^" line="7" column="48" />
+        <mark key="." line="7" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/Cebiro-CRM/config/database.yml" timestamp="1474368189703">
+        <mark key="[" line="14" column="12" />
+        <mark key="]" line="14" column="26" />
+        <mark key="." line="14" column="26" />
+        <mark key="^" line="14" column="26" />
+      </file>
+      <file name="/Ruby Console" timestamp="1474741166003">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_controller/metal/http_authentication.rb" timestamp="1474714248595" />
+      <file name="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" timestamp="1474650986279">
+        <mark key="'" line="0" column="20" />
+        <mark key="[" line="2" column="31" />
+        <mark key="]" line="2" column="45" />
+        <mark key="." line="2" column="45" />
+        <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/private/evaluate_targets_controller.rb" timestamp="1474718243148">
+        <mark key="[" line="6" column="30" />
+        <mark key="]" line="9" column="54" />
+        <mark key="." line="9" column="54" />
+        <mark key="^" line="9" column="54" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_placement_type_spec.rb" timestamp="1472545395103">
+        <mark key="[" line="0" column="20" />
+        <mark key="]" line="0" column="32" />
+        <mark key="." line="0" column="32" />
+        <mark key="^" line="0" column="32" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/helpers/flights_helper_spec.rb" timestamp="1472477762214">
+        <mark key="[" line="674" column="0" />
+        <mark key="]" line="674" column="0" />
+        <mark key="^" line="666" column="44" />
+        <mark key="." line="674" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_size_spec.rb" timestamp="1472545549273">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="49" />
+        <mark key="." line="0" column="24" />
+        <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/controllers/locations_controller.rb" timestamp="1474646083753">
+        <mark key="[" line="0" column="49" />
+        <mark key="]" line="1" column="1" />
+        <mark key="^" line="1" column="1" />
+        <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/locations_controller.rb" timestamp="1474701527060">
+        <mark key="[" line="2" column="11" />
+        <mark key="]" line="2" column="16" />
+        <mark key="." line="2" column="16" />
+        <mark key="^" line="2" column="16" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/factories/target_group.rb" timestamp="1474648640950">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="31" />
+        <mark key="." line="3" column="0" />
+        <mark key="^" line="1" column="22" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/device_type.rb" timestamp="1474542648114">
+        <mark key="[" line="22" column="6" />
+        <mark key="]" line="22" column="9" />
+        <mark key="^" line="22" column="9" />
+        <mark key="." line="22" column="9" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/base_controller_spec.rb" timestamp="1474705471168">
+        <mark key="[" line="2" column="24" />
+        <mark key="]" line="2" column="37" />
+        <mark key="." line="2" column="37" />
+        <mark key="^" line="2" column="37" />
+      </file>
+      <file name="/dummy.sql" timestamp="1474732283374">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_sizes.sql" timestamp="1473831112880">
+        <mark key="[" line="0" column="36" />
+        <mark key="]" line="0" column="36" />
+        <mark key="." line="0" column="36" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/associated_with_iou.rb" timestamp="1473832830162">
+        <mark key="[" line="6" column="4" />
+        <mark key="]" line="6" column="4" />
+        <mark key="." line="6" column="4" />
+        <mark key="^" line="4" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1474741835112">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/shareable_helper.rb" timestamp="1472742429703">
+        <mark key="[" line="74" column="0" />
+        <mark key="]" line="74" column="0" />
+        <mark key="^" line="74" column="16" />
+        <mark key="." line="74" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/cms/db/migrate/20160906141629_add_permissions_for_avt_tables_access.rb" timestamp="1473160242254">
+        <mark key="[" line="14" column="67" />
+        <mark key="]" line="14" column="70" />
+        <mark key="." line="14" column="70" />
+        <mark key="^" line="14" column="70" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_state.rb" timestamp="1473833834522">
+        <mark key="[" line="2" column="47" />
+        <mark key="]" line="2" column="51" />
+        <mark key="." line="2" column="51" />
+        <mark key="^" line="2" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/target_groups_controller_spec.rb" timestamp="1474727883693">
+        <mark key="[" line="2" column="33" />
+        <mark key="]" line="2" column="54" />
+        <mark key="." line="2" column="54" />
+        <mark key="^" line="2" column="54" />
+      </file>
+    </filemarks>
+    <jumps>
+      <jump line="22" column="60" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/mobile_device.rb" />
+      <jump line="501" column="2" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
+      <jump line="542" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
+      <jump line="551" column="13" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
+      <jump line="431" column="11" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
+      <jump line="629" column="2" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
+      <jump line="429" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
+      <jump line="14" column="4" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
+      <jump line="36" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/currency.rb" />
+      <jump line="121" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/currency.rb" />
+      <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/966a45a4-b1b3-4631-8703-0a01edd8c477/console.sql" />
+      <jump line="34" column="100" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/mobile_device.rb" />
+      <jump line="7" column="14" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/mobile_device.rb" />
+      <jump line="24" column="23" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/mobile_device.rb" />
+      <jump line="3" column="56" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" />
+      <jump line="0" column="53" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_placement_types.sql" />
+      <jump line="2" column="101" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_interstitials.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_interstitials.sql" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/966a45a4-b1b3-4631-8703-0a01edd8c477/console.sql" />
+      <jump line="2" column="121" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_content_types.sql" />
+      <jump line="0" column="0" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_content_types.sql" />
+      <jump line="86" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/shareable.rb" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/shareable.rb" />
+      <jump line="786" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight.rb" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_content_type.rb" />
+      <jump line="1" column="45" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_content_type.rb" />
+      <jump line="11" column="12" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_unit.rb" />
+      <jump line="14" column="40" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_unit.rb" />
+      <jump line="573" column="6" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/controllers/flights_controller.rb" />
+      <jump line="175" column="14" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight.rb" />
+      <jump line="29" column="6" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/unique.rb" />
+      <jump line="9" column="8" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/created_by_ui.rb" />
+      <jump line="72" column="1" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/unique.rb" />
+      <jump line="16" column="26" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_placement_type.rb" />
+      <jump line="16" column="32" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_size.rb" />
+      <jump line="16" column="8" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_state.rb" />
+      <jump line="17" column="26" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_state.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="516" column="17" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="1020" column="17" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="1023" column="24" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="1028" column="24" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="1032" column="24" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="1036" column="24" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="1045" column="27" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="2594" column="9" filename="$USER_HOME$/Downloads/cms_schema_dump.sql" />
+      <jump line="34" column="8" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/flights/show.html.erb" />
+      <jump line="657" column="10" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/flights_helper.rb" />
+      <jump line="76" column="54" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/flight_setup_spreadsheets/_reference_data.html.erb" />
+      <jump line="15" column="6" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/design_patterns_helper.rb" />
+      <jump line="43" column="29" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/application.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/application.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/application.css.scss" />
+      <jump line="148" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/ui_tabs_scrollable.css" />
+      <jump line="40" column="8" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
+      <jump line="182" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
+      <jump line="25" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
+      <jump line="185" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/index.html.erb" />
+      <jump line="27" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" />
+      <jump line="41" column="4" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
+      <jump line="44" column="9" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
+      <jump line="14" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
+      <jump line="7" column="16" filename="$USER_HOME$/Projects/global_test_app/spec/rails_helper.rb" />
+      <jump line="2" column="15" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
+      <jump line="1" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
+      <jump line="4" column="4" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
+      <jump line="3" column="17" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
+      <jump line="0" column="20" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
+      <jump line="12" column="34" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
+      <jump line="491" column="22" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
+      <jump line="488" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
+      <jump line="475" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
+      <jump line="395" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
+      <jump line="46" column="13" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
+      <jump line="37" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
+      <jump line="14" column="23" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
+      <jump line="4" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
+      <jump line="15" column="4" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
+      <jump line="33" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/target_groups_controller_spec.rb" />
+      <jump line="5" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/target_groups_controller_spec.rb" />
+      <jump line="0" column="6" filename="$USER_HOME$/Projects/global_test_app/lib/json_web_token.rb" />
+      <jump line="4" column="32" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/locations_controller_spec.rb" />
+      <jump line="42" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
+      <jump line="296" column="0" filename="$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/http/request.rb" />
+      <jump line="17" column="22" filename="$USER_HOME$/Projects/global_test_app/lib/provider_price_fetcher.rb" />
+      <jump line="9" column="89" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
+      <jump line="2" column="21" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
+      <jump line="18" column="6" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
+      <jump line="41" column="22" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
+      <jump line="11" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
+      <jump line="2" column="26" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
+      <jump line="47" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
+      <jump line="5" column="48" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
+      <jump line="29" column="2" filename="$USER_HOME$/Projects/global_test_app/app/models/target_evaluator.rb" />
+      <jump line="0" column="17" filename="$USER_HOME$/Projects/global_test_app/db/seeds.rb" />
+      <jump line="8" column="19" filename="$USER_HOME$/Projects/global_test_app/db/seeds.rb" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>2</text>
+      </register>
+      <register name="-" type="4">
+        <text>2</text>
+      </register>
+      <register name="/" type="4">
+        <text>dashboard</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">YGBgCmN1cmwgLUggJ0F1dGhvcml6YXRpb246IFRva2VuIHRva2VuPSI6cmVxdWVzdF90b2tlbiInIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvcHJpdmF0ZS90YXJnZXRfZ3JvdXBzLzpjb3VudHJ5X2NvZGUKYGBgCg==</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICogUnNwZWMKICogTm9rb2dpcmkK</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgdGhlCmFwcGxpY2F0aW9uIHVwIGFuZCBydW5uaW5nLgoKVGhpbmdzIHlvdSBtYXkgd2FudCB0byBjb3ZlcjoKCiogUnVieSB2ZXJzaW9uCgoqIFN5c3RlbSBkZXBlbmRlbmNpZXMKCiogQ29uZmlndXJhdGlvbgoKKiBEYXRhYmFzZSBjcmVhdGlvbgoKKiBEYXRhYmFzZSBpbml0aWFsaXphdGlvbgoKKiBIb3cgdG8gcnVuIHRoZSB0ZXN0IHN1aXRlCgoqIFNlcnZpY2VzIChqb2IgcXVldWVzLCBjYWNoZSBzZXJ2ZXJzLCBzZWFyY2ggZW5naW5lcywgZXRjLikKCiogRGVwbG95bWVudCBpbnN0cnVjdGlvbnMKCiogLi4uCgoKUGxlYXNlIGZlZWwgZnJlZSB0byB1c2UgYSBkaWZmZXJlbnQgbWFya3VwIGxhbmd1YWdlIGlmIHlvdSBkbyBub3QgcGxhbiB0byBydW4KPHR0PnJha2UgZG9jOmFwcDwvdHQ+Lgo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">QWRkIHByaXZhdGUgdGFyZ2V0IGdyb3VwcyBjb250cm9sbGVyIHNwZWMK</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">bGV2ZWwgPSAyCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICBUYXJnZXRHcm91cC5jcmVhdGUobmFtZTogRmFrZXI6OkFkZHJlc3MuY2l0eSwgcGFyZW50X2lkOiB0YXJnZXRfZ3JvdXAuaWQsIHBhbmVsX3Byb3ZpZGVyOiB0YXJnZXRfZ3JvdXAucGFuZWxfcHJvdmlkZXIpCg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CmRlZiBjcmVhdGVfdGFyZ2V0X2dyb3VwCg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAK</text>
+      </register>
+    </registers>
+    <search>
+      <last-search>dashboard</last-search>
+      <last-offset />
+      <last-pattern>dashboard</last-pattern>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxkZXNlbGVjdF9vYmplY3Rfd2l0aF9pZFw+</entry>
+        <entry encoding="base64">XDxkZXNlbGVjdF9yb3dcPg==</entry>
+        <entry encoding="base64">XDxzZWxlY3RhYmxlX3dpdGhfdG9nZ2xlXD4=</entry>
+        <entry encoding="base64">XDxkZXZpY2VfdHlwZVw+</entry>
+        <entry>State</entry>
+        <entry>sta</entry>
+        <entry>con</entry>
+        <entry encoding="base64">XDxidWlsZF90YXJnZXRpbmdfaW5mb1w+</entry>
+        <entry encoding="base64">XDxzZXRfY3JlYXRlZF9ieVw+</entry>
+        <entry>in</entry>
+        <entry>pla</entry>
+        <entry>siz</entry>
+        <entry>insertion_order_term</entry>
+        <entry>insertion_order_term_video_player_sizes</entry>
+        <entry>content_channel.context</entry>
+        <entry>device_typ</entry>
+        <entry encoding="base64">XDxhZHZhbmNlZF92aWRlb190YXJnZXRpbmdcPg==</entry>
+        <entry>fac</entry>
+        <entry>api</entry>
+        <entry>dashboard</entry>
+      </history-search>
+      <history-cmd>
+        <entry>wincmd l</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
+  </component>
+</application>

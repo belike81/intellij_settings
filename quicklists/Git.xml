@@ -1,0 +1,7 @@
+<list display="Git" description="Git version control">
+  <action id="ChangesView.Commit" />
+  <action id="Vcs.Push" />
+  <action id="Git.Pull" />
+  <action id="Git.Stash" />
+  <action id="Git.Unstash" />
+</list>
