@@ -39,8 +39,19 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="6" column="74" />
       </file>
-      <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/locations_controller_spec.rb" timestamp="1474716526665">
-        <mark key="^" line="15" column="26" />
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/application.js" timestamp="1474287834640">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="43" column="30" />
+        <mark key="]" line="44" column="29" />
+        <mark key="^" line="44" column="29" />
+        <mark key="." line="44" column="29" />
+      </file>
+      <file name="$USER_HOME$/Projects/guardians_destiny/lib/bungie_client_wrapper.rb" timestamp="1474962785837">
+        <mark key="'" line="0" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="27" column="2" />
+        <mark key="." line="27" column="2" />
+        <mark key="^" line="27" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_placement_types.html.erb" timestamp="1474285292148">
         <mark key="[" line="3" column="37" />
@@ -54,6 +65,13 @@
         <mark key="]" line="5" column="71" />
         <mark key="." line="5" column="71" />
         <mark key="^" line="5" column="71" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_size.rb" timestamp="1473844156656">
+        <mark key="'" line="16" column="32" />
+        <mark key="[" line="7" column="106" />
+        <mark key="]" line="7" column="106" />
+        <mark key="." line="7" column="106" />
+        <mark key="^" line="17" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/lib/json_web_token.rb" timestamp="1474706334573">
         <mark key="[" line="3" column="28" />
@@ -80,11 +98,25 @@
         <mark key="^" line="0" column="76" />
         <mark key="." line="0" column="76" />
       </file>
+      <file name="$USER_HOME$/Projects/guardians_destiny/config/secrets.yml" timestamp="1474963039917">
+        <mark key="'" line="1" column="0" />
+        <mark key="[" line="13" column="147" />
+        <mark key="]" line="14" column="21" />
+        <mark key="^" line="14" column="21" />
+        <mark key="." line="14" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/config/application.rb" timestamp="1474635351692">
         <mark key="[" line="31" column="64" />
         <mark key="]" line="33" column="48" />
         <mark key="." line="33" column="48" />
         <mark key="^" line="33" column="48" />
+      </file>
+      <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_interstitials.sql" timestamp="1473831210110">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="100" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_sizes.html.erb" timestamp="1474284489853">
         <mark key="[" line="3" column="27" />
@@ -97,6 +129,20 @@
         <mark key="]" line="10" column="71" />
         <mark key="." line="10" column="71" />
         <mark key="^" line="10" column="71" />
+      </file>
+      <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_content_types.sql" timestamp="1473831229429">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="2" column="120" />
+        <mark key="." line="0" column="44" />
+        <mark key="^" line="0" column="94" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/application.css.scss" timestamp="1474288048179">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="37" column="15" />
+        <mark key="]" line="38" column="28" />
+        <mark key="^" line="38" column="28" />
+        <mark key="." line="38" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160923130848_create_countries.rb" timestamp="1474651072613">
         <mark key="[" line="3" column="8" />
@@ -133,6 +179,20 @@
         <mark key="]" line="3" column="36" />
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="36" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/shareable.rb" timestamp="1473832740719">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="120" column="2" />
+        <mark key="^" line="91" column="8" />
+        <mark key="." line="89" column="0" />
+      </file>
+      <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_placement_types.sql" timestamp="1473831179880">
+        <mark key="'" line="0" column="53" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="91" />
+        <mark key="." line="0" column="71" />
+        <mark key="^" line="0" column="78" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/lib/provider_price_fetcher.rb" timestamp="1474723928929">
         <mark key="'" line="24" column="22" />
@@ -239,11 +299,11 @@
         <mark key="." line="1" column="71" />
         <mark key="^" line="1" column="71" />
       </file>
-      <file name="$USER_HOME$/Projects/guardians_destiny/Gemfile" timestamp="1474958871317">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="^" line="2" column="5" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/guardians_destiny/Gemfile" timestamp="1474962636146">
+        <mark key="[" line="15" column="24" />
+        <mark key="]" line="17" column="17" />
+        <mark key="^" line="17" column="17" />
+        <mark key="." line="17" column="17" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924063444_add_index_for_parent_id_to_target_group.rb" timestamp="1474698896288">
         <mark key="[" line="1" column="12" />
@@ -269,10 +329,30 @@
         <mark key="." line="39" column="3" />
         <mark key="^" line="39" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" timestamp="1474552437083">
+        <mark key="'" line="197" column="0" />
+        <mark key="[" line="63" column="17" />
+        <mark key="]" line="63" column="17" />
+        <mark key="^" line="63" column="17" />
+        <mark key="." line="63" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/README.rdoc" timestamp="1474734926714">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/guardians_destiny/config/initializers/bungie_client.rb" timestamp="1474962871992">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="1" column="23" />
+        <mark key="^" line="1" column="23" />
+        <mark key="." line="1" column="23" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_content_type.rb" timestamp="1474024180344">
+        <mark key="'" line="1" column="45" />
+        <mark key="[" line="7" column="122" />
+        <mark key="]" line="7" column="122" />
+        <mark key="." line="7" column="122" />
+        <mark key="^" line="17" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/seeds.rb" timestamp="1474732290668">
         <mark key="'" line="11" column="19" />
@@ -311,6 +391,20 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/global_test_app/spec/rails_helper.rb" timestamp="1474650890080">
+        <mark key="'" line="7" column="16" />
+        <mark key="[" line="55" column="49" />
+        <mark key="]" line="56" column="44" />
+        <mark key="." line="56" column="44" />
+        <mark key="^" line="56" column="44" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight.rb" timestamp="1473841170102">
+        <mark key="'" line="175" column="14" />
+        <mark key="[" line="45" column="0" />
+        <mark key="]" line="45" column="16" />
+        <mark key="." line="181" column="0" />
+        <mark key="^" line="180" column="37" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924064437_create_countries_target_groups.rb" timestamp="1474699543389">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="31" />
@@ -341,6 +435,13 @@
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
       </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/ui_tabs_scrollable.css" timestamp="1474288899144">
+        <mark key="'" line="52" column="0" />
+        <mark key="[" line="24" column="15" />
+        <mark key="]" line="24" column="15" />
+        <mark key="^" line="24" column="15" />
+        <mark key="." line="24" column="15" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/config/database.yml" timestamp="1474714829100">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="26" />
@@ -358,6 +459,20 @@
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_unit.rb" timestamp="1473835116779">
+        <mark key="'" line="14" column="40" />
+        <mark key="[" line="7" column="51" />
+        <mark key="]" line="7" column="51" />
+        <mark key="^" line="7" column="51" />
+        <mark key="." line="7" column="51" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_state.rb" timestamp="1473844149124">
+        <mark key="'" line="17" column="26" />
+        <mark key="[" line="16" column="44" />
+        <mark key="]" line="16" column="44" />
+        <mark key="." line="16" column="44" />
+        <mark key="^" line="17" column="43" />
       </file>
       <file name="/Ruby Console" timestamp="1474741166003">
         <mark key="[" line="0" column="0" />
@@ -443,6 +558,20 @@
       <file name="/Dummy.txt" timestamp="1474741835112">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" timestamp="1473831152705">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="4" column="87" />
+        <mark key="." line="0" column="37" />
+        <mark key="^" line="0" column="12" />
+      </file>
+      <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_placement_type.rb" timestamp="1473844164541">
+        <mark key="'" line="16" column="26" />
+        <mark key="[" line="7" column="126" />
+        <mark key="]" line="7" column="126" />
+        <mark key="^" line="17" column="52" />
+        <mark key="." line="7" column="126" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/shareable_helper.rb" timestamp="1472742429703">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -469,8 +598,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="22" column="60" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/mobile_device.rb" />
-      <jump line="501" column="2" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
       <jump line="542" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
       <jump line="551" column="13" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
       <jump line="431" column="11" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
@@ -569,10 +696,12 @@
       <jump line="29" column="2" filename="$USER_HOME$/Projects/global_test_app/app/models/target_evaluator.rb" />
       <jump line="0" column="17" filename="$USER_HOME$/Projects/global_test_app/db/seeds.rb" />
       <jump line="8" column="19" filename="$USER_HOME$/Projects/global_test_app/db/seeds.rb" />
+      <jump line="6" column="2" filename="$USER_HOME$/Projects/guardians_destiny/lib/bungie_client_wrapper.rb" />
+      <jump line="1" column="0" filename="$USER_HOME$/Projects/guardians_destiny/config/secrets.yml" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
+        <text encoding="base64">Y2xhc3MgQnVuZ2llQ2xpZW50V3JhcHBlcgogIGNsYXNzIDw8IHNlbGYKICAgIGRlZiBhcGlfa2V5PSh2YWx1ZSkKICAgICAgQGFwaV9rZXkKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -584,31 +713,31 @@
         <text encoding="base64">YGBgCmN1cmwgLUggJ0F1dGhvcml6YXRpb246IFRva2VuIHRva2VuPSI6cmVxdWVzdF90b2tlbiInIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvcHJpdmF0ZS90YXJnZXRfZ3JvdXBzLzpjb3VudHJ5X2NvZGUKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
+        <text encoding="base64">Y2xhc3MgQnVuZ2llQ2xpZW50V3JhcHBlcgogIGNsYXNzIDw8IHNlbGYKICAgIGRlZiBhcGlfa2V5PSh2YWx1ZSkKICAgICAgQGFwaV9rZXkKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">IyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cg==</text>
+        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBVc2UgUmVkaXMgYWRhcHRlciB0byBydW4gQWN0aW9uIENhYmxlIGluIHByb2R1Y3Rpb24KIyBnZW0gJ3JlZGlzJywgJ34+IDMuMCcKIyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgQ2FwaXN0cmFubyBmb3IgZGVwbG95bWVudAo=</text>
+        <text encoding="base64">IyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+        <text encoding="base64">IyBVc2UgUmVkaXMgYWRhcHRlciB0byBydW4gQWN0aW9uIENhYmxlIGluIHByb2R1Y3Rpb24KIyBnZW0gJ3JlZGlzJywgJ34+IDMuMCcKIyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgQ2FwaXN0cmFubyBmb3IgZGVwbG95bWVudAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIG5hdmlnYXRpbmcgeW91ciB3ZWIgYXBwbGljYXRpb24gZmFzdGVyLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS90dXJib2xpbmtzL3R1cmJvbGlua3MK</text>
+        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
+        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIG5hdmlnYXRpbmcgeW91ciB3ZWIgYXBwbGljYXRpb24gZmFzdGVyLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS90dXJib2xpbmtzL3R1cmJvbGlua3MK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MK</text>
+        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBVc2UgVWdsaWZpZXIgYXMgY29tcHJlc3NvciBmb3IgSmF2YVNjcmlwdCBhc3NldHMK</text>
+        <text encoding="base64">IyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MK</text>
       </register>
     </registers>
     <search>
