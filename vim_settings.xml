@@ -27,6 +27,12 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
+      <file name="$USER_HOME$/Projects/guardians_destiny/.ruby-version" timestamp="1474958743668">
+        <mark key="[" line="0" column="2" />
+        <mark key="]" line="0" column="3" />
+        <mark key="." line="0" column="3" />
+        <mark key="^" line="0" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/flight_setup_spreadsheets/_advanced_video_targeting.html.erb" timestamp="1471435050772">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="4" />
@@ -233,6 +239,12 @@
         <mark key="." line="1" column="71" />
         <mark key="^" line="1" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/guardians_destiny/Gemfile" timestamp="1474958871317">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="^" line="2" column="5" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924063444_add_index_for_parent_id_to_target_group.rb" timestamp="1474698896288">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="39" />
@@ -350,7 +362,6 @@
       <file name="/Ruby Console" timestamp="1474741166003">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_controller/metal/http_authentication.rb" timestamp="1474714248595" />
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" timestamp="1474650986279">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="2" column="31" />
@@ -560,11 +571,11 @@
       <jump line="8" column="19" filename="$USER_HOME$/Projects/global_test_app/db/seeds.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>2</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
       </register>
       <register name="-" type="4">
-        <text>2</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
@@ -573,31 +584,31 @@
         <text encoding="base64">YGBgCmN1cmwgLUggJ0F1dGhvcml6YXRpb246IFRva2VuIHRva2VuPSI6cmVxdWVzdF90b2tlbiInIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvcHJpdmF0ZS90YXJnZXRfZ3JvdXBzLzpjb3VudHJ5X2NvZGUKYGBgCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICogUnNwZWMKICogTm9rb2dpcmkK</text>
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgdGhlCmFwcGxpY2F0aW9uIHVwIGFuZCBydW5uaW5nLgoKVGhpbmdzIHlvdSBtYXkgd2FudCB0byBjb3ZlcjoKCiogUnVieSB2ZXJzaW9uCgoqIFN5c3RlbSBkZXBlbmRlbmNpZXMKCiogQ29uZmlndXJhdGlvbgoKKiBEYXRhYmFzZSBjcmVhdGlvbgoKKiBEYXRhYmFzZSBpbml0aWFsaXphdGlvbgoKKiBIb3cgdG8gcnVuIHRoZSB0ZXN0IHN1aXRlCgoqIFNlcnZpY2VzIChqb2IgcXVldWVzLCBjYWNoZSBzZXJ2ZXJzLCBzZWFyY2ggZW5naW5lcywgZXRjLikKCiogRGVwbG95bWVudCBpbnN0cnVjdGlvbnMKCiogLi4uCgoKUGxlYXNlIGZlZWwgZnJlZSB0byB1c2UgYSBkaWZmZXJlbnQgbWFya3VwIGxhbmd1YWdlIGlmIHlvdSBkbyBub3QgcGxhbiB0byBydW4KPHR0PnJha2UgZG9jOmFwcDwvdHQ+Lgo=</text>
+        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">QWRkIHByaXZhdGUgdGFyZ2V0IGdyb3VwcyBjb250cm9sbGVyIHNwZWMK</text>
+        <text encoding="base64">IyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">bGV2ZWwgPSAyCg==</text>
+        <text encoding="base64">IyBVc2UgUmVkaXMgYWRhcHRlciB0byBydW4gQWN0aW9uIENhYmxlIGluIHByb2R1Y3Rpb24KIyBnZW0gJ3JlZGlzJywgJ34+IDMuMCcKIyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgQ2FwaXN0cmFubyBmb3IgZGVwbG95bWVudAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIG5hdmlnYXRpbmcgeW91ciB3ZWIgYXBwbGljYXRpb24gZmFzdGVyLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS90dXJib2xpbmtzL3R1cmJvbGlua3MK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBUYXJnZXRHcm91cC5jcmVhdGUobmFtZTogRmFrZXI6OkFkZHJlc3MuY2l0eSwgcGFyZW50X2lkOiB0YXJnZXRfZ3JvdXAuaWQsIHBhbmVsX3Byb3ZpZGVyOiB0YXJnZXRfZ3JvdXAucGFuZWxfcHJvdmlkZXIpCg==</text>
+        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">CmRlZiBjcmVhdGVfdGFyZ2V0X2dyb3VwCg==</text>
+        <text encoding="base64">IyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAK</text>
+        <text encoding="base64">IyBVc2UgVWdsaWZpZXIgYXMgY29tcHJlc3NvciBmb3IgSmF2YVNjcmlwdCBhc3NldHMK</text>
       </register>
     </registers>
     <search>
