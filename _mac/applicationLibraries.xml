@@ -472,6 +472,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/awesome_print-1.6.1/lib" />
       </SOURCES>
     </library>
+    <library name="awesome_print (v1.7.0, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/awesome_print-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/awesome_print-1.7.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v1.40.3, rbenv: 1.9.3-p392) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/aws-sdk-1.40.3/bin" />
@@ -1662,6 +1670,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/docile-1.1.5/lib" />
       </SOURCES>
     </library>
+    <library name="domain_name (v0.5.20160826, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20160826/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20160826/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20160826/tool" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20160826/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20160826/data" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/domain_name-0.5.20160826/tool" />
+      </SOURCES>
+    </library>
     <library name="dotenv (v0.10.0, rbenv: 1.9.3-p392) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/dotenv-0.10.0/bin" />
@@ -2434,6 +2454,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/httmultiparty-0.3.16/lib" />
       </SOURCES>
     </library>
+    <library name="http-cookie (v1.0.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http-cookie-1.0.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/http-cookie-1.0.2/lib" />
+      </SOURCES>
+    </library>
     <library name="httparty (v0.13.7, rbenv: 1.9.3-p392) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/httparty-0.13.7/bin" />
@@ -3144,6 +3172,14 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mail-2.6.4/lib" />
       </SOURCES>
     </library>
+    <library name="mechanize (v2.7.5, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mechanize-2.7.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/mechanize-2.7.5/lib" />
+      </SOURCES>
+    </library>
     <library name="mediainfo (v0.7.2, rbenv: 1.9.3-p392) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/mediainfo-0.7.2/lib" />
@@ -3470,6 +3506,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/nenv-0.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="net-http-digest_auth (v1.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4/sample" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-http-digest_auth-1.4/sample" />
+      </SOURCES>
+    </library>
+    <library name="net-http-persistent (v2.9.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-http-persistent-2.9.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/net-http-persistent-2.9.4/lib" />
+      </SOURCES>
+    </library>
     <library name="net-scp (v1.1.2, rbenv: 1.9.3-p392) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/net-scp-1.1.2/lib" />
@@ -3636,6 +3690,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/notiffany-0.0.8/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/notiffany-0.0.8/images" />
+      </SOURCES>
+    </library>
+    <library name="ntlm-http (v0.1.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ntlm-http-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/ntlm-http-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="oauth (v0.4.7, rbenv: 1.9.3-p392) [gem]">
@@ -4644,6 +4706,18 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/redcarpet-3.0.0/bin" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/redcarpet-3.0.0/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/redcarpet-3.0.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="redis (v3.3.1, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/benchmarking" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/lib" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/.travis" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/redis-3.3.1/benchmarking" />
       </SOURCES>
     </library>
     <library name="request_store (v1.0.8, rbenv: 1.9.3-p392) [gem]">
@@ -6040,6 +6114,24 @@
         <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/uglifier-3.0.2/gemfiles" />
       </SOURCES>
     </library>
+    <library name="unf (v0.1.4, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unf-0.1.4/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unf-0.1.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unf_ext (v0.0.7.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/ext" />
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/unf_ext-0.0.7.2/lib" />
+      </SOURCES>
+    </library>
     <library name="unicode_utils (v1.4.0, rbenv: 2.0.0-p247) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rbenv/versions/2.0.0-p247/lib/ruby/gems/2.0.0/gems/unicode_utils-1.4.0/lib" />
@@ -6168,6 +6260,14 @@
       <SOURCES>
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/webmock-1.17.4/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/webmock-1.17.4/minitest" />
+      </SOURCES>
+    </library>
+    <library name="webrobots (v0.1.2, rbenv: 2.3.1) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/webrobots-0.1.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rbenv/versions/2.3.1/lib/ruby/gems/2.3.0/gems/webrobots-0.1.2/lib" />
       </SOURCES>
     </library>
     <library name="websocket (v1.0.7, rbenv: 1.9.3-p392) [gem]">
