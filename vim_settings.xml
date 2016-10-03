@@ -210,6 +210,12 @@
       <file name="/a.sql" timestamp="1475244188810">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/README.md" timestamp="1475514848123">
+        <mark key="[" line="8" column="4" />
+        <mark key="]" line="8" column="5" />
+        <mark key="." line="8" column="5" />
+        <mark key="^" line="8" column="8" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" timestamp="1474741432561">
         <mark key="'" line="47" column="0" />
         <mark key="[" line="5" column="0" />
@@ -573,7 +579,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475243566273">
+      <file name="/Dummy.txt" timestamp="1475514884289">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" timestamp="1473831152705">
@@ -724,10 +730,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="-" type="4">
-        <text>require 'resque/tasks'</text>
+        <text>i</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
@@ -736,31 +742,31 @@
         <text encoding="base64">ICAgICAgICA8dGQ+PCU9IG51bWJlcl90b19jdXJyZW5jeSBwcm9kdWN0LnByaWNlICU+PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwogIG1vdW50IFJlc3F1ZTo6U2VydmVyLCBhdDogJy9qb2JzJwoK</text>
+        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgdGhlCmFwcGxpY2F0aW9uIHVwIGFuZCBydW5uaW5nLgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3Rhc2tzJwo=</text>
+        <text encoding="base64">VGhpbmdzIHlvdSBtYXkgd2FudCB0byBjb3ZlcjoKCiogUnVieSB2ZXJzaW9uCgoqIFN5c3RlbSBkZXBlbmRlbmNpZXMKCiogQ29uZmlndXJhdGlvbgoKKiBEYXRhYmFzZSBjcmVhdGlvbgoKKiBEYXRhYmFzZSBpbml0aWFsaXphdGlvbgoKKiBIb3cgdG8gcnVuIHRoZSB0ZXN0IHN1aXRlCgoqIFNlcnZpY2VzIChqb2IgcXVldWVzLCBjYWNoZSBzZXJ2ZXJzLCBzZWFyY2ggZW5naW5lcywgZXRjLikKCiogRGVwbG95bWVudCBpbnN0cnVjdGlvbnMKCiogLi4uCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3NlcnZlcicK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwo=</text>
+        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwogIG1vdW50IFJlc3F1ZTo6U2VydmVyLCBhdDogJy9qb2JzJwoK</text>
       </register>
       <register name="6" type="2">
         <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3Rhc2tzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IHByb2R1Y3QucmV2aWV3cy5jb3VudCAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3NlcnZlcicK</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgPHRoPlJldmlld3M8L3RoPgo=</text>
+        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3Rhc2tzJwo=</text>
       </register>
     </registers>
     <search>
