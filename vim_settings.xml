@@ -314,6 +314,11 @@
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
       </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/app/views/products/index.html.erb" timestamp="1475509418789">
+        <mark key="[" line="24" column="0" />
+        <mark key="]" line="24" column="0" />
+        <mark key="." line="24" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_size.rb" timestamp="1473838160792">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="83" />
@@ -499,6 +504,11 @@
         <mark key="^" line="666" column="44" />
         <mark key="." line="674" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/spec/models/walmart_review_url_parser_spec.rb" timestamp="1475509051769">
+        <mark key="[" line="11" column="50" />
+        <mark key="]" line="11" column="50" />
+        <mark key="." line="11" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_size_spec.rb" timestamp="1472545549273">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="49" />
@@ -510,6 +520,11 @@
         <mark key="]" line="1" column="1" />
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
+      </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/app/models/walmart_review_url_parser.rb" timestamp="1475509027600">
+        <mark key="[" line="19" column="110" />
+        <mark key="]" line="19" column="110" />
+        <mark key="." line="19" column="110" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/locations_controller.rb" timestamp="1474701527060">
         <mark key="[" line="2" column="11" />
@@ -697,44 +712,44 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/guardians_destiny/config/secrets.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IHRoZW4=</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IHByb2R1Y3QucmV2aWV3cy5jb3VudCAlPjwvdGQ+Cg==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IHRoZW4=</text>
+        <text>price</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">YGBgCmN1cmwgLUggJ0F1dGhvcml6YXRpb246IFRva2VuIHRva2VuPSI6cmVxdWVzdF90b2tlbiInIGh0dHA6Ly9sb2NhbGhvc3Q6MzAwMC9hcGkvcHJpdmF0ZS90YXJnZXRfZ3JvdXBzLzpjb3VudHJ5X2NvZGUKYGBgCg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IG51bWJlcl90b19jdXJyZW5jeSBwcm9kdWN0LnByaWNlICU+PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgQnVuZ2llQ2xpZW50V3JhcHBlcgogIGNsYXNzIDw8IHNlbGYKICAgIGRlZiBhcGlfa2V5PSh2YWx1ZSkKICAgICAgQGFwaV9rZXkKICAgIGVuZAogIGVuZAplbmQK</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IHByb2R1Y3QucmV2aWV3cy5jb3VudCAlPjwvdGQ+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
+        <text encoding="base64">ICAgICAgPHRoPlJldmlld3M8L3RoPgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cg==</text>
+        <text encoding="base64">Y2xhc3MgQnVuZ2llQ2xpZW50V3JhcHBlcgogIGNsYXNzIDw8IHNlbGYKICAgIGRlZiBhcGlfa2V5PSh2YWx1ZSkKICAgICAgQGFwaV9rZXkKICAgIGVuZAogIGVuZAplbmQK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBVc2UgUmVkaXMgYWRhcHRlciB0byBydW4gQWN0aW9uIENhYmxlIGluIHByb2R1Y3Rpb24KIyBnZW0gJ3JlZGlzJywgJ34+IDMuMCcKIyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgQ2FwaXN0cmFubyBmb3IgZGVwbG95bWVudAo=</text>
+        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBUdXJib2xpbmtzIG1ha2VzIG5hdmlnYXRpbmcgeW91ciB3ZWIgYXBwbGljYXRpb24gZmFzdGVyLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS90dXJib2xpbmtzL3R1cmJvbGlua3MK</text>
+        <text encoding="base64">IyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBVc2UganF1ZXJ5IGFzIHRoZSBKYXZhU2NyaXB0IGxpYnJhcnkK</text>
+        <text encoding="base64">IyBVc2UgUmVkaXMgYWRhcHRlciB0byBydW4gQWN0aW9uIENhYmxlIGluIHByb2R1Y3Rpb24KIyBnZW0gJ3JlZGlzJywgJ34+IDMuMCcKIyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgQ2FwaXN0cmFubyBmb3IgZGVwbG95bWVudAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBVc2UgQ29mZmVlU2NyaXB0IGZvciAuY29mZmVlIGFzc2V0cyBhbmQgdmlld3MK</text>
+        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
       </register>
     </registers>
     <search>
