@@ -241,6 +241,7 @@
         <mark key="." line="2" column="42" />
         <mark key="^" line="2" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/spec/models/walmart_product_url_parser_spec.rb" timestamp="1475531267343" />
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/private/target_groups_controller.rb" timestamp="1474707269324">
         <mark key="[" line="0" column="58" />
         <mark key="]" line="0" column="79" />
@@ -381,11 +382,11 @@
         <mark key="." line="7" column="122" />
         <mark key="^" line="17" column="50" />
       </file>
-      <file name="$USER_HOME$/Projects/walmart_reviewer/app/models/walmart_product_url_parser.rb" timestamp="1475516409697">
-        <mark key="[" line="15" column="29" />
-        <mark key="]" line="15" column="29" />
-        <mark key="^" line="15" column="29" />
-        <mark key="." line="15" column="29" />
+      <file name="$USER_HOME$/Projects/walmart_reviewer/app/models/walmart_product_url_parser.rb" timestamp="1475531767379">
+        <mark key="[" line="5" column="30" />
+        <mark key="]" line="5" column="31" />
+        <mark key="^" line="5" column="31" />
+        <mark key="." line="5" column="31" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/seeds.rb" timestamp="1474732290668">
         <mark key="'" line="11" column="19" />
@@ -443,6 +444,11 @@
         <mark key="]" line="4" column="31" />
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/spec/routing/products_routing_spec.rb" timestamp="1475531082433">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/cms/db/migrate/20160906141629_add_permissions_for_AVT_tables_access.rb" timestamp="1473147407176">
         <mark key="[" line="0" column="24" />
@@ -513,7 +519,7 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="/Ruby Console" timestamp="1474741166003">
+      <file name="/Ruby Console" timestamp="1475531310579">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" timestamp="1474650986279">
@@ -541,10 +547,11 @@
         <mark key="^" line="666" column="44" />
         <mark key="." line="674" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/walmart_reviewer/spec/models/walmart_review_url_parser_spec.rb" timestamp="1475509051769">
-        <mark key="[" line="11" column="50" />
-        <mark key="]" line="11" column="50" />
-        <mark key="." line="11" column="50" />
+      <file name="$USER_HOME$/Projects/walmart_reviewer/spec/models/walmart_review_url_parser_spec.rb" timestamp="1475531554630">
+        <mark key="[" line="19" column="81" />
+        <mark key="]" line="19" column="93" />
+        <mark key="." line="19" column="81" />
+        <mark key="^" line="19" column="105" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_size_spec.rb" timestamp="1472545549273">
         <mark key="[" line="1" column="0" />
@@ -558,10 +565,12 @@
         <mark key="^" line="1" column="1" />
         <mark key="." line="1" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/walmart_reviewer/app/models/walmart_review_url_parser.rb" timestamp="1475509027600">
-        <mark key="[" line="19" column="110" />
-        <mark key="]" line="19" column="110" />
-        <mark key="." line="19" column="110" />
+      <file name="$USER_HOME$/Projects/walmart_reviewer/app/models/walmart_review_url_parser.rb" timestamp="1475531428624">
+        <mark key="'" line="19" column="37" />
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="67" />
+        <mark key="." line="41" column="18" />
+        <mark key="^" line="41" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/locations_controller.rb" timestamp="1474701527060">
         <mark key="[" line="2" column="11" />
@@ -604,7 +613,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1475516415360">
+      <file name="/Dummy.txt" timestamp="1475531811597">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" timestamp="1473831152705">
@@ -652,7 +661,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="36" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/currency.rb" />
       <jump line="121" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/currency.rb" />
       <jump line="25" column="0" filename="$APPLICATION_CONFIG_DIR$/consoles/db/966a45a4-b1b3-4631-8703-0a01edd8c477/console.sql" />
       <jump line="34" column="100" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/mobile_device.rb" />
@@ -752,58 +760,58 @@
       <jump line="99" column="8" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
       <jump line="19" column="0" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
       <jump line="87" column="44" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
+      <jump line="19" column="37" filename="$USER_HOME$/Projects/walmart_reviewer/app/models/walmart_review_url_parser.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>Rails</text>
+        <text>&quot;10/15/2013&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>Rails</text>
+        <text>&quot;10/15/2013&quot;</text>
       </register>
       <register name="/" type="4">
-        <text>dashboard</text>
+        <text encoding="base64">XDxyZXZpZXdfaWRcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dGQ+PCU9IG51bWJlcl90b19jdXJyZW5jeSBwcm9kdWN0LnByaWNlICU+PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0ICJyb3V0ZXMgdG8gI2VkaXQiIGRvCiAgICAgIGV4cGVjdCg6Z2V0ID0+ICIvcHJvZHVjdHMvMS9lZGl0IikudG8gcm91dGVfdG8oInByb2R1Y3RzI2VkaXQiLCA6aWQgPT4gIjEiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjY3JlYXRlIiBkbwogICAgICBleHBlY3QoOnBvc3QgPT4gIi9wcm9kdWN0cyIpLnRvIHJvdXRlX3RvKCJwcm9kdWN0cyNjcmVhdGUiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjdXBkYXRlIHZpYSBQVVQiIGRvCiAgICAgIGV4cGVjdCg6cHV0ID0+ICIvcHJvZHVjdHMvMSIpLnRvIHJvdXRlX3RvKCJwcm9kdWN0cyN1cGRhdGUiLCA6aWQgPT4gIjEiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjdXBkYXRlIHZpYSBQQVRDSCIgZG8KICAgICAgZXhwZWN0KDpwYXRjaCA9PiAiL3Byb2R1Y3RzLzEiKS50byByb3V0ZV90bygicHJvZHVjdHMjdXBkYXRlIiwgOmlkID0+ICIxIikKICAgIGVuZAoK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAiUE9TVCAjY3JlYXRlIiBkbwogICAgY29udGV4dCAid2l0aCB2YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJjcmVhdGVzIGEgbmV3IFByb2R1Y3QiIGRvCiAgICAgICAgZXhwZWN0IHsKICAgICAgICAgIHBvc3QgOmNyZWF0ZSwgcGFyYW1zOiB2YWxpZF9hdHRyaWJ1dGVzCiAgICAgICAgfS50byBjaGFuZ2UoUHJvZHVjdCwgOmNvdW50KS5ieSgxKQogICAgICBlbmQKCiAgICAgIGl0ICJyZWRpcmVjdHMgdG8gcHJvZHVjdHMgcGFnZSIgZG8KICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVkaXJlY3RfdG8ocHJvZHVjdHNfdXJsKQogICAgICBlbmQKICAgIGVuZAoKICAgIGNvbnRleHQgIndpdGggaW52YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJkb2Vzbid0IGNyZWF0ZSBhIG5ldyBQcm9kdWN0IiBkbwogICAgICAgIGV4cGVjdCB7CiAgICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIH0ubm90X3RvIGNoYW5nZShQcm9kdWN0LCA6Y291bnQpLmJ5KDEpCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGl0ICJyb3V0ZXMgdG8gI25ldyIgZG8KICAgICAgZXhwZWN0KDpnZXQgPT4gIi9wcm9kdWN0cy9uZXciKS50byByb3V0ZV90bygicHJvZHVjdHMjbmV3IikKICAgIGVuZAoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">KiAK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgdGhlCmFwcGxpY2F0aW9uIHVwIGFuZCBydW5uaW5nLgo=</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">VGhpbmdzIHlvdSBtYXkgd2FudCB0byBjb3ZlcjoKCiogUnVieSB2ZXJzaW9uCgoqIFN5c3RlbSBkZXBlbmRlbmNpZXMKCiogQ29uZmlndXJhdGlvbgoKKiBEYXRhYmFzZSBjcmVhdGlvbgoKKiBEYXRhYmFzZSBpbml0aWFsaXphdGlvbgoKKiBIb3cgdG8gcnVuIHRoZSB0ZXN0IHN1aXRlCgoqIFNlcnZpY2VzIChqb2IgcXVldWVzLCBjYWNoZSBzZXJ2ZXJzLCBzZWFyY2ggZW5naW5lcywgZXRjLikKCiogRGVwbG95bWVudCBpbnN0cnVjdGlvbnMKCiogLi4uCg==</text>
-      </register>
-      <register name="6" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICBkZXNjcmliZSAiUE9TVCAjY3JlYXRlIiBkbwogICAgY29udGV4dCAid2l0aCB2YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJjcmVhdGVzIGEgbmV3IFByb2R1Y3QiIGRvCiAgICAgICAgZXhwZWN0IHsKICAgICAgICAgIHBvc3QgOmNyZWF0ZSwgcGFyYW1zOiB2YWxpZF9hdHRyaWJ1dGVzCiAgICAgICAgfS50byBjaGFuZ2UoUHJvZHVjdCwgOmNvdW50KS5ieSgxKQogICAgICBlbmQKCiAgICAgIGl0ICJyZWRpcmVjdHMgdG8gcHJvZHVjdHMgcGFnZSIgZG8KICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVkaXJlY3RfdG8ocHJvZHVjdHNfdXJsKQogICAgICBlbmQKICAgIGVuZAoKICAgIGNvbnRleHQgIndpdGggaW52YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJkb2Vzbid0IGNyZWF0ZSBhIG5ldyBQcm9kdWN0IiBkbwogICAgICAgIGV4cGVjdCB7CiAgICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIH0ubm90X3RvIGNoYW5nZShQcm9kdWN0LCA6Y291bnQpLmJ5KDEpCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">KiAK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgdGhlCmFwcGxpY2F0aW9uIHVwIGFuZCBydW5uaW5nLgo=</text>
+      </register>
       <register name="7" type="2">
-        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwogIG1vdW50IFJlc3F1ZTo6U2VydmVyLCBhdDogJy9qb2JzJwoK</text>
+        <text encoding="base64">VGhpbmdzIHlvdSBtYXkgd2FudCB0byBjb3ZlcjoKCiogUnVieSB2ZXJzaW9uCgoqIFN5c3RlbSBkZXBlbmRlbmNpZXMKCiogQ29uZmlndXJhdGlvbgoKKiBEYXRhYmFzZSBjcmVhdGlvbgoKKiBEYXRhYmFzZSBpbml0aWFsaXphdGlvbgoKKiBIb3cgdG8gcnVuIHRoZSB0ZXN0IHN1aXRlCgoqIFNlcnZpY2VzIChqb2IgcXVldWVzLCBjYWNoZSBzZXJ2ZXJzLCBzZWFyY2ggZW5naW5lcywgZXRjLikKCiogRGVwbG95bWVudCBpbnN0cnVjdGlvbnMKCiogLi4uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3Rhc2tzJwo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3NlcnZlcicK</text>
+        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwogIG1vdW50IFJlc3F1ZTo6U2VydmVyLCBhdDogJy9qb2JzJwoK</text>
       </register>
     </registers>
     <search>
-      <last-search>dashboard</last-search>
+      <last-search encoding="base64">XDxyZXZpZXdfaWRcPg==</last-search>
       <last-offset />
-      <last-pattern>dashboard</last-pattern>
+      <last-pattern encoding="base64">XDxyZXZpZXdfaWRcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXNlbGVjdF9vYmplY3Rfd2l0aF9pZFw+</entry>
         <entry encoding="base64">XDxkZXNlbGVjdF9yb3dcPg==</entry>
         <entry encoding="base64">XDxzZWxlY3RhYmxlX3dpdGhfdG9nZ2xlXD4=</entry>
         <entry encoding="base64">XDxkZXZpY2VfdHlwZVw+</entry>
@@ -823,6 +831,7 @@
         <entry>fac</entry>
         <entry>api</entry>
         <entry>dashboard</entry>
+        <entry encoding="base64">XDxyZXZpZXdfaWRcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
