@@ -445,6 +445,12 @@
         <mark key="." line="11" column="26" />
         <mark key="^" line="11" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/app/models/product_creator.rb" timestamp="1475498772132">
+        <mark key="[" line="11" column="8" />
+        <mark key="]" line="12" column="70" />
+        <mark key="." line="12" column="70" />
+        <mark key="^" line="12" column="70" />
+      </file>
       <file name="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" timestamp="1474546926154">
         <mark key="[" line="7" column="29" />
         <mark key="]" line="7" column="48" />
@@ -697,11 +703,11 @@
       <jump line="1" column="0" filename="$USER_HOME$/Projects/guardians_destiny/config/secrets.yml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Y2xhc3MgQnVuZ2llQ2xpZW50V3JhcHBlcgogIGNsYXNzIDw8IHNlbGYKICAgIGRlZiBhcGlfa2V5PSh2YWx1ZSkKICAgICAgQGFwaV9rZXkKICAgIGVuZAogIGVuZAplbmQK</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IHRoZW4=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text encoding="base64">IHRoZW4=</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
