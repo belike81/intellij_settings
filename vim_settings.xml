@@ -456,6 +456,12 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/Rakefile" timestamp="1475513178146">
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="20" />
+        <mark key="." line="3" column="20" />
+        <mark key="^" line="3" column="20" />
+      </file>
       <file name="$USER_HOME$/Projects/Cebiro-CRM/config/database.yml" timestamp="1474368189703">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="26" />
@@ -608,6 +614,11 @@
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
       </file>
+      <file name="$USER_HOME$/Projects/walmart_reviewer/config/routes.rb" timestamp="1475513331726">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+      </file>
     </filemarks>
     <jumps>
       <jump line="542" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/assets/javascripts/table_view.js.erb" />
@@ -713,10 +724,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IHByb2R1Y3QucmV2aWV3cy5jb3VudCAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>price</text>
+        <text>require 'resque/tasks'</text>
       </register>
       <register name="/" type="4">
         <text>dashboard</text>
@@ -725,31 +736,31 @@
         <text encoding="base64">ICAgICAgICA8dGQ+PCU9IG51bWJlcl90b19jdXJyZW5jeSBwcm9kdWN0LnByaWNlICU+PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IHByb2R1Y3QucmV2aWV3cy5jb3VudCAlPjwvdGQ+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgPHRoPlJldmlld3M8L3RoPgo=</text>
+        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwogIG1vdW50IFJlc3F1ZTo6U2VydmVyLCBhdDogJy9qb2JzJwoK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBwCg==</text>
+        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3Rhc2tzJwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Y2xhc3MgQnVuZ2llQ2xpZW50V3JhcHBlcgogIGNsYXNzIDw8IHNlbGYKICAgIGRlZiBhcGlfa2V5PSh2YWx1ZSkKICAgICAgQGFwaV9rZXkKICAgIGVuZAogIGVuZAplbmQK</text>
+        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3NlcnZlcicK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">IyBXaW5kb3dzIGRvZXMgbm90IGluY2x1ZGUgem9uZWluZm8gZmlsZXMsIHNvIGJ1bmRsZSB0aGUgdHppbmZvLWRhdGEgZ2VtCmdlbSAndHppbmZvLWRhdGEnLCBwbGF0Zm9ybXM6IFs6bWluZ3csIDptc3dpbiwgOng2NF9taW5ndywgOmpydWJ5XQo=</text>
+        <text encoding="base64">ICByZXF1aXJlICdyZXNxdWUvc2VydmVyJwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAjIFNwcmluZyBzcGVlZHMgdXAgZGV2ZWxvcG1lbnQgYnkga2VlcGluZyB5b3VyIGFwcGxpY2F0aW9uIHJ1bm5pbmcgaW4gdGhlIGJhY2tncm91bmQuIFJlYWQgbW9yZTogaHR0cHM6Ly9naXRodWIuY29tL3JhaWxzL3NwcmluZwo=</text>
+        <text encoding="base64">cmVxdWlyZSAncmVzcXVlL3Rhc2tzJwo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">IyBnZW0gJ2NhcGlzdHJhbm8tcmFpbHMnLCBncm91cDogOmRldmVsb3BtZW50Cg==</text>
+        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IHByb2R1Y3QucmV2aWV3cy5jb3VudCAlPjwvdGQ+Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBVc2UgUmVkaXMgYWRhcHRlciB0byBydW4gQWN0aW9uIENhYmxlIGluIHByb2R1Y3Rpb24KIyBnZW0gJ3JlZGlzJywgJ34+IDMuMCcKIyBVc2UgQWN0aXZlTW9kZWwgaGFzX3NlY3VyZV9wYXNzd29yZAojIGdlbSAnYmNyeXB0JywgJ34+IDMuMS43JwoKIyBVc2UgQ2FwaXN0cmFubyBmb3IgZGVwbG95bWVudAo=</text>
+        <text encoding="base64">ICAgICAgPHRoPlJldmlld3M8L3RoPgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBCdWlsZCBKU09OIEFQSXMgd2l0aCBlYXNlLiBSZWFkIG1vcmU6IGh0dHBzOi8vZ2l0aHViLmNvbS9yYWlscy9qYnVpbGRlcgo=</text>
+        <text encoding="base64">ICAgICAgICBwCg==</text>
       </register>
     </registers>
     <search>
