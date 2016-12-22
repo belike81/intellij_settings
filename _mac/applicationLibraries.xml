@@ -2280,12 +2280,14 @@
     </library>
     <library name="ffi (v1.9.10, rbenv: 1.9.3-p392) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/ffi-1.9.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/ffi-1.9.10/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/ffi-1.9.10/libtest" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/ffi/1.9.10" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/ffi-1.9.10/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/ffi-1.9.10/gen" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/ffi-1.9.10/lib" />
@@ -3018,6 +3020,7 @@
     </library>
     <library name="json (v1.8.3, rbenv: 1.9.3-p392) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
@@ -3027,6 +3030,7 @@
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/json-1.8.3/diagrams" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs193/json/1.8.3" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/json-1.8.3/ext" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/json-1.8.3/lib" />
         <root url="file://$USER_HOME$/.rbenv/versions/1.9.3-p392/lib/ruby/gems/1.9.1/gems/json-1.8.3/data" />
