@@ -618,6 +618,11 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/base.rb" timestamp="1483451427559">
+        <mark key="[" line="72" column="0" />
+        <mark key="]" line="72" column="0" />
+        <mark key="." line="72" column="0" />
+      </file>
       <file name="/Dummy.txt" timestamp="1476194442303">
         <mark key="[" line="0" column="0" />
       </file>
@@ -677,7 +682,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="24" column="23" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/mobile_device.rb" />
       <jump line="3" column="56" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" />
       <jump line="0" column="0" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" />
       <jump line="0" column="53" filename="$USER_HOME$/Desktop/mc2_dev_core_video_player_placement_types.sql" />
@@ -777,58 +781,61 @@
       <jump line="29" column="16" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/Gemfile" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/config/routes.rb" />
       <jump line="25" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/config/routes.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/base.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqb2I6IGxhdGVzdF92ZXJzaW9uLmZldGNoZWRfYXR0cmlidXRlc19yYXcK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text>HEAD</text>
+        <text>def work</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICA8dGQ+PCU9IG51bWJlcl90b19jdXJyZW5jeSBwcm9kdWN0LnByaWNlICU+PC90ZD4K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBqb2I6IGxhdGVzdF92ZXJzaW9uLmZldGNoZWRfYXR0cmlidXRlc19yYXcK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0ICJyb3V0ZXMgdG8gI2VkaXQiIGRvCiAgICAgIGV4cGVjdCg6Z2V0ID0+ICIvcHJvZHVjdHMvMS9lZGl0IikudG8gcm91dGVfdG8oInByb2R1Y3RzI2VkaXQiLCA6aWQgPT4gIjEiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjY3JlYXRlIiBkbwogICAgICBleHBlY3QoOnBvc3QgPT4gIi9wcm9kdWN0cyIpLnRvIHJvdXRlX3RvKCJwcm9kdWN0cyNjcmVhdGUiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjdXBkYXRlIHZpYSBQVVQiIGRvCiAgICAgIGV4cGVjdCg6cHV0ID0+ICIvcHJvZHVjdHMvMSIpLnRvIHJvdXRlX3RvKCJwcm9kdWN0cyN1cGRhdGUiLCA6aWQgPT4gIjEiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjdXBkYXRlIHZpYSBQQVRDSCIgZG8KICAgICAgZXhwZWN0KDpwYXRjaCA9PiAiL3Byb2R1Y3RzLzEiKS50byByb3V0ZV90bygicHJvZHVjdHMjdXBkYXRlIiwgOmlkID0+ICIxIikKICAgIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGl0ICJyb3V0ZXMgdG8gI25ldyIgZG8KICAgICAgZXhwZWN0KDpnZXQgPT4gIi9wcm9kdWN0cy9uZXciKS50byByb3V0ZV90bygicHJvZHVjdHMjbmV3IikKICAgIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBqb2I6IGxhdGVzdF92ZXJzaW9uLmZldGNoZWRfYXR0cmlidXRlc19yYXcK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGl0ICJyb3V0ZXMgdG8gI2VkaXQiIGRvCiAgICAgIGV4cGVjdCg6Z2V0ID0+ICIvcHJvZHVjdHMvMS9lZGl0IikudG8gcm91dGVfdG8oInByb2R1Y3RzI2VkaXQiLCA6aWQgPT4gIjEiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjY3JlYXRlIiBkbwogICAgICBleHBlY3QoOnBvc3QgPT4gIi9wcm9kdWN0cyIpLnRvIHJvdXRlX3RvKCJwcm9kdWN0cyNjcmVhdGUiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjdXBkYXRlIHZpYSBQVVQiIGRvCiAgICAgIGV4cGVjdCg6cHV0ID0+ICIvcHJvZHVjdHMvMSIpLnRvIHJvdXRlX3RvKCJwcm9kdWN0cyN1cGRhdGUiLCA6aWQgPT4gIjEiKQogICAgZW5kCgogICAgaXQgInJvdXRlcyB0byAjdXBkYXRlIHZpYSBQQVRDSCIgZG8KICAgICAgZXhwZWN0KDpwYXRjaCA9PiAiL3Byb2R1Y3RzLzEiKS50byByb3V0ZV90bygicHJvZHVjdHMjdXBkYXRlIiwgOmlkID0+ICIxIikKICAgIGVuZAoK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAiUE9TVCAjY3JlYXRlIiBkbwogICAgY29udGV4dCAid2l0aCB2YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJjcmVhdGVzIGEgbmV3IFByb2R1Y3QiIGRvCiAgICAgICAgZXhwZWN0IHsKICAgICAgICAgIHBvc3QgOmNyZWF0ZSwgcGFyYW1zOiB2YWxpZF9hdHRyaWJ1dGVzCiAgICAgICAgfS50byBjaGFuZ2UoUHJvZHVjdCwgOmNvdW50KS5ieSgxKQogICAgICBlbmQKCiAgICAgIGl0ICJyZWRpcmVjdHMgdG8gcHJvZHVjdHMgcGFnZSIgZG8KICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVkaXJlY3RfdG8ocHJvZHVjdHNfdXJsKQogICAgICBlbmQKICAgIGVuZAoKICAgIGNvbnRleHQgIndpdGggaW52YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJkb2Vzbid0IGNyZWF0ZSBhIG5ldyBQcm9kdWN0IiBkbwogICAgICAgIGV4cGVjdCB7CiAgICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIH0ubm90X3RvIGNoYW5nZShQcm9kdWN0LCA6Y291bnQpLmJ5KDEpCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgIGl0ICJyb3V0ZXMgdG8gI25ldyIgZG8KICAgICAgZXhwZWN0KDpnZXQgPT4gIi9wcm9kdWN0cy9uZXciKS50byByb3V0ZV90bygicHJvZHVjdHMjbmV3IikKICAgIGVuZAoK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">KiAK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgdGhlCmFwcGxpY2F0aW9uIHVwIGFuZCBydW5uaW5nLgo=</text>
+        <text encoding="base64">ICBkZXNjcmliZSAiUE9TVCAjY3JlYXRlIiBkbwogICAgY29udGV4dCAid2l0aCB2YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJjcmVhdGVzIGEgbmV3IFByb2R1Y3QiIGRvCiAgICAgICAgZXhwZWN0IHsKICAgICAgICAgIHBvc3QgOmNyZWF0ZSwgcGFyYW1zOiB2YWxpZF9hdHRyaWJ1dGVzCiAgICAgICAgfS50byBjaGFuZ2UoUHJvZHVjdCwgOmNvdW50KS5ieSgxKQogICAgICBlbmQKCiAgICAgIGl0ICJyZWRpcmVjdHMgdG8gcHJvZHVjdHMgcGFnZSIgZG8KICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIGV4cGVjdChyZXNwb25zZSkudG8gcmVkaXJlY3RfdG8ocHJvZHVjdHNfdXJsKQogICAgICBlbmQKICAgIGVuZAoKICAgIGNvbnRleHQgIndpdGggaW52YWxpZCBwYXJhbXMiIGRvCiAgICAgIGl0ICJkb2Vzbid0IGNyZWF0ZSBhIG5ldyBQcm9kdWN0IiBkbwogICAgICAgIGV4cGVjdCB7CiAgICAgICAgICBwb3N0IDpjcmVhdGUsIHBhcmFtczogdmFsaWRfYXR0cmlidXRlcwogICAgICAgIH0ubm90X3RvIGNoYW5nZShQcm9kdWN0LCA6Y291bnQpLmJ5KDEpCiAgICAgIGVuZAogICAgZW5kCiAgZW5kCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">VGhpbmdzIHlvdSBtYXkgd2FudCB0byBjb3ZlcjoKCiogUnVieSB2ZXJzaW9uCgoqIFN5c3RlbSBkZXBlbmRlbmNpZXMKCiogQ29uZmlndXJhdGlvbgoKKiBEYXRhYmFzZSBjcmVhdGlvbgoKKiBEYXRhYmFzZSBpbml0aWFsaXphdGlvbgoKKiBIb3cgdG8gcnVuIHRoZSB0ZXN0IHN1aXRlCgoqIFNlcnZpY2VzIChqb2IgcXVldWVzLCBjYWNoZSBzZXJ2ZXJzLCBzZWFyY2ggZW5naW5lcywgZXRjLikKCiogRGVwbG95bWVudCBpbnN0cnVjdGlvbnMKCiogLi4uCg==</text>
+        <text encoding="base64">KiAK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">VGhpcyBSRUFETUUgd291bGQgbm9ybWFsbHkgZG9jdW1lbnQgd2hhdGV2ZXIgc3RlcHMgYXJlIG5lY2Vzc2FyeSB0byBnZXQgdGhlCmFwcGxpY2F0aW9uIHVwIGFuZCBydW5uaW5nLgo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>94</text>
       </register>
     </registers>
     <search>
-      <last-search>HEAD</last-search>
+      <last-search>def work</last-search>
       <last-offset />
-      <last-pattern>HEAD</last-pattern>
+      <last-pattern>def work</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxkZXZpY2VfdHlwZVw+</entry>
         <entry>State</entry>
         <entry>sta</entry>
         <entry>con</entry>
@@ -848,9 +855,11 @@
         <entry encoding="base64">XDxyZXZpZXdfaWRcPg==</entry>
         <entry>merge</entry>
         <entry>HEAD</entry>
+        <entry>def work</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
+        <entry>94</entry>
       </history-cmd>
       <history-expr />
       <history-input />
