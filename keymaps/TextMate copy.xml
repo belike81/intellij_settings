@@ -1,12 +1,39 @@
 <keymap version="1" name="TextMate copy" parent="TextMate">
+  <action id="Arrangement.Alias.Rule.Add">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="Arrangement.Rule.Add">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="CloseActiveTab" />
+  <action id="CloseAllEditorsButActive">
+    <keyboard-shortcut first-keystroke="shift meta w" />
+  </action>
   <action id="Console.Execute" />
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
   <action id="EditorChooseLookupItem" />
+  <action id="EditorDown">
+    <keyboard-shortcut first-keystroke="down" />
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="EditorEnter" />
+  <action id="EditorUp">
+    <keyboard-shortcut first-keystroke="up" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="Generate">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="Images.Thumbnails.EnterAction" />
+  <action id="NewElement">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
   <action id="NextTab">
     <keyboard-shortcut first-keystroke="shift meta close_bracket" />
   </action>
@@ -15,6 +42,10 @@
   </action>
   <action id="PreviousTab">
     <keyboard-shortcut first-keystroke="shift meta open_bracket" />
+  </action>
+  <action id="RemoteHost.NewRemoteItem">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="ctrl alt enter" />
@@ -30,5 +61,9 @@
   </action>
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
+  <action id="Uml.NewElement">
+    <keyboard-shortcut first-keystroke="shift meta n" />
+    <keyboard-shortcut first-keystroke="ctrl enter" />
   </action>
 </keymap>

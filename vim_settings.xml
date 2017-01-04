@@ -248,7 +248,6 @@
         <mark key="." line="45" column="0" />
         <mark key="^" line="27" column="3" />
       </file>
-      <file name="/job_version.rb" timestamp="1483456788123" />
       <file name="$USER_HOME$/Projects/global_test_app/config/routes.rb" timestamp="1474734385076">
         <mark key="[" line="6" column="52" />
         <mark key="]" line="6" column="71" />
@@ -369,6 +368,12 @@
         <mark key="]" line="3" column="83" />
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20150505134153_create_job_site_annotations.rb" timestamp="1483525490719">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/tokenizer.rb" timestamp="1474713448594">
         <mark key="[" line="10" column="0" />
@@ -831,11 +836,11 @@
       <jump line="91" column="26" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text encoding="base64">IA==</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">cHJpdmF0ZV9jbGFzc19tZXRob2Qg</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</text>
