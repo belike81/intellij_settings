@@ -1,4 +1,4 @@
-<keymap version="1" name="TextMate copy" parent="TextMate">
+<keymap version="1" name="Belike81" parent="TextMate">
   <action id="Arrangement.Alias.Rule.Add">
     <keyboard-shortcut first-keystroke="shift meta n" />
     <keyboard-shortcut first-keystroke="ctrl enter" />
@@ -21,7 +21,6 @@
     <keyboard-shortcut first-keystroke="down" />
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
-  <action id="EditorEnter" />
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
     <keyboard-shortcut first-keystroke="ctrl p" />

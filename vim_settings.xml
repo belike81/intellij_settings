@@ -328,6 +328,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20170104103325_move_notes_to_job_sites.rb" timestamp="1483526382754">
+        <mark key="[" line="2" column="18" />
+        <mark key="]" line="2" column="17" />
+        <mark key="^" line="2" column="17" />
+        <mark key="." line="2" column="17" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_content_type.rb" timestamp="1473833828052">
         <mark key="[" line="2" column="46" />
         <mark key="]" line="2" column="58" />
@@ -837,10 +843,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>change</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>change</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</text>
