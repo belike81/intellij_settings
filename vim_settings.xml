@@ -483,8 +483,8 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483539057373">
-        <mark key="'" line="81" column="29" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483539880276">
+        <mark key="'" line="66" column="0" />
         <mark key="[" line="6" column="45" />
         <mark key="]" line="8" column="52" />
         <mark key="^" line="8" column="52" />
@@ -766,6 +766,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483539781947">
+        <mark key="'" line="6" column="8" />
+        <mark key="[" line="27" column="64" />
+        <mark key="]" line="27" column="64" />
+        <mark key="." line="27" column="64" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="76" />
@@ -774,11 +780,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/index.html.erb" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" />
-      <jump line="41" column="4" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
-      <jump line="44" column="9" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
       <jump line="7" column="16" filename="$USER_HOME$/Projects/global_test_app/spec/rails_helper.rb" />
       <jump line="2" column="15" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
@@ -874,16 +875,21 @@
       <jump line="78" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="35" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="79" column="29" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="8" column="52" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="55" column="57" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="6" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIHNlcXVlbmNlKDpsZWdhbF9ub3Rlcyl7IHxufCAiTGVnYWwgTm90ZXM6ICN7bn0iIH0KICAgIHNlcXVlbmNlKDpub3Rlcyl7IHxufCAiTm90ZXM6ICN7bn0iIH0K</text>
+      <register name="&quot;" type="4">
+        <text>, legal_notes: []</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;&quot;</text>
+        <text>, legal_notes: []</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU1w+</text>
+        <text encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlbW92ZV9jb2x1bW4gOmpvYl9zaXRlX2Fubm90YXRpb25zLCA6bm90ZXMKICAgIHJlbW92ZV9jb2x1bW4gOmpvYl9zaXRlX2Fubm90YXRpb25zLCA6bGVnYWxfbm90ZXMKCiAgICBhZGRfY29sdW1uIDpqb2Jfc2l0ZXMsIDpub3RlcywgOnRleHQKICAgIGFkZF9jb2x1bW4gOmpvYl9zaXRlcywgOmxlZ2FsX25vdGVzLCA6dGV4dAo=</text>
@@ -920,16 +926,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU1w+</last-search>
+      <last-search encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU1w+</last-pattern>
+      <last-pattern encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3Jrc3RhdGlvbl9jaGFuZ2VfdmFsdWVfaXNfbmlsXD4=</entry>
-        <entry encoding="base64">XDxjaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxhbGxfYXR0cmlidXRlc1w+</entry>
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVfZmV0Y2hlclw+</entry>
@@ -948,6 +952,8 @@
         <entry encoding="base64">XDxtaWdyYXRlX2NvbXBsZXRlbHlcPg==</entry>
         <entry encoding="base64">XDxqb2Jfc2l0ZV9hdHRyaWJ1dGVzXD4=</entry>
         <entry encoding="base64">XDxFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU1w+</entry>
+        <entry encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</entry>
+        <entry encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
