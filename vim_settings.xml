@@ -488,12 +488,12 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483542981336">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483543860367">
         <mark key="'" line="70" column="6" />
-        <mark key="[" line="85" column="97" />
-        <mark key="]" line="85" column="97" />
-        <mark key="." line="85" column="26" />
-        <mark key="^" line="85" column="25" />
+        <mark key="[" line="86" column="87" />
+        <mark key="]" line="86" column="87" />
+        <mark key="." line="86" column="87" />
+        <mark key="^" line="86" column="87" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/location_groups.rb" timestamp="1474648639546">
         <mark key="[" line="3" column="0" />
@@ -771,11 +771,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483539781947">
-        <mark key="'" line="6" column="8" />
-        <mark key="[" line="27" column="64" />
-        <mark key="]" line="27" column="64" />
-        <mark key="." line="27" column="64" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483543889879">
+        <mark key="'" line="34" column="14" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="56" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
         <mark key="[" line="0" column="0" />
@@ -785,7 +785,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="491" column="22" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
       <jump line="488" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
       <jump line="475" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
       <jump line="395" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
@@ -874,7 +873,6 @@
       <jump line="85" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="55" column="57" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="66" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="6" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" />
       <jump line="28" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="3" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="14" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
@@ -885,16 +883,18 @@
       <jump line="36" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="79" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="70" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="6" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" />
+      <jump line="34" column="14" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>pjpp_job_site[:scopes].slice(*EXTRACTED_JOB_SITE_ATTRIBUTES_FROM_SCOPE)</text>
+        <text>, :legal_notes, :note</text>
       </register>
       <register name="-" type="4">
-        <text>pjpp_job_site[:scopes].slice(*EXTRACTED_JOB_SITE_ATTRIBUTES_FROM_SCOPE)</text>
+        <text>, :legal_notes, :note</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2Jfc2l0ZV9hdHRyaWJ1dGVzXD4=</text>
+        <text encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHJlbW92ZV9jb2x1bW4gOmpvYl9zaXRlX2Fubm90YXRpb25zLCA6bm90ZXMKICAgIHJlbW92ZV9jb2x1bW4gOmpvYl9zaXRlX2Fubm90YXRpb25zLCA6bGVnYWxfbm90ZXMKCiAgICBhZGRfY29sdW1uIDpqb2Jfc2l0ZXMsIDpub3RlcywgOnRleHQKICAgIGFkZF9jb2x1bW4gOmpvYl9zaXRlcywgOmxlZ2FsX25vdGVzLCA6dGV4dAo=</text>
@@ -931,9 +931,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2Jfc2l0ZV9hdHRyaWJ1dGVzXD4=</last-search>
+      <last-search encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2Jfc2l0ZV9hdHRyaWJ1dGVzXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -955,10 +955,10 @@
         <entry encoding="base64">XDxub3Rlc1w+</entry>
         <entry encoding="base64">XDxzZXRfbm90ZXNcPg==</entry>
         <entry encoding="base64">XDxtaWdyYXRlX2NvbXBsZXRlbHlcPg==</entry>
-        <entry encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</entry>
         <entry encoding="base64">XDxFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU1w+</entry>
         <entry encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</entry>
         <entry encoding="base64">XDxqb2Jfc2l0ZV9hdHRyaWJ1dGVzXD4=</entry>
+        <entry encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
