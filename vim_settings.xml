@@ -164,11 +164,11 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" timestamp="1483605647628">
-        <mark key="[" line="13" column="44" />
-        <mark key="]" line="13" column="43" />
-        <mark key="." line="13" column="43" />
-        <mark key="^" line="13" column="43" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" timestamp="1483609237878">
+        <mark key="[" line="33" column="37" />
+        <mark key="]" line="33" column="44" />
+        <mark key="." line="33" column="44" />
+        <mark key="^" line="33" column="44" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_interstitial.rb" timestamp="1473833808793">
         <mark key="[" line="2" column="46" />
@@ -440,6 +440,12 @@
         <mark key="." line="39" column="3" />
         <mark key="^" line="39" column="3" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" timestamp="1483610980560">
+        <mark key="[" line="7" column="315" />
+        <mark key="]" line="7" column="354" />
+        <mark key="." line="7" column="354" />
+        <mark key="^" line="7" column="354" />
+      </file>
       <file name="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" timestamp="1475518139066">
         <mark key="'" line="88" column="44" />
         <mark key="[" line="0" column="21" />
@@ -503,8 +509,8 @@
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483545538716">
-        <mark key="'" line="85" column="6" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483609941229">
+        <mark key="'" line="53" column="57" />
         <mark key="[" line="9" column="61" />
         <mark key="]" line="10" column="5" />
         <mark key="." line="10" column="5" />
@@ -700,12 +706,12 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483545425347">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483610353535">
         <mark key="'" line="5" column="19" />
-        <mark key="[" line="8" column="26" />
-        <mark key="]" line="8" column="30" />
-        <mark key="." line="8" column="30" />
-        <mark key="^" line="8" column="30" />
+        <mark key="[" line="8" column="27" />
+        <mark key="]" line="8" column="37" />
+        <mark key="." line="8" column="37" />
+        <mark key="^" line="8" column="37" />
       </file>
       <file name="/dummy.sql" timestamp="1482401995461">
         <mark key="[" line="0" column="0" />
@@ -818,12 +824,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="18" column="6" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
-      <jump line="41" column="22" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
-      <jump line="11" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
-      <jump line="2" column="26" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
-      <jump line="47" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
-      <jump line="5" column="48" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
       <jump line="29" column="2" filename="$USER_HOME$/Projects/global_test_app/app/models/target_evaluator.rb" />
       <jump line="0" column="17" filename="$USER_HOME$/Projects/global_test_app/db/seeds.rb" />
       <jump line="8" column="19" filename="$USER_HOME$/Projects/global_test_app/db/seeds.rb" />
@@ -883,7 +883,6 @@
       <jump line="79" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_site_update.rb" />
       <jump line="27" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="91" column="57" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="78" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="35" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="8" column="52" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="85" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
@@ -918,64 +917,67 @@
       <jump line="23" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
       <jump line="43" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
       <jump line="62" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="18" column="33" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" />
+      <jump line="78" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="33" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="16" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="20" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="38" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="53" column="57" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0KGpvYl9zaXRlLm5vdGVzKS50byBlcSh1cGRhdGVkX2pvYl9zaXRlX25vdGVzKQo=</text>
       </register>
       <register name="-" type="4">
-        <text>create</text>
+        <text>name</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2Jfc2l0ZVw+</text>
+        <text encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</text>
       </register>
-      <register name="0" type="4">
-        <text>pjpp_job_site[:scopes]</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgZXhwZWN0KGpvYl9zaXRlLm5vdGVzKS50byBlcSh1cGRhdGVkX2pvYl9zaXRlX25vdGVzKQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIGl0ICIiCg==</text>
+        <text encoding="base64">ICAgICAgICBub3RlX2F0dHJpYnV0ZXMgPSBwIAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBjb250ZXh0ICJjcmVhdGUiIGRvCg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiZWZvcmUoOmVhY2gpZG8KICAgIGFsbG93KHN5bmNlcikudG8gcmVjZWl2ZSg6cGpwcF9qb2Jfc2l0ZSl7IHBqcHBfam9iX3NpdGUgfQogICAgYWxsb3coc3luY2VyKS50byByZWNlaXZlKDpzbWFydF9leHBpcnlfY29uZil7IEZhY3RvcnlHaXJsLmNyZWF0ZSg6c21hcnRfZXhwaXJ5X2NvbmYpIH0KICAgIGFsbG93KHN5bmNlcikudG8gcmVjZWl2ZSg6Ym90X2NvbmYpeyBGYWN0b3J5R2lybC5jcmVhdGUoOmJvdF9jb25mKSB9CiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgICByZXR1cm4gbmlsIHVubGVzcyBzY29wZQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBsZXQoOnBqcHBfcmVmX2lkKXsgOTAzNiB9Cg==</text>
+        <text encoding="base64">ICAgICAgaXQgImNvcnJlY3RseSBwYXJzZXMgU3RyaW5nIG5vdGUgYXR0cmlidXRlIiBkbwogICAgICAgIGV4cGVjdChzeW5jZXIuYXR0cmlidXRlc1s6bm90ZXNdKS50byBlcSBzY29wZVs6bm90ZXNdCiAgICAgIGVuZAoKICAgICAgaXQgImNvcnJlY3RseSBwYXJzZXMgQXJyYXkgbm90ZSBhdHRyaWJ1dGUiIGRvCiAgICAgICAgZXhwZWN0KHN5bmNlci5hdHRyaWJ1dGVzWzpsZWdhbF9ub3Rlc10pLnRvIGVxICJMZWdhbCBub3RlXG4qKioqKioqXG5cbioqKioqKipcblxuKioqKioqKlxuc29tZXRoaW5nIgogICAgICBlbmQK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoYW5ub3RhdGlvbi5ub3RlcykudG8gYmVfbmlsCiAgICAgICAgZXhwZWN0KGFubm90YXRpb24ubGVnYWxfbm90ZXMpLnRvIGJlX25pbAo=</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3QoYW5ub3RhdGlvbi5ub3RlcykudG8gYmVfbmlsCiAgICAgICAgZXhwZWN0KGFubm90YXRpb24ubGVnYWxfbm90ZXMpLnRvIGJlX25pbAo=</text>
+        <text encoding="base64">ICBsZXQoOnNjb3BlKSBkbwogICAgeyBub3RlczogJ05vdGUnLCBsZWdhbF9ub3RlczogWydMZWdhbCBub3RlJywgbmlsLCAnXG4qKioqKioqXG4nLCAnc29tZXRoaW5nJywgbmlsXSwgc29tZXRoaW5nX2Vsc2U6ICdTb21ldGhpbmcgZWxzZScsIGFub3RoZXJfdmFsdWU6IDMgfS53aXRoX2luZGlmZmVyZW50X2FjY2VzcwogIGVuZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGVkX2F0dHJpYnV0ZXNbOm5vdGVdID0gCiAgICAgICAgICAgIGNvbGxlY3RlZF9hdHRyaWJ1dGVzWzpsZWdhbF9ub3Rlc10gPSBiYWNrdXBfb2xkX2Fubm90YXRpb25zLm1hcCgmOmxlZ2FsX25vdGVzKQo=</text>
+        <text encoding="base64">ICBsZXQoOnN5bmNlcil7IFBqcHA6OlN5bmM6OkpvYlNpdGVOb3Rlc1N5bmNlci5uZXcoc2NvcGUpIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBkZWYgbWVyZ2VkX2Fubm90YXRpb25zX25vdGVzX2F0dHJpYnV0ZXMKICAgICAgICAgICAKICAgICAgICBlbmQKCg==</text>
+        <text encoding="base64">ICBsZXQoOnN5bmNlcil7IFBqcHA6OlN5bmM6OkpvYlNpdGVOb3Rlc1N5bmNlci5uZXcoc2NvcGUpIH0K</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2Jfc2l0ZVw+</last-search>
+      <last-search encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2Jfc2l0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>merge</entry>
-        <entry>HEAD</entry>
-        <entry>def work</entry>
-        <entry encoding="base64">XDxkZXNjcmliZWRfY2xhc3NcPg==</entry>
         <entry encoding="base64">XDxjaGFuZ2VcPg==</entry>
         <entry encoding="base64">XDx3b3Jrc3RhdGlvbl9jaGFuZ2VfdmFsdWVfaXNfbmlsXD4=</entry>
         <entry encoding="base64">XDxjaGFuZ2VzXD4=</entry>
@@ -992,6 +994,10 @@
         <entry encoding="base64">XDxqb2JfYW5ub3RhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxoZWFkaHVudGVyX2luX2RhY2hcPg==</entry>
         <entry encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</entry>
+        <entry encoding="base64">XDxqb2Jfc2l0ZV9hdHRyaWJ1dGVzXD4=</entry>
+        <entry encoding="base64">XDxjcmVhdGVfb3JfdXBkYXRlX2pvYl9zaXRlXD4=</entry>
+        <entry encoding="base64">XDx1cGRhdGVfYXNzb2NpYXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
