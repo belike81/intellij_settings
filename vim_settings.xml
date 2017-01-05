@@ -164,11 +164,11 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" timestamp="1483609237878">
-        <mark key="[" line="33" column="37" />
-        <mark key="]" line="33" column="44" />
-        <mark key="." line="33" column="44" />
-        <mark key="^" line="33" column="44" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" timestamp="1483616090838">
+        <mark key="[" line="9" column="169" />
+        <mark key="]" line="9" column="169" />
+        <mark key="." line="9" column="169" />
+        <mark key="^" line="9" column="169" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_interstitial.rb" timestamp="1473833808793">
         <mark key="[" line="2" column="46" />
@@ -706,12 +706,12 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483610353535">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483616990656">
         <mark key="'" line="5" column="19" />
-        <mark key="[" line="8" column="27" />
-        <mark key="]" line="8" column="37" />
-        <mark key="." line="8" column="37" />
-        <mark key="^" line="8" column="37" />
+        <mark key="[" line="17" column="99" />
+        <mark key="]" line="18" column="20" />
+        <mark key="^" line="18" column="20" />
+        <mark key="." line="18" column="20" />
       </file>
       <file name="/dummy.sql" timestamp="1482401995461">
         <mark key="[" line="0" column="0" />
@@ -810,11 +810,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483544901730">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483615845207">
         <mark key="'" line="54" column="2" />
-        <mark key="[" line="6" column="56" />
-        <mark key="]" line="6" column="56" />
-        <mark key="." line="6" column="56" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="." line="16" column="0" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
         <mark key="[" line="0" column="0" />
@@ -927,46 +927,46 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGpvYl9zaXRlLm5vdGVzKS50byBlcSh1cGRhdGVkX2pvYl9zaXRlX25vdGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWRfbm90ZXMgPSB7IG5vdGVzOiBbXSwgbGVnYWxffQo=</text>
       </register>
       <register name="-" type="4">
-        <text>name</text>
+        <text>P</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KGpvYl9zaXRlLm5vdGVzKS50byBlcSh1cGRhdGVkX2pvYl9zaXRlX25vdGVzKQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgcGFyc2VkX25vdGVzWzpub3Rlc10gPDwgcGFyc2VkX3Njb3BlWzpub3Rlc10K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBwYXJzZWRfbm90ZXMgPSB7IG5vdGVzOiBbXSwgbGVnYWxffQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBub3RlX2F0dHJpYnV0ZXMgPSBwIAo=</text>
+        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICB7fQogICAgICAgIGVuZAo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICBpZiBzY29wZXMK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gbmlsIHVubGVzcyBzY29wZQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgaXQgImNvcnJlY3RseSBwYXJzZXMgU3RyaW5nIG5vdGUgYXR0cmlidXRlIiBkbwogICAgICAgIGV4cGVjdChzeW5jZXIuYXR0cmlidXRlc1s6bm90ZXNdKS50byBlcSBzY29wZVs6bm90ZXNdCiAgICAgIGVuZAoKICAgICAgaXQgImNvcnJlY3RseSBwYXJzZXMgQXJyYXkgbm90ZSBhdHRyaWJ1dGUiIGRvCiAgICAgICAgZXhwZWN0KHN5bmNlci5hdHRyaWJ1dGVzWzpsZWdhbF9ub3Rlc10pLnRvIGVxICJMZWdhbCBub3RlXG4qKioqKioqXG5cbioqKioqKipcblxuKioqKioqKlxuc29tZXRoaW5nIgogICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICAgIHNjb3BlLnNsaWNlKCpFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU19GUk9NX1NDT1BFKS5kZWVwX3N5bWJvbGl6ZV9rZXlzCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBsZXQoOnNjb3BlKSBkbwogICAgeyBub3RlczogJ05vdGUnLCBsZWdhbF9ub3RlczogWydMZWdhbCBub3RlJywgbmlsLCAnXG4qKioqKioqXG4nLCAnc29tZXRoaW5nJywgbmlsXSwgc29tZXRoaW5nX2Vsc2U6ICdTb21ldGhpbmcgZWxzZScsIGFub3RoZXJfdmFsdWU6IDMgfS53aXRoX2luZGlmZmVyZW50X2FjY2VzcwogIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBsZXQoOnN5bmNlcil7IFBqcHA6OlN5bmM6OkpvYlNpdGVOb3Rlc1N5bmNlci5uZXcoc2NvcGUpIH0K</text>
+        <text encoding="base64">ICAgICAgICBub3RlX2F0dHJpYnV0ZXMgPSBwIAo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBsZXQoOnN5bmNlcil7IFBqcHA6OlN5bmM6OkpvYlNpdGVOb3Rlc1N5bmNlci5uZXcoc2NvcGUpIH0K</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name=":" type="4">
-        <text>98</text>
+        <text>18</text>
       </register>
     </registers>
     <search>
@@ -1008,6 +1008,7 @@
         <entry>38</entry>
         <entry>29</entry>
         <entry>98</entry>
+        <entry>18</entry>
       </history-cmd>
       <history-expr />
       <history-input />
