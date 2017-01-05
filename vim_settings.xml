@@ -408,13 +408,12 @@
         <mark key="]" line="8" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" timestamp="1483622938231">
-        <mark key="'" line="62" column="12" />
-        <mark key="[" line="39" column="16" />
-        <mark key="m" line="53" column="12" />
-        <mark key="]" line="39" column="16" />
-        <mark key="." line="39" column="16" />
-        <mark key="^" line="43" column="66" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" timestamp="1483625577484">
+        <mark key="'" line="65" column="12" />
+        <mark key="[" line="46" column="0" />
+        <mark key="m" line="56" column="12" />
+        <mark key="]" line="46" column="0" />
+        <mark key="." line="46" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20150505134153_create_job_site_annotations.rb" timestamp="1483525490719">
         <mark key="[" line="2" column="0" />
@@ -707,12 +706,12 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483623091663">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483625110825">
         <mark key="'" line="5" column="19" />
-        <mark key="[" line="8" column="0" />
-        <mark key="]" line="8" column="19" />
-        <mark key="." line="8" column="0" />
-        <mark key="^" line="18" column="18" />
+        <mark key="[" line="8" column="38" />
+        <mark key="]" line="8" column="42" />
+        <mark key="." line="8" column="42" />
+        <mark key="^" line="8" column="42" />
       </file>
       <file name="/dummy.sql" timestamp="1482401995461">
         <mark key="[" line="0" column="0" />
@@ -783,11 +782,11 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_annotations/merge_spec.rb" timestamp="1483604105861">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_annotations/merge_spec.rb" timestamp="1483625733008">
         <mark key="[" line="43" column="15" />
-        <mark key="]" line="43" column="22" />
-        <mark key="." line="43" column="22" />
-        <mark key="^" line="43" column="22" />
+        <mark key="]" line="43" column="25" />
+        <mark key="." line="43" column="25" />
+        <mark key="^" line="43" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/job_supply_api.rb" timestamp="1483091408538">
         <mark key="[" line="53" column="0" />
@@ -931,43 +930,43 @@
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="-" type="4">
-        <text>s</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzY29wZXNcPg==</text>
       </register>
       <register name="0" type="4">
-        <text>[:notes, :legal_notes]</text>
+        <text>backup_old_annotations</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleS50b19zLnBsdXJhbGl6ZS50b19zeW0K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcGVzIDw8IAo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNjb3BlID0gewogICAgICAgICAgICBub3RlOiBiYWNrdXBfb2xkX2Fubm90YXRpb25zLm1hcCgmOm5vdGVzKSwKICAgICAgICAgICAgbGVnYWxfbm90ZXM6IGJhY2t1cF9vbGRfYW5ub3RhdGlvbnMubWFwKCY6bGVnYWxfbm90ZXMpCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3luY2VyLmF0dHJpYnV0ZXMudmFsdWVzKS50byBiZV9uaWwK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBQanBwOjpTeW5jczo6Sm9iU2l0ZU5vdGVzU3luY2VyOjoK</text>
-      </register>
-      <register name="9" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgICAgICAgIGtleS50b19zLnBsdXJhbGl6ZS50b19zeW0K</text>
+      </register>
       <register name=":" type="4">
-        <text>81</text>
+        <text>43</text>
       </register>
     </registers>
     <search>
@@ -1011,6 +1010,7 @@
         <entry>98</entry>
         <entry>18</entry>
         <entry>81</entry>
+        <entry>43</entry>
       </history-cmd>
       <history-expr />
       <history-input />
