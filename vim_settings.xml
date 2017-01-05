@@ -408,12 +408,12 @@
         <mark key="]" line="8" column="41" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" timestamp="1483546035102">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" timestamp="1483622938231">
         <mark key="'" line="62" column="12" />
-        <mark key="[" line="43" column="66" />
+        <mark key="[" line="39" column="16" />
         <mark key="m" line="53" column="12" />
-        <mark key="]" line="43" column="66" />
-        <mark key="." line="43" column="66" />
+        <mark key="]" line="39" column="16" />
+        <mark key="." line="39" column="16" />
         <mark key="^" line="43" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20150505134153_create_job_site_annotations.rb" timestamp="1483525490719">
@@ -707,12 +707,12 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483620920916">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483623091663">
         <mark key="'" line="5" column="19" />
-        <mark key="[" line="17" column="101" />
-        <mark key="]" line="17" column="102" />
-        <mark key="." line="17" column="102" />
-        <mark key="^" line="17" column="102" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="19" />
+        <mark key="." line="8" column="0" />
+        <mark key="^" line="18" column="18" />
       </file>
       <file name="/dummy.sql" timestamp="1482401995461">
         <mark key="[" line="0" column="0" />
@@ -927,8 +927,8 @@
       <jump line="7" column="306" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>s</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="-" type="4">
         <text>s</text>
@@ -940,31 +940,31 @@
         <text>[:notes, :legal_notes]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleS50b19zLnBsdXJhbGl6ZS50b19zeW0K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGtleS50b19zLnBsdXJhbGl6ZS50b19zeW0K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3luY2VyLmF0dHJpYnV0ZXMudmFsdWVzKS50byBiZV9uaWwK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBQanBwOjpTeW5jczo6Sm9iU2l0ZU5vdGVzU3luY2VyOjoK</text>
-      </register>
-      <register name="8" type="2">
+      <register name="5" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBleHBlY3Qoc3luY2VyLmF0dHJpYnV0ZXMudmFsdWVzKS50byBiZV9uaWwK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBQanBwOjpTeW5jczo6Sm9iU2l0ZU5vdGVzU3luY2VyOjoK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBlbHNlCiAgICAgICAgICBub3RlX3N0cmluZ3MKICAgICAgICBlbmQK</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>81</text>
