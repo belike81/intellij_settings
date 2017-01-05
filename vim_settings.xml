@@ -15,7 +15,7 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1483603806714">
+      <file name="/a.dummy" timestamp="1483544214230">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/target_group.rb" timestamp="1474699422314">
@@ -210,6 +210,11 @@
         <mark key="." line="0" column="71" />
         <mark key="^" line="0" column="78" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_site_update.rb" timestamp="1483529400144">
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/lib/provider_price_fetcher.rb" timestamp="1474723928929">
         <mark key="'" line="24" column="22" />
         <mark key="[" line="16" column="10" />
@@ -237,6 +242,11 @@
         <mark key="]" line="21" column="0" />
         <mark key="." line="21" column="0" />
         <mark key="^" line="17" column="3" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/factories/job_site_annotation_factory.rb" timestamp="1483530012042">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" timestamp="1474741432561">
         <mark key="'" line="47" column="0" />
@@ -301,11 +311,20 @@
         <mark key="^" line="364" column="31" />
         <mark key="." line="364" column="31" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/attribute_merging.rb" timestamp="1483544864536">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="11" />
+        <mark key="." line="6" column="11" />
+        <mark key="^" line="6" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_state_spec.rb" timestamp="1472545368379">
         <mark key="[" line="0" column="20" />
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" timestamp="1483527869547">
+        <mark key="'" line="525" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/features/step_definitions/web_steps.rb" timestamp="1472564503676">
         <mark key="[" line="182" column="40" />
@@ -330,6 +349,12 @@
         <mark key="]" line="0" column="26" />
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20170104103325_move_notes_to_job_sites.rb" timestamp="1483528144562">
+        <mark key="[" line="1" column="6" />
+        <mark key="]" line="1" column="11" />
+        <mark key="." line="1" column="11" />
+        <mark key="^" line="1" column="11" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_content_type.rb" timestamp="1473833828052">
         <mark key="[" line="2" column="46" />
@@ -371,6 +396,19 @@
         <mark key="]" line="3" column="83" />
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/factories/job_site_factory.rb" timestamp="1483530014789">
+        <mark key="[" line="7" column="0" />
+        <mark key="]" line="8" column="41" />
+        <mark key="." line="7" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" timestamp="1483546035102">
+        <mark key="'" line="62" column="12" />
+        <mark key="[" line="43" column="66" />
+        <mark key="m" line="53" column="12" />
+        <mark key="]" line="43" column="66" />
+        <mark key="." line="43" column="66" />
+        <mark key="^" line="43" column="66" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20150505134153_create_job_site_annotations.rb" timestamp="1483525490719">
         <mark key="[" line="2" column="0" />
@@ -458,6 +496,13 @@
         <mark key="]" line="4" column="2" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483545538716">
+        <mark key="'" line="85" column="6" />
+        <mark key="[" line="9" column="61" />
+        <mark key="]" line="10" column="5" />
+        <mark key="." line="10" column="5" />
+        <mark key="^" line="10" column="5" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/location_groups.rb" timestamp="1474648639546">
         <mark key="[" line="3" column="0" />
@@ -649,6 +694,13 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1483545425347">
+        <mark key="'" line="5" column="19" />
+        <mark key="[" line="8" column="26" />
+        <mark key="]" line="8" column="30" />
+        <mark key="." line="8" column="30" />
+        <mark key="^" line="8" column="30" />
+      </file>
       <file name="/dummy.sql" timestamp="1482401995461">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
@@ -707,6 +759,12 @@
         <mark key="." line="14" column="70" />
         <mark key="^" line="14" column="70" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_site_active_type.rb" timestamp="1483529645453">
+        <mark key="[" line="55" column="21" />
+        <mark key="]" line="55" column="41" />
+        <mark key="." line="55" column="41" />
+        <mark key="^" line="55" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/job_supply_api.rb" timestamp="1483091408538">
         <mark key="[" line="53" column="0" />
         <mark key="]" line="53" column="0" />
@@ -729,6 +787,12 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483544901730">
+        <mark key="'" line="54" column="2" />
+        <mark key="[" line="6" column="56" />
+        <mark key="]" line="6" column="56" />
+        <mark key="." line="6" column="56" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="76" />
@@ -737,47 +801,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="15" column="6" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/design_patterns_helper.rb" />
-      <jump line="43" column="29" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/application.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/application.js" />
-      <jump line="9" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/application.css.scss" />
-      <jump line="148" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/ui_tabs_scrollable.css" />
-      <jump line="40" column="8" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
-      <jump line="182" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
-      <jump line="25" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
-      <jump line="185" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/javascripts/ui_tabs_scrollable.js" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/index.html.erb" />
-      <jump line="27" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" />
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/Cebiro-CRM/app/views/users/show.html.erb" />
-      <jump line="41" column="4" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
-      <jump line="44" column="9" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
-      <jump line="14" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight_setup_spreadsheet.rb" />
-      <jump line="7" column="16" filename="$USER_HOME$/Projects/global_test_app/spec/rails_helper.rb" />
-      <jump line="2" column="15" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
-      <jump line="1" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
-      <jump line="4" column="4" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
-      <jump line="3" column="17" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
-      <jump line="0" column="20" filename="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" />
-      <jump line="12" column="34" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
-      <jump line="491" column="22" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
-      <jump line="488" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
-      <jump line="475" column="0" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
-      <jump line="395" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
-      <jump line="46" column="13" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
-      <jump line="37" column="15" filename="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/config/routes.rb" />
-      <jump line="14" column="23" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
-      <jump line="4" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
-      <jump line="15" column="4" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
-      <jump line="33" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/target_groups_controller_spec.rb" />
-      <jump line="5" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/target_groups_controller_spec.rb" />
-      <jump line="0" column="6" filename="$USER_HOME$/Projects/global_test_app/lib/json_web_token.rb" />
-      <jump line="4" column="32" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/locations_controller_spec.rb" />
-      <jump line="42" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/locations_controller_spec.rb" />
-      <jump line="296" column="0" filename="$USER_HOME$/.rbenv/versions/2.1.10/lib/ruby/gems/2.1.0/gems/actionpack-4.2.0/lib/action_dispatch/http/request.rb" />
-      <jump line="17" column="22" filename="$USER_HOME$/Projects/global_test_app/lib/provider_price_fetcher.rb" />
-      <jump line="9" column="89" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
-      <jump line="2" column="21" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
       <jump line="18" column="6" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
       <jump line="41" column="22" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
       <jump line="11" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
@@ -837,80 +860,121 @@
       <jump line="82" column="34" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" />
       <jump line="88" column="24" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" />
       <jump line="91" column="26" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" />
+      <jump line="342" column="16" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" />
+      <jump line="525" column="16" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" />
+      <jump line="41" column="4" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_site_update.rb" />
+      <jump line="79" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_site_update.rb" />
+      <jump line="27" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="91" column="57" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="78" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="35" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="8" column="52" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="85" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="55" column="57" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="66" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="3" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="14" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="100" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="12" column="32" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="80" column="31" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="81" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="36" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="79" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="70" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="6" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" />
+      <jump line="34" column="14" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" />
+      <jump line="42" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="36" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="20" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="21" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="28" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="53" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="29" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="54" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" />
+      <jump line="10" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="89" column="40" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="12" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
+      <jump line="5" column="19" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
+      <jump line="86" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
+      <jump line="48" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="30" column="28" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="23" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="43" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
+      <jump line="62" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</text>
+        <text encoding="base64">XDxqb2Jfc2l0ZVw+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICA8dGQ+PCU9IG51bWJlcl90b19jdXJyZW5jeSBwcm9kdWN0LnByaWNlICU+PC90ZD4K</text>
+      <register name="0" type="4">
+        <text>pjpp_job_site[:scopes]</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgY29sbGVjdGVkX2F0dHJpYnV0ZXNbOm5vdGVdID0gCiAgICAgICAgICAgIGNvbGxlY3RlZF9hdHRyaWJ1dGVzWzpsZWdhbF9ub3Rlc10gPSBiYWNrdXBfb2xkX2Fubm90YXRpb25zLm1hcCgmOmxlZ2FsX25vdGVzKQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGVfY2xhc3NfbWV0aG9kIGRlZiBzZWxmLmJlbmNobWFyawogICAgICBXT1JLU1RBVElPTl9CRU5DSE1BUksKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgICBkZWYgbWVyZ2VkX2Fubm90YXRpb25zX25vdGVzX2F0dHJpYnV0ZXMKICAgICAgICAgICAKICAgICAgICBlbmQKCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgRVhUUkFDVEVEX0pPQl9TSVRFX0FUVFJJQlVURVNfRlJPTV9TQ09QRSA9IFsgOm5vdGVzLCA6bGVnYWxfbm90ZXMgXS5mcmVlemUKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLnJlY29nbml0aW9uX3Rva2VuCiAgICAgIFJFQ09HTklUSU9OX1RPS0VOCiAgICBlbmQKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLmRhY2hfY3BjX2RlYWw/KGNvdW50cnlfbmFtZSwgY3BjX2RlYWwpCiAgICAgIGNvdW50cnlfbmFtZSAmJiAldyhkZSBhdCBjaCkuaW5jbHVkZT8oY291bnRyeV9uYW1lLmRvd25jYXNlKSAmJiBjcGNfZGVhbAogICAgZW5kCgogICAgZGVmIHNlbGYuaGVhZGh1bnRlcl9pbl9kYWNoPyhzb3VyY2VfY291bnRyeSwgY3BjX2RlYWwsIHdjX2NvdW50cnlfbmFtZSwgd2NfcG9zdGVyX2NvbXBhbnkpCiAgICAgIHJldHVybiBmYWxzZSB1bmxlc3Mgd2NfcG9zdGVyX2NvbXBhbnkucHJlc2VudD8KICAgICAgc291cmNlX2V4Y2x1ZGVkID0gZGFjaF9jcGNfZGVhbD8oc291cmNlX2NvdW50cnkudHJ5KDpuYW1lKSwgY3BjX2RlYWwpCiAgICAgIHVubGVzcyBzb3VyY2VfY291bnRyeQogICAgICAgIGNvdW50cnlfbmFtZSA9IHdjX2NvdW50cnlfbmFtZQogICAgICAgIGNoYW5nZV9leGNsdWRlZCA9IGRhY2hfY3BjX2RlYWw/KGNvdW50cnlfbmFtZSwgY3BjX2RlYWwpCiAgICAgIGVuZAogICAgICAhIShzb3VyY2VfZXhjbHVkZWQgfHwgY2hhbmdlX2V4Y2x1ZGVkKQogICAgZW5kCgo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgZGVmIGF0dHJpYnV0ZXMKICAgICAgZW5kCiAgICAgIAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICBAc2NvcGUgPSBzY29wZQo=</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBub3RlX2F0dHJpYnV0ZXMgPSBwanBwX2pvYl9zaXRlWzpzY29wZXNdLnNsaWNlKCpFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU19GUk9NX1NDT1BFKQogICAgICAgIG5vdGVfYXR0cmlidXRlcy51cGRhdGUobm90ZV9hdHRyaWJ1dGVzKSB7IHxrZXksIHZhbHVlfCBqb2luX25vdGVfc3RyaW5ncyh2YWx1ZSkgfQo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLmJlbmNobWFyawogICAgICBXT1JLU1RBVElPTl9CRU5DSE1BUksKICAgIGVuZAoK</text>
+        <text encoding="base64">ICAgICAgZGVmIGpvYl9zaXRlX25vdGVfYXR0cmlidXRlcwogICAgICAgIG5vdGVfYXR0cmlidXRlcyA9IHBqcHBfam9iX3NpdGVbOnNjb3Blc10uc2xpY2UoKkVYVFJBQ1RFRF9KT0JfU0lURV9BVFRSSUJVVEVTX0ZST01fU0NPUEUpCiAgICAgICAgbm90ZV9hdHRyaWJ1dGVzLnVwZGF0ZShub3RlX2F0dHJpYnV0ZXMpIHsgfGtleSwgdmFsdWV8IGpvaW5fbm90ZV9zdHJpbmdzKHZhbHVlKSB9CiAgICAgIGVuZAoKICAgICAgZGVmIGpvaW5fbm90ZV9zdHJpbmdzKG5vdGVfc3RyaW5ncykKICAgICAgICByZXR1cm4gbmlsIHVubGVzcyBub3RlX3N0cmluZ3MucHJlc2VudD8KICAgICAgICBqb2luZWRfbm90ZV9zdHJpbmcgPSBub3RlX3N0cmluZ3MuY29tcGFjdC51bmlxLmpvaW4oIlxuKioqKioqKlxuIikKICAgICAgICBqb2luZWRfbm90ZV9zdHJpbmcucHJlc2VudD8gPyBqb2luZWRfbm90ZV9zdHJpbmcgOiBuaWwKICAgICAgZW5kCgo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBleHRyYWN0ZWRfYXR0cmlidXRlcy5tZXJnZShqb2Jfc2l0ZV9ub3RlX2F0dHJpYnV0ZXMpCg==</text>
       </register>
       <register name=":" type="4">
         <text>98</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</last-search>
+      <last-search encoding="base64">XDxqb2Jfc2l0ZVw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxqb2Jfc2l0ZVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry>merge</entry>
-        <entry>HEAD</entry>
-        <entry>def work</entry>
-        <entry encoding="base64">XDxkZXNjcmliZWRfY2xhc3NcPg==</entry>
-        <entry encoding="base64">XDxjaGFuZ2VcPg==</entry>
-        <entry encoding="base64">XDx3b3Jrc3RhdGlvbl9jaGFuZ2VfdmFsdWVfaXNfbmlsXD4=</entry>
-        <entry encoding="base64">XDxjaGFuZ2VzXD4=</entry>
-        <entry encoding="base64">XDxhbGxfYXR0cmlidXRlc1w+</entry>
-        <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
-        <entry encoding="base64">XDxhdHRyaWJ1dGVfZmV0Y2hlclw+</entry>
-        <entry>pry</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX2Fubm90YXRpb25zXD4=</entry>
-        <entry encoding="base64">XDxzZXRfY29uZmlkZW50X2F0dHJpYnV0ZXNcPg==</entry>
-        <entry encoding="base64">XDx1cGRhdGVfYWxsX2F0dHJpYnV0ZXNcPg==</entry>
-        <entry encoding="base64">XDxyZXF1aXJlZF9qb2JfYXR0cmlidXRlc1w+</entry>
-        <entry encoding="base64">XDxsb2NhdGlvbl9hbm5vdGF0aW9uXD4=</entry>
-        <entry encoding="base64">XDxwcm9jZXNzX2Fubm90YXRpb25cPg==</entry>
         <entry encoding="base64">XDxqb2JfYW5ub3RhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxoZWFkaHVudGVyX2luX2RhY2hcPg==</entry>
         <entry encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</entry>
+        <entry encoding="base64">XDxub3Rlc1w+</entry>
+        <entry encoding="base64">XDxzZXRfbm90ZXNcPg==</entry>
+        <entry encoding="base64">XDxFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU1w+</entry>
+        <entry encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</entry>
+        <entry encoding="base64">XDxqb2Jfc2l0ZV9hdHRyaWJ1dGVzXD4=</entry>
+        <entry encoding="base64">XDxFWFRSQUNURURfU0NPUEVfQVRUUklCVVRFU1w+</entry>
+        <entry encoding="base64">XDxtZXJnZWRfYW5ub3RhdGlvbnNfYXR0cmlidXRlc1w+</entry>
+        <entry encoding="base64">XDxjcmVhdGVfbWVyZ2VkX2Fubm90YXRpb25cPg==</entry>
+        <entry encoding="base64">XDxiYWNrdXBfb2xkX2Fubm90YXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxkZWxldGVfb2xkX2Fubm90YXRpb25zXD4=</entry>
+        <entry encoding="base64">XDxtaWdyYXRlX2NvbXBsZXRlbHlcPg==</entry>
+        <entry encoding="base64">XDxFWFRSQUNURURfSk9CX1NJVEVfQVRUUklCVVRFU19GUk9NX1NDT1BFXD4=</entry>
+        <entry encoding="base64">XDxhdHRyaWJ1dGVzXD4=</entry>
+        <entry encoding="base64">XDxiZWdpblw+</entry>
+        <entry encoding="base64">XDxfbWVyZ2VkX2Fubm90YXRpb25fYXR0cmlidXRlc1w+</entry>
+        <entry encoding="base64">XDx1cGRhdGVfam9ic2l0ZV9ub3Rlc1w+</entry>
+        <entry encoding="base64">XDxqb2Jfc2l0ZVw+</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
@@ -921,6 +985,7 @@
         <entry>38</entry>
         <entry>29</entry>
         <entry>98</entry>
+        <entry>wincmd j</entry>
       </history-cmd>
       <history-expr />
       <history-input />
