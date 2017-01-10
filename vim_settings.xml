@@ -810,6 +810,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" timestamp="1484047366094">
+        <mark key="[" line="30" column="0" />
+        <mark key="]" line="30" column="0" />
+        <mark key="." line="30" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483615845207">
         <mark key="'" line="54" column="2" />
         <mark key="[" line="16" column="0" />
@@ -927,7 +932,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIDxzdHJvbmc+PC9zdHJvbmc+Cg==</text>
       </register>
       <register name="-" type="4">
         <text>)</text>
@@ -939,31 +944,31 @@
         <text>backup_old_annotations</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgIDxzdHJvbmc+PC9zdHJvbmc+Cg==</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NvcGVzIDw8IAo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlID0gewogICAgICAgICAgICBub3RlOiBiYWNrdXBfb2xkX2Fubm90YXRpb25zLm1hcCgmOm5vdGVzKSwKICAgICAgICAgICAgbGVnYWxfbm90ZXM6IGJhY2t1cF9vbGRfYW5ub3RhdGlvbnMubWFwKCY6bGVnYWxfbm90ZXMpCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgc2NvcGVzIDw8IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNjb3BlID0gewogICAgICAgICAgICBub3RlOiBiYWNrdXBfb2xkX2Fubm90YXRpb25zLm1hcCgmOm5vdGVzKSwKICAgICAgICAgICAgbGVnYWxfbm90ZXM6IGJhY2t1cF9vbGRfYW5ub3RhdGlvbnMubWFwKCY6bGVnYWxfbm90ZXMpCiAgICAgICAgICB9Cg==</text>
       </register>
       <register name="8" type="2">
         <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGtleS50b19zLnBsdXJhbGl6ZS50b19zeW0K</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
