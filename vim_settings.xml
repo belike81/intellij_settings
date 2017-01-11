@@ -18,6 +18,13 @@
       <file name="/a.dummy" timestamp="1483544214230">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="/description_service_spec.rb" timestamp="1484126570510">
+        <mark key="[" line="9" column="0" />
+        <mark key="]" line="9" column="269" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1484126912707">
+        <mark key="'" line="531" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/target_group.rb" timestamp="1474699422314">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
@@ -195,6 +202,13 @@
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" timestamp="1484126841312">
+        <mark key="'" line="11" column="9" />
+        <mark key="[" line="21" column="0" />
+        <mark key="]" line="21" column="0" />
+        <mark key="^" line="22" column="7" />
+        <mark key="." line="21" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/lib/shareable.rb" timestamp="1473832740719">
         <mark key="'" line="9" column="0" />
@@ -662,7 +676,6 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/bot_conf/bot_conf_controller.js" timestamp="1484121582124" />
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/industry_finder.rb" timestamp="1483459605905">
         <mark key="[" line="28" column="0" />
         <mark key="]" line="28" column="0" />
@@ -826,11 +839,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
-      <jump line="82" column="39" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
-      <jump line="62" column="2" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
-      <jump line="99" column="8" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
-      <jump line="19" column="0" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
       <jump line="87" column="44" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
       <jump line="19" column="37" filename="$USER_HOME$/Projects/walmart_reviewer/app/models/walmart_review_url_parser.rb" />
       <jump line="0" column="421" filename="$APPLICATION_CONFIG_DIR$/consoles/db/483bb0e5-ee37-41b3-bb56-50579a021bb3/console.sql" />
@@ -926,62 +934,65 @@
       <jump line="64" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
       <jump line="7" column="306" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/user/edit.html" />
+      <jump line="34" column="37" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" />
+      <jump line="37" column="37" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" />
+      <jump line="11" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" />
+      <jump line="35" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
+      <jump line="531" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIDxzdHJvbmc+PC9zdHJvbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>)</text>
+        <text>job_version.all_attributes = valid_desc_hash</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzY29wZXNcPg==</text>
+        <text encoding="base64">XDxodG1sX3dpdGhfdGFibGVcPg==</text>
       </register>
-      <register name="0" type="4">
-        <text>backup_old_annotations</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICBqb2JfdmVyc2lvbi5hbGxfYXR0cmlidXRlcyA9IHVuc2FmZV9odG1sX2xpbmsK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxzdHJvbmc+PC9zdHJvbmc+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JleyAgfQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JleyAgfQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoQXR0cmlidXRlRmV0Y2hlcikudG8gcmVjZWl2ZSg6ZmV0Y2hfYWxzb19ub3RfY29uZmlkZW50KS5hbmRfcmV0dXJuKGh0bWxfd2l0aF90YWJsZSkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgc2NvcGVzIDw8IAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgIHNjb3BlID0gewogICAgICAgICAgICBub3RlOiBiYWNrdXBfb2xkX2Fubm90YXRpb25zLm1hcCgmOm5vdGVzKSwKICAgICAgICAgICAgbGVnYWxfbm90ZXM6IGJhY2t1cF9vbGRfYW5ub3RhdGlvbnMubWFwKCY6bGVnYWxfbm90ZXMpCiAgICAgICAgICB9Cg==</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoQXR0cmlidXRlRmV0Y2hlcikudG8gcmVjZWl2ZSg6ZmV0Y2hfYWxzb19ub3RfY29uZmlkZW50KS5hbmRfcmV0dXJuKHVuc2FmZV9odG1sX2xpbmspCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JleyBqb2JfdmVyc2lvbi5hbGxfYXR0cmlidXRlcyA9IHVuc2FmZV9odG0gfQoK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">ICAgICAgICBhbGxvd19hbnlfaW5zdGFuY2Vfb2YoQXR0cmlidXRlRmV0Y2hlcikudG8gcmVjZWl2ZSg6ZmV0Y2hfYWxzb19ub3RfY29uZmlkZW50KS5hbmRfcmV0dXJuKHVuc2FmZV9odG1sX2xpbmspCg==</text>
       </register>
       <register name=":" type="4">
         <text>43</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzY29wZXNcPg==</last-search>
+      <last-search encoding="base64">XDxodG1sX3dpdGhfdGFibGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzY29wZXNcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxodG1sX3dpdGhfdGFibGVcPg==</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx3b3Jrc3RhdGlvbl9jaGFuZ2VfdmFsdWVfaXNfbmlsXD4=</entry>
-        <entry encoding="base64">XDxjaGFuZ2VzXD4=</entry>
         <entry encoding="base64">XDxhbGxfYXR0cmlidXRlc1w+</entry>
         <entry encoding="base64">XDx2ZXJzaW9uXD4=</entry>
         <entry encoding="base64">XDxhdHRyaWJ1dGVfZmV0Y2hlclw+</entry>
@@ -1000,6 +1011,8 @@
         <entry encoding="base64">XDx1cGRhdGVfYXNzb2NpYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</entry>
         <entry encoding="base64">XDxzY29wZXNcPg==</entry>
+        <entry encoding="base64">XDx1bnNhZmVfaHRtbF9saW5rXD4=</entry>
+        <entry encoding="base64">XDxodG1sX3dpdGhfdGFibGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
