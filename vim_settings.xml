@@ -781,8 +781,8 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" timestamp="1484115923189">
-        <mark key="'" line="14" column="0" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" timestamp="1484120363719">
+        <mark key="'" line="19" column="50" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483544901730">
         <mark key="'" line="54" column="2" />
@@ -798,8 +798,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="41" column="22" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
-      <jump line="11" column="2" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
       <jump line="2" column="26" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
       <jump line="47" column="0" filename="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" />
       <jump line="5" column="48" filename="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" />
@@ -898,6 +896,8 @@
       <jump line="43" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
       <jump line="62" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
       <jump line="14" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" />
+      <jump line="11" column="14" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" />
+      <jump line="19" column="50" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -907,7 +907,7 @@
         <text>)</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxqb2Jfc2l0ZVw+</text>
+        <text encoding="base64">XDxwcm92aWRlclw+</text>
       </register>
       <register name="0" type="4">
         <text>pjpp_job_site[:scopes]</text>
@@ -944,15 +944,14 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxqb2Jfc2l0ZVw+</last-search>
+      <last-search encoding="base64">XDxwcm92aWRlclw+</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxqb2Jfc2l0ZVw+</last-pattern>
+      <last-pattern encoding="base64">XDxwcm92aWRlclw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxqb2JfYW5ub3RhdGlvbnNcPg==</entry>
         <entry encoding="base64">XDxoZWFkaHVudGVyX2luX2RhY2hcPg==</entry>
         <entry encoding="base64">XDxkYWNoX2NwY19kZWFsXD4=</entry>
         <entry encoding="base64">XDxub3Rlc1w+</entry>
@@ -972,6 +971,7 @@
         <entry encoding="base64">XDxfbWVyZ2VkX2Fubm90YXRpb25fYXR0cmlidXRlc1w+</entry>
         <entry encoding="base64">XDx1cGRhdGVfam9ic2l0ZV9ub3Rlc1w+</entry>
         <entry encoding="base64">XDxqb2Jfc2l0ZVw+</entry>
+        <entry encoding="base64">XDxwcm92aWRlclw+</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
