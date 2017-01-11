@@ -36,6 +36,9 @@
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="4" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/user/edit.html" timestamp="1484122711623">
+        <mark key="'" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/flight_setup_spreadsheets/_advanced_video_targeting.html.erb" timestamp="1471435050772">
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="4" />
@@ -823,7 +826,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="0" filename="$USER_HOME$/Projects/guardians_destiny/config/secrets.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
       <jump line="82" column="39" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
       <jump line="62" column="2" filename="$USER_HOME$/Projects/walmart_reviewer/spec/spec_helper.rb" />
@@ -923,6 +925,7 @@
       <jump line="49" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
       <jump line="64" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
       <jump line="7" column="306" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/user/edit.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
