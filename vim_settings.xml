@@ -26,8 +26,8 @@
         <mark key="'" line="531" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/language_finder.rb" timestamp="1484147354009">
-        <mark key="[" line="34" column="12" />
-        <mark key="]" line="34" column="48" />
+        <mark key="[" line="35" column="12" />
+        <mark key="]" line="35" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/target_group.rb" timestamp="1474699422314">
         <mark key="[" line="4" column="36" />
@@ -152,12 +152,6 @@
         <mark key="]" line="2" column="120" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="94" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/description_service.rb" timestamp="1484147397635">
-        <mark key="'" line="10" column="13" />
-        <mark key="[" line="38" column="0" />
-        <mark key="]" line="38" column="0" />
-        <mark key="." line="38" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/application.css.scss" timestamp="1474288048179">
         <mark key="'" line="9" column="0" />
@@ -833,10 +827,11 @@
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" timestamp="1484047366094">
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="30" column="0" />
-        <mark key="." line="30" column="0" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" timestamp="1484217708431">
+        <mark key="[" line="7" column="14" />
+        <mark key="]" line="7" column="34" />
+        <mark key="." line="7" column="34" />
+        <mark key="^" line="7" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483615845207">
         <mark key="'" line="54" column="2" />
@@ -951,11 +946,11 @@
       <jump line="10" column="13" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/description_service.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgcmFpc2UgU2lsZW5jZWRXb3Jrc3RhdGlvbkVycm9yKERlc2NyaXB0aW9uU2VydmljZS5lcnJvcl9tZXNzYWdlKSBpZiBpbnZhbGlkPyhkZXNjcmlwdGlvbikK</text>
+      <register name="&quot;" type="4">
+        <text>BotConf</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>BotConf</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</text>
