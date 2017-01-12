@@ -636,6 +636,9 @@
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1484223560097">
+        <mark key="'" line="69" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/private/evaluate_targets_controller.rb" timestamp="1474718243148">
         <mark key="[" line="6" column="30" />
         <mark key="]" line="9" column="54" />
@@ -833,7 +836,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="23" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
       <jump line="96" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" />
       <jump line="97" column="23" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" />
       <jump line="44" column="34" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" />
@@ -933,6 +935,7 @@
       <jump line="25" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/show.html" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/click_config_api.rb" />
       <jump line="54" column="22" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_conf_api.rb" />
+      <jump line="69" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
