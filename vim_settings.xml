@@ -15,9 +15,6 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="/a.dummy" timestamp="1484652274586">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1484655515146">
         <mark key="'" line="258" column="0" />
         <mark key="[" line="546" column="45" />
@@ -242,15 +239,6 @@
         <mark key="^" line="2" column="323" />
         <mark key="." line="2" column="323" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" timestamp="1483457687206">
-        <mark key="'" line="23" column="12" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/bot_conf_api.rb" timestamp="1484649846492">
-        <mark key="'" line="20" column="0" />
-        <mark key="[" line="20" column="0" />
-        <mark key="]" line="20" column="0" />
-        <mark key="." line="20" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_placement_types.sql" timestamp="1473831179880">
         <mark key="'" line="0" column="53" />
         <mark key="[" line="0" column="0" />
@@ -289,9 +277,6 @@
         <mark key="]" line="7" column="122" />
         <mark key="." line="7" column="122" />
         <mark key="^" line="16" column="51" />
-      </file>
-      <file name="/a.sql" timestamp="1475244188810">
-        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/walmart_reviewer/README.md" timestamp="1475514848123">
         <mark key="[" line="8" column="4" />
@@ -366,6 +351,11 @@
         <mark key="]" line="0" column="79" />
         <mark key="." line="0" column="79" />
         <mark key="^" line="0" column="79" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/consumers/process_event/job_publish_event.rb" timestamp="1484742718728">
+        <mark key="[" line="20" column="0" />
+        <mark key="]" line="20" column="0" />
+        <mark key="." line="20" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/models/tokenizer_spec.rb" timestamp="1474709555080">
         <mark key="[" line="16" column="62" />
@@ -749,9 +739,6 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="17" column="43" />
       </file>
-      <file name="/Ruby Console" timestamp="1475531310579">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" timestamp="1474650986279">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="2" column="31" />
@@ -793,24 +780,11 @@
         <mark key="." line="19" column="81" />
         <mark key="^" line="19" column="105" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/attribute_fetcher.rb" timestamp="1483457572778">
-        <mark key="'" line="100" column="59" />
-        <mark key="[" line="57" column="0" />
-        <mark key="]" line="57" column="0" />
-        <mark key="." line="57" column="0" />
-        <mark key="^" line="57" column="14" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_size_spec.rb" timestamp="1472545549273">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="49" />
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config_list.rb" timestamp="1484641449388">
-        <mark key="'" line="18" column="10" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/bot_conf/bot_conf_controller.js" timestamp="1484639145927">
         <mark key="'" line="58" column="0" />
@@ -891,9 +865,6 @@
         <mark key="]" line="72" column="0" />
         <mark key="." line="72" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1476194442303">
-        <mark key="[" line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" timestamp="1473831152705">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="0" column="0" />
@@ -928,6 +899,12 @@
         <mark key="[" line="17" column="30" />
         <mark key="]" line="17" column="30" />
         <mark key="." line="17" column="30" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/attribute_fetcher_spec.rb" timestamp="1484742526258">
+        <mark key="[" line="288" column="30" />
+        <mark key="]" line="288" column="30" />
+        <mark key="^" line="288" column="30" />
+        <mark key="." line="288" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/cms/db/migrate/20160906141629_add_permissions_for_avt_tables_access.rb" timestamp="1473160242254">
         <mark key="[" line="14" column="67" />
@@ -1096,7 +1073,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBnZW0gJ3J1Ynljcml0aWMnLCByZXF1aXJlOiBmYWxzZSwgZ3JvdXA6IFs6ZGV2ZWxvcG1lbnQsIDpzdGFnaW5nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="-" type="4">
         <text>:</text>
@@ -1108,31 +1085,31 @@
         <text encoding="base64">ICAgICAgQHR5cGUgPSBqb2JfZmlsdGVyLnR5cGUK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICBnZW0gJ3J1Ynljcml0aWMnLCByZXF1aXJlOiBmYWxzZSwgZ3JvdXA6IFs6ZGV2ZWxvcG1lbnQsIDpzdGFnaW5nXQo=</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICBnZW0gJ3J1Ynljcml0aWMnLCByZXF1aXJlOiBmYWxzZSwgZ3JvdXA6IFs6ZGV2ZWxvcG1lbnQsIDpzdGFnaW5nXQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgQHVzZXJfaWQgPSBzb3VyY2UudXNlcl9pZAogICAgICBAYmFzZWxpbmVfcHJpb3JpdHkgPSBzb3VyY2UuYmFzZWxpbmVfcHJpb3JpdHkKICAgICAgQGNvdW50cnlfaWQgPSBzb3VyY2UuY291bnRyeV9pZAogICAgICBAY3BjX2RlYWwgPSBzb3VyY2UuY3BjX2RlYWwKICAgICAgQHlpZWxkX3ByaW9yaXR5ID0gc291cmNlLnlpZWxkX3ByaW9yaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICB3Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDp1c2VyX2lkLAogICAgICAgICAgICAgICAgOmJhc2VsaW5lX3ByaW9yaXR5LAogICAgICAgICAgICAgICAgOmNvdW50cnlfaWQsCiAgICAgICAgICAgICAgICA6Y3BjX2RlYWwsCiAgICAgICAgICAgICAgICA6eWllbGRfcHJpb3JpdHkK</text>
+        <text encoding="base64">ICAgICAgQHVzZXJfaWQgPSBzb3VyY2UudXNlcl9pZAogICAgICBAYmFzZWxpbmVfcHJpb3JpdHkgPSBzb3VyY2UuYmFzZWxpbmVfcHJpb3JpdHkKICAgICAgQGNvdW50cnlfaWQgPSBzb3VyY2UuY291bnRyeV9pZAogICAgICBAY3BjX2RlYWwgPSBzb3VyY2UuY3BjX2RlYWwKICAgICAgQHlpZWxkX3ByaW9yaXR5ID0gc291cmNlLnlpZWxkX3ByaW9yaXR5Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGV4cG9zZSA6YmFzZWxpbmVfcHJpb3JpdHkKICAgIGV4cG9zZSA6dXNlcl9pZAogICAgZXhwb3NlIDpjb3VudHJ5X2lkCiAgICBleHBvc2UgOmNwY19kZWFsCiAgICBleHBvc2UgOnlpZWxkX3ByaW9yaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDp1c2VyX2lkLAogICAgICAgICAgICAgICAgOmJhc2VsaW5lX3ByaW9yaXR5LAogICAgICAgICAgICAgICAgOmNvdW50cnlfaWQsCiAgICAgICAgICAgICAgICA6Y3BjX2RlYWwsCiAgICAgICAgICAgICAgICA6eWllbGRfcHJpb3JpdHkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEpvYkJlaGF2aW91clR5cGUgQ29uc3RydWN0b3IKICAgICAgICovCg==</text>
+        <text encoding="base64">ICAgIGV4cG9zZSA6YmFzZWxpbmVfcHJpb3JpdHkKICAgIGV4cG9zZSA6dXNlcl9pZAogICAgZXhwb3NlIDpjb3VudHJ5X2lkCiAgICBleHBvc2UgOmNwY19kZWFsCiAgICBleHBvc2UgOnlpZWxkX3ByaW9yaXR5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEpvYkJlaGF2aW91clR5cGUgQ29uc3RydWN0b3IKICAgICAgICovCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJfaWQgPSBudWxsOwogICAgICAgIHRoaXMuYmFzZWxpbmVfcHJpb3JpdHkgPSAwOwogICAgICAgIHRoaXMuY291bnRyeV9pZCA9IDA7CiAgICAgICAgdGhpcy5jcGNfZGVhbCA9IDA7CiAgICAgICAgdGhpcy55aWVsZF9wcmlvcml0eSA9IDA7CiAgICAgICAgdGhpcy52aXNpYmxlID0gdHJ1ZTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">KiAgIEBhdHRyIHtJbnRlZ2VyfSB1c2VyX2lkCiogICBAYXR0ciB7SW50ZWdlcn0gYmFzZV9jb25maWRlbmNlCg==</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLnVzZXJfaWQgPSBudWxsOwogICAgICAgIHRoaXMuYmFzZWxpbmVfcHJpb3JpdHkgPSAwOwogICAgICAgIHRoaXMuY291bnRyeV9pZCA9IDA7CiAgICAgICAgdGhpcy5jcGNfZGVhbCA9IDA7CiAgICAgICAgdGhpcy55aWVsZF9wcmlvcml0eSA9IDA7CiAgICAgICAgdGhpcy52aXNpYmxlID0gdHJ1ZTsK</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
