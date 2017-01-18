@@ -15,12 +15,15 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1484655515146">
+      <file name="/a.dummy" timestamp="1484755908464">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1484756499533">
         <mark key="'" line="258" column="0" />
-        <mark key="[" line="546" column="45" />
-        <mark key="]" line="546" column="61" />
-        <mark key="^" line="546" column="61" />
-        <mark key="." line="546" column="61" />
+        <mark key="[" line="554" column="52" />
+        <mark key="]" line="554" column="58" />
+        <mark key="^" line="554" column="58" />
+        <mark key="." line="554" column="58" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/target_group.rb" timestamp="1474699422314">
         <mark key="[" line="4" column="36" />
@@ -39,9 +42,6 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="4" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/user/edit.html" timestamp="1484122711623">
-        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/flight_setup_spreadsheets/_advanced_video_targeting.html.erb" timestamp="1471435050772">
         <mark key="[" line="6" column="0" />
@@ -62,9 +62,6 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import.rb" timestamp="1484220886222">
-        <mark key="'" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_placement_types.html.erb" timestamp="1474285292148">
         <mark key="[" line="3" column="37" />
@@ -93,11 +90,6 @@
         <mark key="." line="7" column="106" />
         <mark key="^" line="17" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/walmart_reviewer/spec/controllers/products_controller_spec.rb" timestamp="1475516497018">
-        <mark key="[" line="28" column="0" />
-        <mark key="]" line="28" column="0" />
-        <mark key="." line="28" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global_test_app/lib/json_web_token.rb" timestamp="1474706334573">
         <mark key="[" line="3" column="28" />
         <mark key="]" line="3" column="30" />
@@ -123,6 +115,12 @@
         <mark key="." line="4" column="53" />
         <mark key="^" line="4" column="53" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_active_type.rb" timestamp="1484755971105">
+        <mark key="[" line="19" column="20" />
+        <mark key="]" line="19" column="25" />
+        <mark key="." line="19" column="25" />
+        <mark key="^" line="19" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/guardians_destiny/config/secrets.yml" timestamp="1474963039917">
         <mark key="'" line="1" column="0" />
         <mark key="[" line="13" column="147" />
@@ -135,6 +133,12 @@
         <mark key="]" line="33" column="48" />
         <mark key="." line="33" column="48" />
         <mark key="^" line="33" column="48" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_fetcher_api.rb" timestamp="1484756805056">
+        <mark key="[" line="11" column="25" />
+        <mark key="]" line="11" column="32" />
+        <mark key="." line="11" column="32" />
+        <mark key="^" line="11" column="32" />
       </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_interstitials.sql" timestamp="1473831210110">
         <mark key="'" line="0" column="0" />
@@ -161,9 +165,6 @@
         <mark key="]" line="2" column="120" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="94" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/description_service.rb" timestamp="1484741243815">
-        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/application.css.scss" timestamp="1474288048179">
         <mark key="'" line="9" column="0" />
@@ -214,11 +215,6 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/glanos_service.rb" timestamp="1483458278634">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="6" column="0" />
-        <mark key="." line="6" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" timestamp="1484126841312">
         <mark key="'" line="11" column="9" />
         <mark key="[" line="21" column="0" />
@@ -246,11 +242,6 @@
         <mark key="." line="0" column="71" />
         <mark key="^" line="0" column="78" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_site_update.rb" timestamp="1483529400144">
-        <mark key="[" line="40" column="0" />
-        <mark key="]" line="40" column="0" />
-        <mark key="." line="40" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/click_config_api.rb" timestamp="1484222091141">
         <mark key="'" line="0" column="0" />
         <mark key="[" line="81" column="16" />
@@ -265,6 +256,12 @@
         <mark key="^" line="16" column="14" />
         <mark key="." line="16" column="10" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher_list.rb" timestamp="1484756798301">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="6" column="22" />
+        <mark key="." line="6" column="22" />
+        <mark key="^" line="6" column="22" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_behaviour_type_list.rb" timestamp="1484653350788">
         <mark key="'" line="12" column="27" />
         <mark key="[" line="13" column="6" />
@@ -278,18 +275,21 @@
         <mark key="." line="7" column="122" />
         <mark key="^" line="16" column="51" />
       </file>
+      <file name="/a.sql" timestamp="1475244188810">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/walmart_reviewer/README.md" timestamp="1475514848123">
         <mark key="[" line="8" column="4" />
         <mark key="]" line="8" column="5" />
         <mark key="." line="8" column="5" />
         <mark key="^" line="8" column="8" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/base_api.rb" timestamp="1484652996303">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/base_api.rb" timestamp="1484756902697">
         <mark key="'" line="48" column="6" />
-        <mark key="[" line="96" column="24" />
-        <mark key="]" line="96" column="26" />
-        <mark key="." line="96" column="26" />
-        <mark key="^" line="96" column="26" />
+        <mark key="[" line="98" column="1" />
+        <mark key="]" line="98" column="25" />
+        <mark key="." line="98" column="25" />
+        <mark key="^" line="98" column="25" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/career_level_finder.rb" timestamp="1483458271967">
         <mark key="[" line="21" column="0" />
@@ -302,11 +302,6 @@
         <mark key="]" line="3" column="30" />
         <mark key="." line="3" column="30" />
         <mark key="^" line="3" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/factories/job_site_annotation_factory.rb" timestamp="1483530012042">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="0" />
-        <mark key="." line="4" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/controllers/api/v1/private/evaluate_targets_controller_spec.rb" timestamp="1474741432561">
         <mark key="'" line="47" column="0" />
@@ -364,11 +359,6 @@
         <mark key="." line="16" column="63" />
         <mark key="^" line="16" column="68" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/api/import_config_api_spec.rb" timestamp="1484642197006">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="11" column="72" />
-        <mark key="." line="9" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/models/target_evaluator_spec.rb" timestamp="1474727643965">
         <mark key="'" line="5" column="48" />
         <mark key="[" line="56" column="56" />
@@ -399,9 +389,6 @@
         <mark key="]" line="0" column="24" />
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" timestamp="1483527869547">
-        <mark key="'" line="525" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/features/step_definitions/web_steps.rb" timestamp="1472564503676">
         <mark key="[" line="182" column="40" />
@@ -457,16 +444,17 @@
         <mark key="^" line="17" column="17" />
         <mark key="." line="17" column="17" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_list.rb" timestamp="1484755844815">
+        <mark key="[" line="13" column="15" />
+        <mark key="]" line="13" column="21" />
+        <mark key="." line="13" column="21" />
+        <mark key="^" line="13" column="21" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924063444_add_index_for_parent_id_to_target_group.rb" timestamp="1474698896288">
         <mark key="[" line="1" column="12" />
         <mark key="]" line="2" column="39" />
         <mark key="^" line="2" column="39" />
         <mark key="." line="2" column="39" />
-      </file>
-      <file name="$USER_HOME$/Projects/walmart_reviewer/app/views/products/index.html.erb" timestamp="1475509418789">
-        <mark key="[" line="26" column="0" />
-        <mark key="]" line="26" column="0" />
-        <mark key="." line="26" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_annotation.rb" timestamp="1483457839390">
         <mark key="[" line="33" column="0" />
@@ -480,24 +468,15 @@
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/factories/job_site_factory.rb" timestamp="1483530014789">
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="8" column="41" />
-        <mark key="." line="7" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" timestamp="1483625577484">
-        <mark key="'" line="54" column="12" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_job_parser_entity.rb" timestamp="1484755938360">
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="2" column="27" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20150505134153_create_job_site_annotations.rb" timestamp="1483525490719">
         <mark key="[" line="2" column="0" />
         <mark key="]" line="2" column="0" />
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/global_test_app/app/models/tokenizer.rb" timestamp="1474713448594">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="0" />
-        <mark key="." line="10" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/walmart_reviewer/Gemfile" timestamp="1475518199304">
         <mark key="[" line="22" column="13" />
@@ -533,11 +512,6 @@
         <mark key="^" line="63" column="17" />
         <mark key="." line="63" column="17" />
       </file>
-      <file name="$USER_HOME$/Projects/global_test_app/README.rdoc" timestamp="1474734926714">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/main_menu/index.html" timestamp="1484639464129">
         <mark key="[" line="28" column="60" />
         <mark key="]" line="28" column="60" />
@@ -570,9 +544,9 @@
         <mark key="^" line="35" column="126" />
         <mark key="." line="35" column="89" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_job_filter_api.rb" timestamp="1484655952477">
-        <mark key="[" line="11" column="25" />
-        <mark key="]" line="11" column="25" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_job_filter_api.rb" timestamp="1484755536799">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="16" column="6" />
         <mark key="." line="11" column="25" />
         <mark key="^" line="11" column="58" />
       </file>
@@ -593,11 +567,6 @@
         <mark key="]" line="4" column="2" />
         <mark key="." line="2" column="30" />
         <mark key="^" line="2" column="30" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/JobBehaviourType.js" timestamp="1484652909720">
-        <mark key="[" line="14" column="0" />
-        <mark key="]" line="14" column="0" />
-        <mark key="." line="14" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" timestamp="1483619546978">
         <mark key="'" line="80" column="71" />
@@ -638,6 +607,12 @@
         <mark key="." line="51" column="124" />
         <mark key="^" line="51" column="124" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/ImportFetcher.js" timestamp="1484756581609">
+        <mark key="[" line="21" column="23" />
+        <mark key="]" line="22" column="24" />
+        <mark key="^" line="22" column="24" />
+        <mark key="." line="22" column="24" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/flight.rb" timestamp="1473841170102">
         <mark key="'" line="175" column="14" />
         <mark key="[" line="45" column="0" />
@@ -645,16 +620,17 @@
         <mark key="." line="181" column="0" />
         <mark key="^" line="180" column="37" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/ImportJobParser.js" timestamp="1484756244994">
+        <mark key="[" line="22" column="0" />
+        <mark key="]" line="22" column="0" />
+        <mark key="." line="22" column="0" />
+        <mark key="^" line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924064437_create_countries_target_groups.rb" timestamp="1474699543389">
         <mark key="[" line="4" column="30" />
         <mark key="]" line="4" column="31" />
         <mark key="^" line="4" column="44" />
         <mark key="." line="4" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/walmart_reviewer/spec/routing/products_routing_spec.rb" timestamp="1475531082433">
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/cms/db/migrate/20160906141629_add_permissions_for_AVT_tables_access.rb" timestamp="1473147407176">
         <mark key="[" line="0" column="24" />
@@ -668,9 +644,6 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/job_site/job_site_controller.js" timestamp="1484640161801">
-        <mark key="'" line="63" column="61" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/.env.development" timestamp="1471949349972">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -682,6 +655,13 @@
         <mark key="]" line="4" column="27" />
         <mark key="^" line="4" column="27" />
         <mark key="." line="4" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_job_parser_api.rb" timestamp="1484756058519">
+        <mark key="'" line="13" column="9" />
+        <mark key="[" line="41" column="28" />
+        <mark key="]" line="41" column="28" />
+        <mark key="^" line="12" column="60" />
+        <mark key="." line="41" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/ui_tabs_scrollable.css" timestamp="1474288899144">
         <mark key="'" line="52" column="0" />
@@ -721,11 +701,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/Gemfile" timestamp="1484742215085">
-        <mark key="[" line="85" column="0" />
-        <mark key="]" line="85" column="0" />
-        <mark key="." line="85" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_unit.rb" timestamp="1473835116779">
         <mark key="'" line="14" column="40" />
         <mark key="[" line="7" column="51" />
@@ -740,15 +715,15 @@
         <mark key="." line="16" column="44" />
         <mark key="^" line="17" column="43" />
       </file>
+      <file name="/Ruby Console" timestamp="1475531310579">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/countries.rb" timestamp="1474650986279">
         <mark key="'" line="0" column="20" />
         <mark key="[" line="2" column="31" />
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1484223560097">
-        <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/private/evaluate_targets_controller.rb" timestamp="1474718243148">
         <mark key="[" line="6" column="30" />
@@ -831,8 +806,12 @@
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="22" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484754366838">
-        <mark key="'" line="34" column="0" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484756478434">
+        <mark key="'" line="85" column="157" />
+        <mark key="[" line="28" column="158" />
+        <mark key="]" line="28" column="192" />
+        <mark key="^" line="28" column="192" />
+        <mark key="." line="28" column="192" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/device_type.rb" timestamp="1474542648114">
         <mark key="[" line="22" column="6" />
@@ -853,11 +832,6 @@
         <mark key="." line="8" column="42" />
         <mark key="^" line="8" column="42" />
       </file>
-      <file name="/dummy.sql" timestamp="1482401995461">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
-      </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_sizes.sql" timestamp="1473831112880">
         <mark key="[" line="0" column="36" />
         <mark key="]" line="0" column="36" />
@@ -870,10 +844,8 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/base.rb" timestamp="1483451427559">
-        <mark key="[" line="72" column="0" />
-        <mark key="]" line="72" column="0" />
-        <mark key="." line="72" column="0" />
+      <file name="/Dummy.txt" timestamp="1476194442303">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_states.sql" timestamp="1473831152705">
         <mark key="'" line="0" column="0" />
@@ -889,9 +861,6 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="7" column="126" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/event_queue/event_queue_controller.js" timestamp="1484652342011">
-        <mark key="'" line="100" column="25" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/shareable_helper.rb" timestamp="1472742429703">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -904,11 +873,6 @@
         <mark key="]" line="49" column="101" />
         <mark key="." line="49" column="101" />
         <mark key="^" line="49" column="101" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_annotations/update_spec.rb" timestamp="1483604177524">
-        <mark key="[" line="17" column="30" />
-        <mark key="]" line="17" column="30" />
-        <mark key="." line="17" column="30" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/attribute_fetcher_spec.rb" timestamp="1484742526258">
         <mark key="[" line="288" column="30" />
@@ -934,11 +898,6 @@
         <mark key="." line="29" column="25" />
         <mark key="^" line="29" column="25" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/job_supply_api.rb" timestamp="1483091408538">
-        <mark key="[" line="53" column="0" />
-        <mark key="]" line="53" column="0" />
-        <mark key="." line="53" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_state.rb" timestamp="1473833834522">
         <mark key="[" line="2" column="47" />
         <mark key="]" line="2" column="51" />
@@ -951,13 +910,11 @@
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
       </file>
-      <file name="$USER_HOME$/Projects/walmart_reviewer/config/routes.rb" timestamp="1475513331726">
-        <mark key="[" line="2" column="0" />
-        <mark key="]" line="2" column="0" />
-        <mark key="." line="2" column="0" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483615845207">
-        <mark key="'" line="54" column="2" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/index.html" timestamp="1484219697941">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="33" column="28" />
       </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
         <mark key="[" line="0" column="0" />
@@ -980,8 +937,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="10" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="89" column="40" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="12" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
       <jump line="5" column="19" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
       <jump line="86" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
@@ -1052,7 +1007,6 @@
       <jump line="98" column="4" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="115" column="4" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="27" column="69" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
-      <jump line="28" column="69" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="58" column="60" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="192" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
       <jump line="193" column="45" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
@@ -1075,60 +1029,63 @@
       <jump line="125" column="96" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="2" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_list.rb" />
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_list.rb" />
-      <jump line="85" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="14" column="17" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="19" column="17" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="13" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/description_service.rb" />
       <jump line="34" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="14" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_job_parser_api.rb" />
+      <jump line="137" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="28" column="180" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="85" column="157" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgd2hlbiAnam9iYXBwLmpvYi51cGRhdGVkJwoK</text>
+      <register name="&quot;" type="4">
+        <text>job_filters</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>job_filters</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxJbXBvcnRFZGl0Q29udHJvbGxlclw+</text>
+        <text encoding="base64">XDxJbXBvcnRGZXRjaGVyXD4=</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgQHR5cGUgPSBqb2JfZmlsdGVyLnR5cGUK</text>
+        <text encoding="base64">ICAgICAgdGhpcy5nZXRJbXBvcnRKb2JQYXJzZXJzID0gZnVuY3Rpb24ocGFyYW1zLCBvcHRpb25zKSB7CiAgICAgICAgcmV0dXJuIGVycm9yV3JhcHBlcihyZXN0YW5ndWxhci5hbGwoJ2ltcG9ydF9qb2JfcGFyc2VyJykuZ2V0TGlzdChwYXJhbXMpLCBvcHRpb25zKTsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgd2hlbiAnam9iYXBwLmpvYi51cGRhdGVkJwoK</text>
+        <text encoding="base64">ICAgICAgICB0aGlzLm5hbWUgPSBudWxsOwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIAo=</text>
+        <text encoding="base64">KiAgIEBhdHRyIHtTdHJpbmd9IHR5cGUK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBnZW0gJ3J1Ynljcml0aWMnLCByZXF1aXJlOiBmYWxzZSwgZ3JvdXA6IFs6ZGV2ZWxvcG1lbnQsIDpzdGFnaW5nXQo=</text>
+        <text encoding="base64">ICAgICAgQHR5cGUgPSBqb2JfZmlsdGVyLnR5cGUK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICB3Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICAgIDp0eXBlLAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgQHVzZXJfaWQgPSBzb3VyY2UudXNlcl9pZAogICAgICBAYmFzZWxpbmVfcHJpb3JpdHkgPSBzb3VyY2UuYmFzZWxpbmVfcHJpb3JpdHkKICAgICAgQGNvdW50cnlfaWQgPSBzb3VyY2UuY291bnRyeV9pZAogICAgICBAY3BjX2RlYWwgPSBzb3VyY2UuY3BjX2RlYWwKICAgICAgQHlpZWxkX3ByaW9yaXR5ID0gc291cmNlLnlpZWxkX3ByaW9yaXR5Cg==</text>
+        <text encoding="base64">ICAgIGV4cG9zZSA6aWQKICAgIGV4cG9zZSA6dHlwZQogICAgZXhwb3NlIDpjb25maWcK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAgIDp1c2VyX2lkLAogICAgICAgICAgICAgICAgOmJhc2VsaW5lX3ByaW9yaXR5LAogICAgICAgICAgICAgICAgOmNvdW50cnlfaWQsCiAgICAgICAgICAgICAgICA6Y3BjX2RlYWwsCiAgICAgICAgICAgICAgICA6eWllbGRfcHJpb3JpdHkK</text>
+        <text encoding="base64">ICAgICAgd2hlbiAnam9iYXBwLmpvYi51cGRhdGVkJwoK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGV4cG9zZSA6YmFzZWxpbmVfcHJpb3JpdHkKICAgIGV4cG9zZSA6dXNlcl9pZAogICAgZXhwb3NlIDpjb3VudHJ5X2lkCiAgICBleHBvc2UgOmNwY19kZWFsCiAgICBleHBvc2UgOnlpZWxkX3ByaW9yaXR5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgLyoqCiAgICAgICAqIEpvYkJlaGF2aW91clR5cGUgQ29uc3RydWN0b3IKICAgICAgICovCg==</text>
+        <text encoding="base64">ICBnZW0gJ3J1Ynljcml0aWMnLCByZXF1aXJlOiBmYWxzZSwgZ3JvdXA6IFs6ZGV2ZWxvcG1lbnQsIDpzdGFnaW5nXQo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB3Cg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxJbXBvcnRFZGl0Q29udHJvbGxlclw+</last-search>
+      <last-search encoding="base64">XDxJbXBvcnRGZXRjaGVyXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxJbXBvcnRFZGl0Q29udHJvbGxlclw+</last-pattern>
+      <last-pattern encoding="base64">XDxJbXBvcnRGZXRjaGVyXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1136,8 +1093,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfb3JfdXBkYXRlX2pvYl9zaXRlXD4=</entry>
-        <entry encoding="base64">XDx1cGRhdGVfYXNzb2NpYXRpb25zXD4=</entry>
         <entry encoding="base64">XDxwanBwX2pvYl9zaXRlXD4=</entry>
         <entry encoding="base64">XDxzY29wZXNcPg==</entry>
         <entry encoding="base64">XDx1bnNhZmVfaHRtbF9saW5rXD4=</entry>
@@ -1156,6 +1111,8 @@
         <entry encoding="base64">XDxNb2RlbExpc3RcPg==</entry>
         <entry>mount</entry>
         <entry encoding="base64">XDxJbXBvcnRFZGl0Q29udHJvbGxlclw+</entry>
+        <entry encoding="base64">XDxKb2JCZWhhdmlvdXJUeXBlXD4=</entry>
+        <entry encoding="base64">XDxJbXBvcnRGZXRjaGVyXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
