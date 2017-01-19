@@ -25,6 +25,9 @@
         <mark key="^" line="554" column="58" />
         <mark key="." line="554" column="58" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" timestamp="1484811766948">
+        <mark key="'" line="68" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/target_group.rb" timestamp="1474699422314">
         <mark key="[" line="4" column="36" />
         <mark key="]" line="4" column="36" />
@@ -42,6 +45,9 @@
         <mark key="]" line="0" column="3" />
         <mark key="." line="0" column="3" />
         <mark key="^" line="0" column="4" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/user/edit.html" timestamp="1484122711623">
+        <mark key="'" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/flight_setup_spreadsheets/_advanced_video_targeting.html.erb" timestamp="1471435050772">
         <mark key="[" line="6" column="0" />
@@ -62,6 +68,9 @@
         <mark key="]" line="0" column="2" />
         <mark key="." line="0" column="2" />
         <mark key="^" line="0" column="2" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import.rb" timestamp="1484220886222">
+        <mark key="'" line="17" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_placement_types.html.erb" timestamp="1474285292148">
         <mark key="[" line="3" column="37" />
@@ -165,6 +174,9 @@
         <mark key="]" line="2" column="120" />
         <mark key="." line="0" column="44" />
         <mark key="^" line="0" column="94" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/description_service.rb" timestamp="1484741243815">
+        <mark key="'" line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/assets/stylesheets/application.css.scss" timestamp="1474288048179">
         <mark key="'" line="9" column="0" />
@@ -390,6 +402,9 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" timestamp="1483527869547">
+        <mark key="'" line="525" column="16" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/features/step_definitions/web_steps.rb" timestamp="1472564503676">
         <mark key="[" line="182" column="40" />
         <mark key="]" line="182" column="5" />
@@ -471,6 +486,9 @@
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_job_parser_entity.rb" timestamp="1484755938360">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="2" column="27" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" timestamp="1483625577484">
+        <mark key="'" line="54" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20150505134153_create_job_site_annotations.rb" timestamp="1483525490719">
         <mark key="[" line="2" column="0" />
@@ -644,6 +662,9 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/job_site/job_site_controller.js" timestamp="1484640161801">
+        <mark key="'" line="63" column="61" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/.env.development" timestamp="1471949349972">
         <mark key="[" line="5" column="0" />
         <mark key="]" line="5" column="0" />
@@ -724,6 +745,9 @@
         <mark key="]" line="2" column="45" />
         <mark key="." line="2" column="45" />
         <mark key="^" line="2" column="45" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1484223560097">
+        <mark key="'" line="69" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/private/evaluate_targets_controller.rb" timestamp="1474718243148">
         <mark key="[" line="6" column="30" />
@@ -861,6 +885,9 @@
         <mark key="^" line="17" column="52" />
         <mark key="." line="7" column="126" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/event_queue/event_queue_controller.js" timestamp="1484652342011">
+        <mark key="'" line="100" column="25" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/shareable_helper.rb" timestamp="1472742429703">
         <mark key="[" line="74" column="0" />
         <mark key="]" line="74" column="0" />
@@ -916,6 +943,9 @@
         <mark key="." line="35" column="0" />
         <mark key="^" line="33" column="28" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483615845207">
+        <mark key="'" line="54" column="2" />
+      </file>
       <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="76" />
@@ -937,7 +967,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
       <jump line="5" column="19" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
       <jump line="86" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="48" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
@@ -1037,6 +1066,7 @@
       <jump line="137" column="35" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="28" column="180" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="85" column="157" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="68" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
