@@ -810,12 +810,12 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" timestamp="1484812886105">
-        <mark key="'" line="18" column="26" />
-        <mark key="[" line="30" column="0" />
-        <mark key="]" line="61" column="10" />
-        <mark key="." line="50" column="132" />
-        <mark key="^" line="50" column="132" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" timestamp="1484904466598">
+        <mark key="'" line="42" column="39" />
+        <mark key="[" line="60" column="112" />
+        <mark key="]" line="60" column="127" />
+        <mark key="." line="60" column="127" />
+        <mark key="^" line="60" column="127" />
       </file>
       <file name="$USER_HOME$/Projects/Cebiro-CRM/config/database.yml" timestamp="1474368189703">
         <mark key="[" line="14" column="12" />
@@ -887,8 +887,8 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484816109876">
-        <mark key="'" line="150" column="1" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484904283256">
+        <mark key="'" line="63" column="21" />
         <mark key="[" line="27" column="96" />
         <mark key="]" line="27" column="96" />
         <mark key="^" line="28" column="192" />
@@ -984,8 +984,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="80" column="71" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="48" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
       <jump line="49" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
       <jump line="64" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
       <jump line="7" column="306" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
@@ -1084,13 +1082,15 @@
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher_active_type.rb" />
       <jump line="10" column="30" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_behaviour_type_create.rb" />
       <jump line="383" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
+      <jump line="63" column="21" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="42" column="39" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>click_config</text>
+        <text>a</text>
       </register>
       <register name="-" type="4">
-        <text>click_config</text>
+        <text>a</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxOYW1lXD4=</text>
@@ -1099,35 +1099,35 @@
         <text encoding="base64">ICAgICAgdGhpcy5jcmVhdGVDbGlja0NvbmZpZyA9IGZ1bmN0aW9uIChwYXJhbXMsIG9wdGlvbnMpIHsKICAgICAgICB2YXIgY29uZnMgPSByZXN0YW5ndWxhci5hbGwoJ2NsaWNrX2NvbmZpZycpOwogICAgICAgIHJldHVybiBlcnJvcldyYXBwZXIoY29uZnMucG9zdChwYXJhbXMpLCBvcHRpb25zKTsKICAgICAgfQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Y2xhc3MgSm9iQmVoYXZpb3V0VHlwZUNyZWF0ZSA8IEpvYkJlaGFBY3RpdmVUeXBlCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Y2xhc3MgSm9iQmVoYXZpb3V0VHlwZUNyZWF0ZSA8IEpvYkJlaGFBY3RpdmVUeXBlCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgYXV0aG9yaXphdGlvbl9lcnJvcigiTm90IGVub3VnaCByaWdodHMgdG8gY3JlYXRlIGEgbmV3IEpvYkJlaGF2aW91clR5cGUiKQogICAgZW5kCg==</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbnRleHQucG93ZXIubWFuYWdlX2pvYl9iYWhhdmlvdXJfdHlwZXM/Cg==</text>
-      </register>
-      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGVsc2UKICAgICAgYXV0aG9yaXphdGlvbl9lcnJvcigiTm90IGVub3VnaCByaWdodHMgdG8gY3JlYXRlIGEgbmV3IEpvYkJlaGF2aW91clR5cGUiKQogICAgZW5kCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIGlmIGNvbnRleHQucG93ZXIubWFuYWdlX2pvYl9iYWhhdmlvdXJfdHlwZXM/Cg==</text>
+      </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbnRleHQucG93ZXIubWFuYWdlX2NsaWNrX2NvbmZpZ3M/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
+        <text encoding="base64">ICAgIGlmIGNvbnRleHQucG93ZXIubWFuYWdlX2NsaWNrX2NvbmZpZ3M/Cg==</text>
+      </register>
+      <register name="8" type="2">
         <text encoding="base64">ICAgIGVsc2UKICAgICAgYXV0aG9yaXphdGlvbl9lcnJvcigiTm90IGVub3VnaCByaWdodHMgdG8gY3JlYXRlIGEgbmV3IENsaWNrQ29uZmlnIikKICAgIGVuZAo=</text>
       </register>
-      <register name="8" type="4">
+      <register name="9" type="4">
         <text>,
         host: host,
         path: path,
         parameters: parameters,
         code: code</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICBhdHRyaWJ1dGUgOnRpdGxlCiAgYXR0cmlidXRlIDpob3N0CiAgYXR0cmlidXRlIDpwYXRoCiAgYXR0cmlidXRlIDpwYXJhbWV0ZXJzCg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
