@@ -124,11 +124,12 @@
         <mark key="." line="4" column="53" />
         <mark key="^" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_active_type.rb" timestamp="1484812736862">
-        <mark key="[" line="20" column="25" />
-        <mark key="]" line="21" column="28" />
-        <mark key="." line="21" column="28" />
-        <mark key="^" line="21" column="28" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_active_type.rb" timestamp="1484901700196">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/guardians_destiny/config/secrets.yml" timestamp="1474963039917">
         <mark key="'" line="1" column="0" />
@@ -208,6 +209,13 @@
         <mark key="]" line="17" column="76" />
         <mark key="." line="17" column="76" />
         <mark key="^" line="17" column="76" />
+      </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher_active_type.rb" timestamp="1484901788166">
+        <mark key="'" line="1" column="2" />
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="27" column="4" />
+        <mark key="^" line="27" column="4" />
+        <mark key="." line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_interstitial.rb" timestamp="1473833808793">
         <mark key="[" line="2" column="46" />
@@ -435,11 +443,12 @@
         <mark key="." line="1" column="11" />
         <mark key="^" line="1" column="11" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" timestamp="1484656063293">
-        <mark key="[" line="22" column="27" />
-        <mark key="]" line="22" column="32" />
-        <mark key="." line="22" column="32" />
-        <mark key="^" line="22" column="32" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" timestamp="1484901755391">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="26" column="5" />
+        <mark key="]" line="27" column="4" />
+        <mark key="." line="27" column="4" />
+        <mark key="^" line="27" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_content_type.rb" timestamp="1473833828052">
         <mark key="[" line="2" column="46" />
@@ -967,12 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="62" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
-      <jump line="18" column="33" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" />
-      <jump line="78" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="33" column="10" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="16" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="20" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="38" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="53" column="57" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="80" column="71" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
@@ -1067,6 +1070,12 @@
       <jump line="50" column="12" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="150" column="1" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_active_type.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_active_type.rb" />
+      <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
+      <jump line="26" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
+      <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher_active_type.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
