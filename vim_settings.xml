@@ -810,12 +810,12 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" timestamp="1484907682179">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" timestamp="1484909755028">
         <mark key="'" line="9" column="0" />
-        <mark key="[" line="62" column="41" />
-        <mark key="]" line="62" column="59" />
-        <mark key="." line="62" column="59" />
-        <mark key="^" line="62" column="59" />
+        <mark key="[" line="9" column="46" />
+        <mark key="]" line="9" column="47" />
+        <mark key="." line="9" column="47" />
+        <mark key="^" line="8" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/Cebiro-CRM/config/database.yml" timestamp="1474368189703">
         <mark key="[" line="14" column="12" />
@@ -893,11 +893,11 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484908312781">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484909055056">
         <mark key="'" line="147" column="11" />
-        <mark key="[" line="149" column="0" />
-        <mark key="]" line="149" column="0" />
-        <mark key="." line="149" column="0" />
+        <mark key="[" line="150" column="0" />
+        <mark key="]" line="150" column="0" />
+        <mark key="." line="150" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/device_type.rb" timestamp="1474542648114">
         <mark key="[" line="22" column="6" />
@@ -1092,7 +1092,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGpvYl9iZWhhdmlvdXJfdHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiBuZy1yZXBlYXQ9ImpvYl9iZWhhdmlvdXJfdHlwZSBpbiBqb2JCZWhhdmlvdXJUeXBlT3B0aW9ucyIgdmFsdWU9Int7am9iX2JlaGF2aW91cl90eXBlLmlkfX0iPnt7am9iX2JlaGF2aW91cl90eXBlLm5hbWV9fTwvb3B0aW9uPgo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
@@ -1104,31 +1104,31 @@
         <text encoding="base64">ICAkc2NvcGUuam9iQmVoYXZpb3VyVHlwZU9wdGlvbnNMb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGpvYl9iZWhhdmlvdXJfdHlwZSk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiBuZy1yZXBlYXQ9ImpvYl9iZWhhdmlvdXJfdHlwZSBpbiBqb2JCZWhhdmlvdXJUeXBlT3B0aW9ucyIgdmFsdWU9Int7am9iX2JlaGF2aW91cl90eXBlLmlkfX0iPnt7am9iX2JlaGF2aW91cl90eXBlLm5hbWV9fTwvb3B0aW9uPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhZGRlZCcpOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuY3VycmVudENvbmYuam9iX2JlaGF2aW91cl90eXBlX2lkID0gam9iX2JlaGF2aW91cl90eXBlLmlkOwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuY3VycmVudENvbmYuam9iX2JlaGF2aW91cl90eXBlX2lkID0gam9iX2JlaGF2aW91cl90eXBlLmlkOwo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBBcGlTZXJ2aWNlLmdldEpvYkJlaGF2aW91clR5cGVzKCkudGhlbihmdW5jdGlvbihqb2JfYmVoYXZpb3VyX3R5cGVzKSB7CiAgICB2YXIgbW9kZWxfbGlzdCA9IG5ldyBNb2RlbExpc3QoSm9iQmVoYXZpb3VyVHlwZSkuaW5pdGlhbGl6ZSh7cGF5bG9hZDogam9iX2JlaGF2aW91cl90eXBlc30pOwogICAgJHNjb3BlLmpvYkJlaGF2aW91clR5cGVPcHRpb25zID0gbW9kZWxfbGlzdC5wYXlsb2FkOwogIH0pOwo=</text>
+        <text encoding="base64">ICAgICAgICAgIHNlbGYuY3VycmVudENvbmYuam9iX2JlaGF2aW91cl90eXBlX2lkID0gam9iX2JlaGF2aW91cl90eXBlLmlkOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICRzdGF0ZS5nbygnYXBwLm1haW5fbWVudS5hZG1pbi5pbXBvcnQnLCBudWxsLCB7IHJlbG9hZDogdHJ1ZSB9KTsK</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGpvYl9iZWhhdmlvdXJfdHlwZSk7Cg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4K</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhZGRlZCcpOwo=</text>
       </register>
       <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICRzY29wZS4K</text>
+        <text encoding="base64">ICBBcGlTZXJ2aWNlLmdldEpvYkJlaGF2aW91clR5cGVzKCkudGhlbihmdW5jdGlvbihqb2JfYmVoYXZpb3VyX3R5cGVzKSB7CiAgICB2YXIgbW9kZWxfbGlzdCA9IG5ldyBNb2RlbExpc3QoSm9iQmVoYXZpb3VyVHlwZSkuaW5pdGlhbGl6ZSh7cGF5bG9hZDogam9iX2JlaGF2aW91cl90eXBlc30pOwogICAgJHNjb3BlLmpvYkJlaGF2aW91clR5cGVPcHRpb25zID0gbW9kZWxfbGlzdC5wYXlsb2FkOwogIH0pOwo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkdXBhJyk7Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRzdGF0ZS5nbygnYXBwLm1haW5fbWVudS5hZG1pbi5pbXBvcnQnLCBudWxsLCB7IHJlbG9hZDogdHJ1ZSB9KTsK</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
