@@ -861,11 +861,12 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config_list.rb" timestamp="1484641449388">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config_list.rb" timestamp="1484924396086">
         <mark key="'" line="18" column="10" />
-        <mark key="[" line="39" column="34" />
-        <mark key="]" line="39" column="34" />
-        <mark key="." line="39" column="34" />
+        <mark key="[" line="18" column="21" />
+        <mark key="]" line="18" column="32" />
+        <mark key="." line="18" column="32" />
+        <mark key="^" line="18" column="32" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/bot_conf/bot_conf_controller.js" timestamp="1484639145927">
         <mark key="'" line="58" column="0" />
@@ -1091,11 +1092,11 @@
       <jump line="9" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPG9wdGlvbiBuZy1yZXBlYXQ9ImpvYl9iZWhhdmlvdXJfdHlwZSBpbiBqb2JCZWhhdmlvdXJUeXBlT3B0aW9ucyIgdmFsdWU9Int7am9iX2JlaGF2aW91cl90eXBlLmlkfX0iPnt7am9iX2JlaGF2aW91cl90eXBlLm5hbWV9fTwvb3B0aW9uPgo=</text>
+      <register name="&quot;" type="4">
+        <text>f</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>f</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxqYnRJbnB1dFZpc2libGVcPg==</text>
