@@ -810,12 +810,12 @@
         <mark key="^" line="7" column="48" />
         <mark key="." line="7" column="48" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" timestamp="1484904466598">
-        <mark key="'" line="42" column="39" />
-        <mark key="[" line="60" column="112" />
-        <mark key="]" line="60" column="127" />
-        <mark key="." line="60" column="127" />
-        <mark key="^" line="60" column="127" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" timestamp="1484907682179">
+        <mark key="'" line="9" column="0" />
+        <mark key="[" line="62" column="41" />
+        <mark key="]" line="62" column="59" />
+        <mark key="." line="62" column="59" />
+        <mark key="^" line="62" column="59" />
       </file>
       <file name="$USER_HOME$/Projects/Cebiro-CRM/config/database.yml" timestamp="1474368189703">
         <mark key="[" line="14" column="12" />
@@ -861,6 +861,12 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config_list.rb" timestamp="1484641449388">
+        <mark key="'" line="18" column="10" />
+        <mark key="[" line="39" column="34" />
+        <mark key="]" line="39" column="34" />
+        <mark key="." line="39" column="34" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/bot_conf/bot_conf_controller.js" timestamp="1484639145927">
         <mark key="'" line="58" column="0" />
         <mark key="[" line="68" column="0" />
@@ -887,12 +893,11 @@
         <mark key="." line="41" column="18" />
         <mark key="^" line="41" column="42" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484904283256">
-        <mark key="'" line="63" column="21" />
-        <mark key="[" line="27" column="96" />
-        <mark key="]" line="27" column="96" />
-        <mark key="^" line="28" column="192" />
-        <mark key="." line="27" column="96" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1484908312781">
+        <mark key="'" line="147" column="11" />
+        <mark key="[" line="149" column="0" />
+        <mark key="]" line="149" column="0" />
+        <mark key="." line="149" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/device_type.rb" timestamp="1474542648114">
         <mark key="[" line="22" column="6" />
@@ -984,12 +989,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
-      <jump line="64" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
-      <jump line="7" column="306" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_syncer_spec.rb" />
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/user/edit.html" />
-      <jump line="34" column="37" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" />
-      <jump line="37" column="37" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" />
       <jump line="11" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/workstations/description_service_spec.rb" />
       <jump line="531" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
       <jump line="1" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/description_service.rb" />
@@ -1010,7 +1009,6 @@
       <jump line="124" column="48" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/bot_conf/bot_conf_controller.js" />
       <jump line="5" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/bot_conf/edit.html" />
       <jump line="4" column="41" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
-      <jump line="9" column="89" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
       <jump line="8" column="15" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
       <jump line="72" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
       <jump line="11" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
@@ -1084,59 +1082,62 @@
       <jump line="383" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
       <jump line="63" column="21" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="42" column="39" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
+      <jump line="60" column="49" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
+      <jump line="93" column="22" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="91" column="1" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="135" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="138" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="142" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="9" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>a</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGpvYl9iZWhhdmlvdXJfdHlwZSk7Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>a</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxOYW1lXD4=</text>
+        <text encoding="base64">XDxqYnRJbnB1dFZpc2libGVcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgdGhpcy5jcmVhdGVDbGlja0NvbmZpZyA9IGZ1bmN0aW9uIChwYXJhbXMsIG9wdGlvbnMpIHsKICAgICAgICB2YXIgY29uZnMgPSByZXN0YW5ndWxhci5hbGwoJ2NsaWNrX2NvbmZpZycpOwogICAgICAgIHJldHVybiBlcnJvcldyYXBwZXIoY29uZnMucG9zdChwYXJhbXMpLCBvcHRpb25zKTsKICAgICAgfQo=</text>
+        <text encoding="base64">ICAkc2NvcGUuam9iQmVoYXZpb3VyVHlwZU9wdGlvbnNMb2FkKCk7Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKGpvYl9iZWhhdmlvdXJfdHlwZSk7Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Y2xhc3MgSm9iQmVoYXZpb3V0VHlwZUNyZWF0ZSA8IEpvYkJlaGFBY3RpdmVUeXBlCg==</text>
+        <text encoding="base64">ICAgICAgICAgIGNvbnNvbGUubG9nKCdhZGRlZCcpOwo=</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgYXV0aG9yaXphdGlvbl9lcnJvcigiTm90IGVub3VnaCByaWdodHMgdG8gY3JlYXRlIGEgbmV3IEpvYkJlaGF2aW91clR5cGUiKQogICAgZW5kCg==</text>
+        <text encoding="base64">ICBBcGlTZXJ2aWNlLmdldEpvYkJlaGF2aW91clR5cGVzKCkudGhlbihmdW5jdGlvbihqb2JfYmVoYXZpb3VyX3R5cGVzKSB7CiAgICB2YXIgbW9kZWxfbGlzdCA9IG5ldyBNb2RlbExpc3QoSm9iQmVoYXZpb3VyVHlwZSkuaW5pdGlhbGl6ZSh7cGF5bG9hZDogam9iX2JlaGF2aW91cl90eXBlc30pOwogICAgJHNjb3BlLmpvYkJlaGF2aW91clR5cGVPcHRpb25zID0gbW9kZWxfbGlzdC5wYXlsb2FkOwogIH0pOwo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbnRleHQucG93ZXIubWFuYWdlX2pvYl9iYWhhdmlvdXJfdHlwZXM/Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICRzdGF0ZS5nbygnYXBwLm1haW5fbWVudS5hZG1pbi5pbXBvcnQnLCBudWxsLCB7IHJlbG9hZDogdHJ1ZSB9KTsK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICRzY29wZS4K</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIGlmIGNvbnRleHQucG93ZXIubWFuYWdlX2NsaWNrX2NvbmZpZ3M/Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGVsc2UKICAgICAgYXV0aG9yaXphdGlvbl9lcnJvcigiTm90IGVub3VnaCByaWdodHMgdG8gY3JlYXRlIGEgbmV3IENsaWNrQ29uZmlnIikKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICRzY29wZS4K</text>
       </register>
-      <register name="9" type="4">
-        <text>,
-        host: host,
-        path: path,
-        parameters: parameters,
-        code: code</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKCdkdXBhJyk7Cg==</text>
       </register>
       <register name=":" type="4">
         <text>40</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxOYW1lXD4=</last-search>
+      <last-search encoding="base64">XDxqYnRJbnB1dFZpc2libGVcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxOYW1lXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxqYnRJbnB1dFZpc2libGVcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1144,8 +1145,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1bnNhZmVfaHRtbF9saW5rXD4=</entry>
-        <entry encoding="base64">XDxodG1sX3dpdGhfdGFibGVcPg==</entry>
         <entry encoding="base64">XDxEZXNjcmlwdGlvblNlcnZpY2VcPg==</entry>
         <entry encoding="base64">XDxlcnJvcl9tZXNzYWdlXD4=</entry>
         <entry encoding="base64">XDxyZXNldFw+</entry>
@@ -1164,6 +1163,8 @@
         <entry encoding="base64">XDxJbXBvcnRGZXRjaGVyXD4=</entry>
         <entry encoding="base64">XDxJbXBvcnRTaG93Q29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxOYW1lXD4=</entry>
+        <entry encoding="base64">XDxjbGlja1w+</entry>
+        <entry encoding="base64">XDxqYnRJbnB1dFZpc2libGVcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
