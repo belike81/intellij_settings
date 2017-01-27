@@ -20,7 +20,7 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1485503749092">
+      <file name="/a.dummy" timestamp="1485527778938">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/job_expiry_entry_api.rb" timestamp="1485525979085">
@@ -491,6 +491,9 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/security/power.rb" timestamp="1485527781335">
+        <mark key="'" line="279" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_conf_entity.rb" timestamp="1484297477551">
         <mark key="[" line="3" column="0" />
         <mark key="]" line="3" column="0" />
@@ -704,12 +707,6 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_expiry_entry_active_type.rb" timestamp="1485526299910">
-        <mark key="[" line="26" column="45" />
-        <mark key="]" line="26" column="46" />
-        <mark key="." line="26" column="46" />
-        <mark key="^" line="26" column="45" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/event_queue/event_queue_controller.js" timestamp="1484652342011">
         <mark key="'" line="100" column="25" />
       </file>
@@ -779,8 +776,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="54" column="41" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_config_api.rb" />
-      <jump line="13" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config.rb" />
       <jump line="11" column="18" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config.rb" />
       <jump line="16" column="51" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_config_api.rb" />
       <jump line="51" column="102" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_config_api.rb" />
@@ -879,6 +874,8 @@
       <jump line="110" column="36" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
       <jump line="60" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="27" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
+      <jump line="0" column="16" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/security/power.rb" />
+      <jump line="279" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/security/power.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -921,7 +918,7 @@
         <text encoding="base64">CiAgICBkZXNjICJDcmVhdGUgYSBuZXcgSW1wb3J0IEZldGNoZXIiCiAgICBwYXJhbXMgZG8KICAgICAgcmVxdWlyZXMgOnR5cGUsIHR5cGU6IFN0cmluZywgZGVzYzogIlR5cGUiCiAgICAgIHJlcXVpcmVzIDpjb25maWcsIHR5cGU6IFN0cmluZywgZGVzYzogIkNvbmZpZyIKICAgICAgdXNlIDphdXRoZW50aWNhdGlvbgogICAgZW5kCiAgICBwb3N0IGRvCiAgICAgIGNyZWF0ZSA9IEltcG9ydDo6RmV0Y2hlckNyZWF0ZS5uZXcocGVybWl0dGVkX3BhcmFtcykKICAgICAgaWYgY3JlYXRlLnZhbGlkPwogICAgICAgIGV4cF9wcmVzZW50IGNyZWF0ZS5mZXRjaGVyLCB3aXRoOiBJbXBvcnQ6OkZldGNoZXJBY3RpdmVUeXBlOjpFbnRpdHksIGNvbnRleHQ6IGNvbnRleHQKICAgICAgZWxzZQogICAgICAgIGV4cF9wcmVzZW50IGNyZWF0ZSwgd2l0aDogSW1wb3J0OjpGZXRjaGVyQWN0aXZlVHlwZTo6RW50aXR5LCBjb250ZXh0OiBjb250ZXh0CiAgICAgIGVuZAogICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
-        <text>13</text>
+        <text>136</text>
       </register>
     </registers>
     <search>
@@ -972,6 +969,7 @@
         <entry>40</entry>
         <entry>67</entry>
         <entry>13</entry>
+        <entry>136</entry>
       </history-cmd>
       <history-expr />
       <history-input />
