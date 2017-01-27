@@ -37,11 +37,11 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/url_builder_api.rb" timestamp="1485516476082">
-        <mark key="[" line="40" column="95" />
-        <mark key="]" line="40" column="95" />
-        <mark key="." line="40" column="95" />
-        <mark key="^" line="36" column="41" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/url_builder_api.rb" timestamp="1485517187709">
+        <mark key="[" line="36" column="38" />
+        <mark key="]" line="36" column="43" />
+        <mark key="." line="36" column="43" />
+        <mark key="^" line="36" column="43" />
       </file>
       <file name="$USER_HOME$/Projects/guardians_destiny/.ruby-version" timestamp="1474958743668">
         <mark key="[" line="0" column="2" />
@@ -1054,10 +1054,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>, name: permitted_params[:name]</text>
+        <text>son</text>
       </register>
       <register name="-" type="4">
-        <text>, name: permitted_params[:name]</text>
+        <text>son</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmaWx0ZXJfbmFtZVw+</text>
