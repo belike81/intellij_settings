@@ -31,10 +31,10 @@
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1485524587384">
         <mark key="'" line="110" column="36" />
-        <mark key="[" line="604" column="67" />
-        <mark key="]" line="604" column="70" />
-        <mark key="^" line="604" column="70" />
-        <mark key="." line="604" column="70" />
+        <mark key="[" line="262" column="67" />
+        <mark key="]" line="262" column="70" />
+        <mark key="^" line="262" column="70" />
+        <mark key="." line="262" column="70" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_create.rb" timestamp="1485271504211">
         <mark key="'" line="0" column="0" />
@@ -204,11 +204,11 @@
         <mark key="^" line="9" column="1" />
         <mark key="." line="9" column="1" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/edit.html" timestamp="1485263409590">
-        <mark key="[" line="56" column="124" />
-        <mark key="]" line="56" column="132" />
-        <mark key="." line="56" column="132" />
-        <mark key="^" line="56" column="132" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/edit.html" timestamp="1485528863521">
+        <mark key="[" line="9" column="109" />
+        <mark key="]" line="9" column="114" />
+        <mark key="." line="9" column="114" />
+        <mark key="^" line="9" column="114" />
       </file>
       <file name="$USER_HOME$/Projects/guardians_destiny/app/models/user.rb" timestamp="1476195723604">
         <mark key="[" line="2" column="29" />
@@ -328,9 +328,6 @@
         <mark key="]" line="364" column="31" />
         <mark key="^" line="364" column="31" />
         <mark key="." line="364" column="31" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" timestamp="1483527869547">
-        <mark key="'" line="525" column="16" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_state_spec.rb" timestamp="1472545368379">
         <mark key="[" line="0" column="20" />
@@ -491,7 +488,7 @@
         <mark key="^" line="4" column="23" />
         <mark key="." line="4" column="23" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/security/power.rb" timestamp="1485527781335">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/security/power.rb" timestamp="1485528833765">
         <mark key="'" line="279" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_conf_entity.rb" timestamp="1484297477551">
@@ -669,13 +666,6 @@
         <mark key="]" line="3" column="31" />
         <mark key="." line="3" column="0" />
         <mark key="^" line="1" column="22" />
-      </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" timestamp="1485526746372">
-        <mark key="'" line="27" column="0" />
-        <mark key="[" line="87" column="0" />
-        <mark key="]" line="87" column="0" />
-        <mark key="^" line="60" column="95" />
-        <mark key="." line="87" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/country_api.rb" timestamp="1485263870534">
         <mark key="[" line="11" column="25" />
@@ -878,11 +868,11 @@
       <jump line="279" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/security/power.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIGNvbnNvbGUubG9nKG1vZGVsX2xpc3QucGF5bG9hZCk7Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Config</text>
       </register>
       <register name="-" type="4">
-        <text>:</text>
+        <text>Config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxJbXBvcnRTaG93Q29udHJvbGxlclw+</text>
