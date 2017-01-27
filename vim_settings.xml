@@ -18,8 +18,8 @@
       <file name="/a.dummy" timestamp="1484636913466">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1485509890874">
-        <mark key="'" line="258" column="0" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1485518017870">
+        <mark key="'" line="537" column="6" />
         <mark key="[" line="599" column="37" />
         <mark key="]" line="599" column="47" />
         <mark key="^" line="599" column="47" />
@@ -37,7 +37,8 @@
         <mark key="." line="2" column="14" />
         <mark key="^" line="2" column="14" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/url_builder_api.rb" timestamp="1485517187709">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/url_builder_api.rb" timestamp="1485517955947">
+        <mark key="'" line="30" column="0" />
         <mark key="[" line="36" column="38" />
         <mark key="]" line="36" column="43" />
         <mark key="." line="36" column="43" />
@@ -951,8 +952,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="89" column="40" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
-      <jump line="12" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
       <jump line="5" column="19" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" />
       <jump line="86" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_syncer.rb" />
       <jump line="48" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/merge.rb" />
@@ -1051,6 +1050,8 @@
       <jump line="41" column="8" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/url_builder_list.rb" />
       <jump line="96" column="25" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/concerns/global_context.rb" />
       <jump line="40" column="4" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/url_builder_list.rb" />
+      <jump line="30" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/url_builder_api.rb" />
+      <jump line="537" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
