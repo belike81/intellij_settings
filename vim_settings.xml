@@ -192,9 +192,9 @@
         <mark key="." line="2" column="60" />
         <mark key="^" line="2" column="60" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" timestamp="1485853009292">
-        <mark key="[" line="7" column="21" />
-        <mark key="]" line="7" column="30" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/lib/pjpp/sync/job_site_notes_syncer_spec.rb" timestamp="1485857218603">
+        <mark key="[" line="25" column="55" />
+        <mark key="]" line="25" column="84" />
         <mark key="." line="7" column="30" />
         <mark key="^" line="7" column="30" />
       </file>
@@ -752,11 +752,11 @@
         <mark key="." line="2" column="37" />
         <mark key="^" line="2" column="37" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1485853285050">
-        <mark key="[" line="6" column="0" />
-        <mark key="]" line="7" column="5" />
-        <mark key="^" line="7" column="5" />
-        <mark key="." line="7" column="5" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_notes_syncer.rb" timestamp="1485857350770">
+        <mark key="[" line="23" column="0" />
+        <mark key="]" line="25" column="76" />
+        <mark key="^" line="25" column="76" />
+        <mark key="." line="25" column="76" />
       </file>
       <file name="$USER_HOME$/Desktop/mc2_dev_core_video_player_sizes.sql" timestamp="1473831112880">
         <mark key="[" line="0" column="36" />
@@ -948,16 +948,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>scope</text>
+        <text>Legal note\n*******\nMore note</text>
       </register>
       <register name="-" type="4">
-        <text>scope</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIElNUExFTUVOVEVEX1BBUlNFUlMgPSAldyhKb2JQYXJzZXIgSm9iUGFyc2VyOjpMZWdhY3lKb2JQYXJzZXIpLmZyZWV6ZQo=</text>
+      <register name="0" type="4">
+        <text>Legal note\n*******\nMore note</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5nLW1vZGVsPSJuZXdJbXBvcnRKb2JGaWx0ZXIudHlwZSIgbmFtZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgbmV3IEpvYiBGaWx0ZXIgdHlwZSI+Cg==</text>
