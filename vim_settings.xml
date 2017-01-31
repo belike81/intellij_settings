@@ -43,12 +43,12 @@
         <mark key="." line="3" column="20" />
         <mark key="^" line="3" column="20" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" timestamp="1485793218094">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" timestamp="1485849456795">
         <mark key="'" line="69" column="0" />
-        <mark key="[" line="3" column="0" />
+        <mark key="[" line="3" column="66" />
         <mark key="]" line="3" column="73" />
-        <mark key="." line="3" column="38" />
-        <mark key="^" line="3" column="65" />
+        <mark key="." line="3" column="73" />
+        <mark key="^" line="3" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/target_group.rb" timestamp="1474699422314">
         <mark key="[" line="4" column="36" />
@@ -626,12 +626,12 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1485792816643">
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1485849289824">
         <mark key="'" line="0" column="6" />
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="49" />
-        <mark key="^" line="5" column="3" />
-        <mark key="." line="5" column="3" />
+        <mark key="[" line="4" column="30" />
+        <mark key="]" line="4" column="37" />
+        <mark key="^" line="4" column="37" />
+        <mark key="." line="4" column="37" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/url_builder/url_builder_controller.js" timestamp="1485532841592">
         <mark key="[" line="57" column="0" />
@@ -796,11 +796,11 @@
         <mark key="^" line="0" column="76" />
         <mark key="." line="0" column="76" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter.rb" timestamp="1485793235618">
-        <mark key="[" line="2" column="38" />
-        <mark key="]" line="2" column="38" />
-        <mark key="." line="2" column="38" />
-        <mark key="^" line="2" column="37" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter.rb" timestamp="1485849307451">
+        <mark key="[" line="2" column="29" />
+        <mark key="]" line="2" column="36" />
+        <mark key="." line="2" column="36" />
+        <mark key="^" line="2" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/ImportJobFilter.js" timestamp="1484655489239">
         <mark key="[" line="24" column="13" />
@@ -952,7 +952,7 @@
         <text encoding="base64">ICAgIElNUExFCg==</text>
       </register>
       <register name=":" type="4">
-        <text>29</text>
+        <text>16</text>
       </register>
     </registers>
     <search>
@@ -1006,6 +1006,7 @@
         <entry>11</entry>
         <entry>32</entry>
         <entry>29</entry>
+        <entry>16</entry>
       </history-cmd>
       <history-expr />
       <history-input />
