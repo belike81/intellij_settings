@@ -126,11 +126,12 @@
         <mark key="." line="4" column="53" />
         <mark key="^" line="4" column="53" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/event_queue/events/job_site_spec.rb" timestamp="1485858763941">
-        <mark key="[" line="2" column="45" />
-        <mark key="]" line="3" column="12" />
-        <mark key="^" line="3" column="12" />
-        <mark key="." line="3" column="12" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/event_queue/events/job_site_spec.rb" timestamp="1485862163814">
+        <mark key="'" line="26" column="44" />
+        <mark key="[" line="3" column="0" />
+        <mark key="]" line="3" column="0" />
+        <mark key="^" line="26" column="44" />
+        <mark key="." line="3" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/vendor/assets/javascripts/restangular.js" timestamp="1485524378128">
         <mark key="'" line="1302" column="12" />
@@ -848,7 +849,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_active_type.rb" />
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
       <jump line="26" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
@@ -948,13 +948,14 @@
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/api/import_config_api_spec.rb" />
       <jump line="429" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" />
       <jump line="430" column="14" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" />
+      <jump line="27" column="44" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/event_queue/events/job_site_spec.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>Legal note\n*******\nMore note</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>nil</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</text>
@@ -963,34 +964,34 @@
         <text>Legal note\n*******\nMore note</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5nLW1vZGVsPSJuZXdJbXBvcnRKb2JGaWx0ZXIudHlwZSIgbmFtZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgbmV3IEpvYiBGaWx0ZXIgdHlwZSI+Cg==</text>
+        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzZWxlY3QgbmctbW9kZWw9ImltcG9ydEVkaXRDdHJsLmN1cnJlbnRDb25mLmltcG9ydF9qb2JfZmlsdGVyX2NvbmZpZyIgY2xhc3M9ImNvbC1tZC0zIj4KICAgICAgICAgICAgPG9wdGlvbiBuZy1yZXBlYXQ9ImltcG9ydF9qb2JfZmlsdGVyIGluIGltcG9ydEpvYkZpbHRlck9wdGlvbnMiIHZhbHVlPSJ7e2ltcG9ydF9qb2JfZmlsdGVyfX0iPnt7aW1wb3J0X2pvYl9maWx0ZXJ9fTwvb3B0aW9uPgogICAgICAgICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5nLW1vZGVsPSJuZXdJbXBvcnRKb2JGaWx0ZXIudHlwZSIgbmFtZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgbmV3IEpvYiBGaWx0ZXIgdHlwZSI+Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVpLWNvZGVtaXJyb3IgbmctbW9kZWw9Im5ld0ltcG9ydEpvYkZpbHRlci5jb25maWciIHVpLWNvZGVtaXJyb3Itb3B0cz0iZWRpdG9yT3B0aW9ucyI+PC91aS1jb2RlbWlycm9yPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiBuZy1jbGljaz0iYWRkSW1wb3J0Sm9iRmlsdGVyKCkiIHZhbHVlPSJTYXZlIiAvPgogICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIDxzZWxlY3QgbmctbW9kZWw9ImltcG9ydEVkaXRDdHJsLmN1cnJlbnRDb25mLmltcG9ydF9qb2JfZmlsdGVyX2NvbmZpZyIgY2xhc3M9ImNvbC1tZC0zIj4KICAgICAgICAgICAgPG9wdGlvbiBuZy1yZXBlYXQ9ImltcG9ydF9qb2JfZmlsdGVyIGluIGltcG9ydEpvYkZpbHRlck9wdGlvbnMiIHZhbHVlPSJ7e2ltcG9ydF9qb2JfZmlsdGVyfX0iPnt7aW1wb3J0X2pvYl9maWx0ZXJ9fTwvb3B0aW9uPgogICAgICAgICAgPC9zZWxlY3Q+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIG5nLWNsaWNrPSJzaG93SWpmSW5wdXQoKSIgdmFsdWU9IkFkZCBKb2IgRmlsdGVyIiAvPgogICAgICAgICAgPGRpdiBuZy1zaG93PSJpamZJbnB1dFZpc2libGUiPgo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgPHVpLWNvZGVtaXJyb3IgbmctbW9kZWw9Im5ld0ltcG9ydEpvYkZpbHRlci5jb25maWciIHVpLWNvZGVtaXJyb3Itb3B0cz0iZWRpdG9yT3B0aW9ucyI+PC91aS1jb2RlbWlycm9yPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiBuZy1jbGljaz0iYWRkSW1wb3J0Sm9iRmlsdGVyKCkiIHZhbHVlPSJTYXZlIiAvPgogICAgICAgICAgPC9kaXY+Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAkc2NvcGUuaW1wb3J0Sm9iRmlsdGVyT3B0aW9uc0xvYWQoKTsKICAkc2NvcGUuaWpmSW5wdXRWaXNpYmxlID0gZmFsc2U7CiAgJHNjb3BlLm5ld0ltcG9ydEpvYkZpbHRlciA9IG5ldyBJbXBvcnRKb2JGaWx0ZXIoKTsKICAkc2NvcGUubmV3SW1wb3J0Sm9iRmlsdGVyLmluaXRpYWxpemUoKTsKCiAgJHNjb3BlLnNob3dJamZJbnB1dCA9IGZ1bmN0aW9uKCkgewogICAgJHNjb3BlLmlqZklucHV0VmlzaWJsZSA9IHRydWU7CiAgfTsKCiAgJHNjb3BlLmFkZEltcG9ydEpvYkZpbHRlciA9IGZ1bmN0aW9uKCkgewogICAgQXBpU2VydmljZS5jcmVhdGVJbXBvcnRKb2JGaWx0ZXIoJHNjb3BlLm5ld0ltcG9ydEpvYkZpbHRlci5zZXJpYWxpemUoKSkudGhlbigKICAgICAgICBmdW5jdGlvbihpbXBvcnRfam9iX2ZpbHRlcikgewogICAgICAgICAgJHNjb3BlLmltcG9ydEpvYkZpbHRlck9wdGlvbnNMb2FkKCk7CiAgICAgICAgICBzZWxmLmN1cnJlbnRDb25mLmltcG9ydF9qb2JfZmlsdGVyX2lkID0gaW1wb3J0X2pvYl9maWx0ZXIuaWQ7CiAgICAgICAgfQogICAgKTsKICAgICRzY29wZS5pamZJbnB1dFZpc2libGUgPSBmYWxzZTsKICB9Owo=</text>
+        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIG5nLWNsaWNrPSJzaG93SWpmSW5wdXQoKSIgdmFsdWU9IkFkZCBKb2IgRmlsdGVyIiAvPgogICAgICAgICAgPGRpdiBuZy1zaG93PSJpamZJbnB1dFZpc2libGUiPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHZhciBtb2RlbF9saXN0ID0gbmV3IE1vZGVsTGlzdChJbXBvcnRKb2JGaWx0ZXIpLmluaXRpYWxpemUoe3BheWxvYWQ6IGltcG9ydF9qb2JfZmlsdGVyc30pOwo=</text>
+        <text encoding="base64">ICAkc2NvcGUuaW1wb3J0Sm9iRmlsdGVyT3B0aW9uc0xvYWQoKTsKICAkc2NvcGUuaWpmSW5wdXRWaXNpYmxlID0gZmFsc2U7CiAgJHNjb3BlLm5ld0ltcG9ydEpvYkZpbHRlciA9IG5ldyBJbXBvcnRKb2JGaWx0ZXIoKTsKICAkc2NvcGUubmV3SW1wb3J0Sm9iRmlsdGVyLmluaXRpYWxpemUoKTsKCiAgJHNjb3BlLnNob3dJamZJbnB1dCA9IGZ1bmN0aW9uKCkgewogICAgJHNjb3BlLmlqZklucHV0VmlzaWJsZSA9IHRydWU7CiAgfTsKCiAgJHNjb3BlLmFkZEltcG9ydEpvYkZpbHRlciA9IGZ1bmN0aW9uKCkgewogICAgQXBpU2VydmljZS5jcmVhdGVJbXBvcnRKb2JGaWx0ZXIoJHNjb3BlLm5ld0ltcG9ydEpvYkZpbHRlci5zZXJpYWxpemUoKSkudGhlbigKICAgICAgICBmdW5jdGlvbihpbXBvcnRfam9iX2ZpbHRlcikgewogICAgICAgICAgJHNjb3BlLmltcG9ydEpvYkZpbHRlck9wdGlvbnNMb2FkKCk7CiAgICAgICAgICBzZWxmLmN1cnJlbnRDb25mLmltcG9ydF9qb2JfZmlsdGVyX2lkID0gaW1wb3J0X2pvYl9maWx0ZXIuaWQ7CiAgICAgICAgfQogICAgKTsKICAgICRzY29wZS5pamZJbnB1dFZpc2libGUgPSBmYWxzZTsKICB9Owo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICB9Cg==</text>
+        <text encoding="base64">ICAgIHZhciBtb2RlbF9saXN0ID0gbmV3IE1vZGVsTGlzdChJbXBvcnRKb2JGaWx0ZXIpLmluaXRpYWxpemUoe3BheWxvYWQ6IGltcG9ydF9qb2JfZmlsdGVyc30pOwo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAkc2NvcGUuaW1wb3J0Sm9iRmlsdGVyT3B0aW9uc0xvYWQgPSBmdW5jdGlvbiAoKSB7Cg==</text>
+        <text encoding="base64">ICB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIElNUExFCg==</text>
+        <text encoding="base64">ICAkc2NvcGUuaW1wb3J0Sm9iRmlsdGVyT3B0aW9uc0xvYWQgPSBmdW5jdGlvbiAoKSB7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>16</text>
+        <text>48</text>
       </register>
     </registers>
     <search>
@@ -1045,6 +1046,7 @@
         <entry>32</entry>
         <entry>29</entry>
         <entry>16</entry>
+        <entry>48</entry>
       </history-cmd>
       <history-expr />
       <history-input />
