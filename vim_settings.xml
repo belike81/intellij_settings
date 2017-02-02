@@ -850,11 +850,11 @@
         <mark key="." line="24" column="18" />
         <mark key="^" line="24" column="18" />
       </file>
-      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assembly/workstations/extractors/pjpp_base_extractor.rb" timestamp="1486039710933">
-        <mark key="[" line="96" column="103" />
-        <mark key="]" line="96" column="103" />
+      <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assembly/workstations/extractors/pjpp_base_extractor.rb" timestamp="1486042501807">
+        <mark key="[" line="96" column="101" />
+        <mark key="]" line="96" column="120" />
         <mark key="^" line="96" column="120" />
-        <mark key="." line="96" column="103" />
+        <mark key="." line="96" column="101" />
       </file>
     </filemarks>
     <jumps>
@@ -961,10 +961,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>replaces html escaped umlaute with their utf-8 character</text>
+        <text encoding="base64">LmdzdWIoJyZhbXA7JywgJyYnKQ==</text>
       </register>
       <register name="-" type="4">
-        <text>replaces html escaped umlaute with their utf-8 character</text>
+        <text encoding="base64">LmdzdWIoJyZhbXA7JywgJyYnKQ==</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</text>
