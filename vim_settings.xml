@@ -408,11 +408,12 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" timestamp="1496056044013">
-        <mark key="'" line="24" column="5" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" timestamp="1496058067834">
+        <mark key="'" line="2" column="10" />
+        <mark key="[" line="18" column="28" />
+        <mark key="]" line="18" column="73" />
+        <mark key="." line="18" column="73" />
+        <mark key="^" line="18" column="73" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_create.rb" timestamp="1485272309890">
         <mark key="[" line="12" column="24" />
@@ -556,12 +557,12 @@
         <mark key="." line="181" column="39" />
         <mark key="^" line="181" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" timestamp="1496048992872">
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" timestamp="1496058291147">
         <mark key="'" line="33" column="37" />
-        <mark key="[" line="7" column="24" />
-        <mark key="]" line="7" column="29" />
-        <mark key="^" line="7" column="29" />
-        <mark key="." line="7" column="29" />
+        <mark key="[" line="4" column="88" />
+        <mark key="]" line="4" column="91" />
+        <mark key="^" line="4" column="91" />
+        <mark key="." line="4" column="91" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/locations.rb" timestamp="1474648616925">
         <mark key="[" line="0" column="0" />
@@ -893,8 +894,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="93" column="22" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
-      <jump line="91" column="1" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="135" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="138" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="142" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
@@ -993,16 +992,18 @@
       <jump line="17" column="12" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
       <jump line="13" column="5" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
       <jump line="25" column="5" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="24" column="12" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="2" column="10" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Z2VtICd1bmljb3JuJwo=</text>
+      <register name="&quot;" type="4">
+        <text>belike81/ios-checkboxes</text>
       </register>
       <register name="-" type="4">
-        <text>your_production_db_name #CHANGE ME</text>
+        <text>belike81/ios-checkboxes</text>
       </register>
       <register name="/" type="4">
-        <text>unico</text>
+        <text>should</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0KDpzb3VyY2VfZGF0YSkgZG8KICAgICAgICB7ICJhcGlfa2V5IiA9PiAicTNvNGlqU1ZFUmFhYTEyMzRyc0FBQSIsICJqb2IiID0+IHsgInRpdGxlIiA9PiAiUHJvamVrdG1hbmFnZXIgKHcvbSkgZiZ1dW1sO3IgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdCZhdW1sO3QiCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBlbmQKICAgICAgbGV0KDpvdXRwdXQpIGRvCiAgICAgICAgeyAidGl0bGUiID0+ICAgICAgIFt7ICJjb25maWRlbmNlIiA9PiAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSIgPT4gIlByb2pla3RtYW5hZ2VyICh3L20pIGbDvHIgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdMOkdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb21tZW50IiA9PiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlY29nbml0aW9uX3Rva2VuIiA9PiAiU3BlY3NfZXh0cmFjdG9yIE1hcHBpbmciIH1dCiAgICAgICAgfQogICAgICBlbmQKICAgICAgaXQgInJlcGxhY2VzIGh0bWwgZXNjYXBlZCB1bWxhdXRlIHdpdGggdGhlaXIgdXRmLTggY2hhcmFjdGVyIiBkbwogICAgICAgIHN0dWJfZW52KCdwcm9kdWN0aW9uJykgZG8KICAgICAgICAgIGV4cGVjdChXb3Jrc3RhdGlvbnM6OkV4dHJhY3RvcnM6OlNwZWNFeHRyYWN0b3IubmV3KHZlcnNpb24pLmNhbGxfc2VydmljZS50b19oYXNoKS50byBlcSBvdXRwdXQKICAgICAgICBlbmQKICAgICAgZW5kCg==</text>
@@ -1039,9 +1040,9 @@
       </register>
     </registers>
     <search>
-      <last-search>unico</last-search>
+      <last-search>should</last-search>
       <last-offset />
-      <last-pattern>unico</last-pattern>
+      <last-pattern>should</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1049,7 +1050,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxwZXJtaXR0ZWRfcGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxTb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxNb2RlbExpc3RcPg==</entry>
@@ -1069,6 +1069,7 @@
         <entry encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</entry>
         <entry>unicon</entry>
         <entry>unico</entry>
+        <entry>should</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
