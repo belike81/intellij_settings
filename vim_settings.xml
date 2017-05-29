@@ -556,12 +556,12 @@
         <mark key="." line="181" column="39" />
         <mark key="^" line="181" column="39" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" timestamp="1496058291147">
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" timestamp="1496063117950">
         <mark key="'" line="33" column="37" />
-        <mark key="[" line="4" column="88" />
-        <mark key="]" line="4" column="91" />
-        <mark key="^" line="4" column="91" />
-        <mark key="." line="4" column="91" />
+        <mark key="[" line="4" column="92" />
+        <mark key="]" line="4" column="98" />
+        <mark key="^" line="4" column="98" />
+        <mark key="." line="4" column="98" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/locations.rb" timestamp="1474648616925">
         <mark key="[" line="0" column="0" />
