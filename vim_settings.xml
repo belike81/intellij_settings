@@ -316,6 +316,13 @@
         <mark key="." line="6" column="71" />
         <mark key="^" line="6" column="71" />
       </file>
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/docker-compose.yml" timestamp="1496055728001">
+        <mark key="'" line="14" column="16" />
+        <mark key="[" line="16" column="0" />
+        <mark key="]" line="16" column="0" />
+        <mark key="^" line="25" column="53" />
+        <mark key="." line="16" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/location.rb" timestamp="1474701668847">
         <mark key="[" line="2" column="42" />
         <mark key="]" line="2" column="42" />
@@ -401,12 +408,11 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" timestamp="1496053187611">
-        <mark key="'" line="16" column="2" />
-        <mark key="[" line="12" column="21" />
-        <mark key="]" line="13" column="12" />
-        <mark key="^" line="13" column="12" />
-        <mark key="." line="13" column="12" />
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" timestamp="1496056044013">
+        <mark key="'" line="24" column="5" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_create.rb" timestamp="1485272309890">
         <mark key="[" line="12" column="24" />
@@ -489,6 +495,12 @@
         <mark key="]" line="23" column="31" />
         <mark key="." line="23" column="31" />
         <mark key="^" line="23" column="31" />
+      </file>
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/database.yml" timestamp="1496055822987">
+        <mark key="[" line="19" column="0" />
+        <mark key="]" line="19" column="0" />
+        <mark key="^" line="18" column="26" />
+        <mark key="." line="19" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/index.html" timestamp="1485262893312">
         <mark key="[" line="7" column="21" />
@@ -881,12 +893,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher_active_type.rb" />
-      <jump line="10" column="30" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_behaviour_type_create.rb" />
-      <jump line="383" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
-      <jump line="63" column="21" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
-      <jump line="42" column="39" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
-      <jump line="60" column="49" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
       <jump line="93" column="22" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="91" column="1" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="135" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
@@ -981,55 +987,61 @@
       <jump line="15" column="2" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
       <jump line="33" column="37" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" />
       <jump line="58" column="2" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/containers/unicorn.rb" />
+      <jump line="18" column="16" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/docker-compose.yml" />
+      <jump line="67" column="2" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/database.yml" />
+      <jump line="19" column="11" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/database.yml" />
+      <jump line="17" column="12" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="13" column="5" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="25" column="5" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICd1bmljb3JuJwo=</text>
       </register>
       <register name="-" type="4">
-        <text>docker_example</text>
+        <text>your_production_db_name #CHANGE ME</text>
       </register>
       <register name="/" type="4">
-        <text>unicon</text>
+        <text>unico</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0KDpzb3VyY2VfZGF0YSkgZG8KICAgICAgICB7ICJhcGlfa2V5IiA9PiAicTNvNGlqU1ZFUmFhYTEyMzRyc0FBQSIsICJqb2IiID0+IHsgInRpdGxlIiA9PiAiUHJvamVrdG1hbmFnZXIgKHcvbSkgZiZ1dW1sO3IgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdCZhdW1sO3QiCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBlbmQKICAgICAgbGV0KDpvdXRwdXQpIGRvCiAgICAgICAgeyAidGl0bGUiID0+ICAgICAgIFt7ICJjb25maWRlbmNlIiA9PiAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSIgPT4gIlByb2pla3RtYW5hZ2VyICh3L20pIGbDvHIgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdMOkdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb21tZW50IiA9PiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlY29nbml0aW9uX3Rva2VuIiA9PiAiU3BlY3NfZXh0cmFjdG9yIE1hcHBpbmciIH1dCiAgICAgICAgfQogICAgICBlbmQKICAgICAgaXQgInJlcGxhY2VzIGh0bWwgZXNjYXBlZCB1bWxhdXRlIHdpdGggdGhlaXIgdXRmLTggY2hhcmFjdGVyIiBkbwogICAgICAgIHN0dWJfZW52KCdwcm9kdWN0aW9uJykgZG8KICAgICAgICAgIGV4cGVjdChXb3Jrc3RhdGlvbnM6OkV4dHJhY3RvcnM6OlNwZWNFeHRyYWN0b3IubmV3KHZlcnNpb24pLmNhbGxfc2VydmljZS50b19oYXNoKS50byBlcSBvdXRwdXQKICAgICAgICBlbmQKICAgICAgZW5kCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICd1bmljb3JuJwo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDpzb3VyY2VfZGF0YSkgZG8KICAgICAgICB7ICJhcGlfa2V5IiA9PiAicTNvNGlqU1ZFUmFhYTEyMzRyc0FBQSIsICJqb2IiID0+IHsgInRpdGxlIiA9PiAiICh3L20pIGYmdXVtbDtyIGRlbiBLb256ZXJuYmVyZWljaCBRdWFsaXQmYXVtbDt0Igo=</text>
+        <text encoding="base64">ZGV2ZWxvcG1lbnQ6CiAgYWRhcHRlcjogIHBvc3RncmVzcWwKICBob3N0OiAgICAgbG9jYWxob3N0CiAgZW5jb2Rpbmc6IHVuaWNvZGUKICBkYXRhYmFzZTogY2ViaXJvX2NybQogIHBvb2w6ICAgICA1CiAgdXNlcm5hbWU6IGJlbGlrZTgxCiAgcGFzc3dvcmQ6CiAgdGVtcGxhdGU6IHRlbXBsYXRlMAoKdGVzdDoKICBhZGFwdGVyOiAgcG9zdGdyZXNxbAogIGhvc3Q6ICAgICBsb2NhbGhvc3QKICBlbmNvZGluZzogdW5pY29kZQogIGRhdGFiYXNlOiBjZWJpcm9fY3JtX3Rlc3QKICBwb29sOiAgICAgNQogIHVzZXJuYW1lOiBiZWxpa2U4MQogIHBhc3N3b3JkOgogIHRlbXBsYXRlOiB0ZW1wbGF0ZTAKCnByb2R1Y3Rpb246CiAgYWRhcHRlcjogIHBvc3RncmVzcWwKICBob3N0OiAgICAgbG9jYWxob3N0CiAgZW5jb2Rpbmc6IHVuaWNvZGUKICBkYXRhYmFzZTogQ2ViaXJvLUNSTV9wcm9kdWN0aW9uCiAgcG9vbDogICAgIDUKICB1c2VybmFtZTogYmVsaWtlODEKICBwYXNzd29yZDoKICB0ZW1wbGF0ZTogdGVtcGxhdGUwCg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CjEKMgozCjQKNQo2CjcKOAo5CjEwCjExCjEyCjEzCjE0CjE1CjE2CjE3CjE4CjE5Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBiaW5kaW5nLnByeQo=</text>
+        <text encoding="base64">CjMKNAo1CjYKNwo4CjkKMTAK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPGlucHV0IHR5cGU9InRleHQiIG5nLW1vZGVsPSJuZXdJbXBvcnRKb2JGaWx0ZXIudHlwZSIgbmFtZT0iIiBwbGFjZWhvbGRlcj0iRW50ZXIgbmV3IEpvYiBGaWx0ZXIgdHlwZSI+Cg==</text>
+        <text encoding="base64">ICAjIHNvdXJjZXMgZW52aXJvbm1lbnQgdmFyaWFibGUgY29uZmlndXJhdGlvbiBmb3Igb3VyIGFwcAogIGVudl9maWxlOiAuZW52CiAK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxzZWxlY3QgbmctbW9kZWw9ImltcG9ydEVkaXRDdHJsLmN1cnJlbnRDb25mLmltcG9ydF9qb2JfZmlsdGVyX2NvbmZpZyIgY2xhc3M9ImNvbC1tZC0zIj4KICAgICAgICAgICAgPG9wdGlvbiBuZy1yZXBlYXQ9ImltcG9ydF9qb2JfZmlsdGVyIGluIGltcG9ydEpvYkZpbHRlck9wdGlvbnMiIHZhbHVlPSJ7e2ltcG9ydF9qb2JfZmlsdGVyfX0iPnt7aW1wb3J0X2pvYl9maWx0ZXJ9fTwvb3B0aW9uPgogICAgICAgICAgPC9zZWxlY3Q+Cg==</text>
+        <text encoding="base64">IAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgPHVpLWNvZGVtaXJyb3IgbmctbW9kZWw9Im5ld0ltcG9ydEpvYkZpbHRlci5jb25maWciIHVpLWNvZGVtaXJyb3Itb3B0cz0iZWRpdG9yT3B0aW9ucyI+PC91aS1jb2RlbWlycm9yPgogICAgICAgICAgICA8aW5wdXQgdHlwZT0ic3VibWl0IiBuZy1jbGljaz0iYWRkSW1wb3J0Sm9iRmlsdGVyKCkiIHZhbHVlPSJTYXZlIiAvPgogICAgICAgICAgPC9kaXY+Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIDxpbnB1dCB0eXBlPSJidXR0b24iIG5nLWNsaWNrPSJzaG93SWpmSW5wdXQoKSIgdmFsdWU9IkFkZCBKb2IgRmlsdGVyIiAvPgogICAgICAgICAgPGRpdiBuZy1zaG93PSJpamZJbnB1dFZpc2libGUiPgo=</text>
+        <text encoding="base64">ICAgICAgbGV0KDpzb3VyY2VfZGF0YSkgZG8KICAgICAgICB7ICJhcGlfa2V5IiA9PiAicTNvNGlqU1ZFUmFhYTEyMzRyc0FBQSIsICJqb2IiID0+IHsgInRpdGxlIiA9PiAiICh3L20pIGYmdXVtbDtyIGRlbiBLb256ZXJuYmVyZWljaCBRdWFsaXQmYXVtbDt0Igo=</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAkc2NvcGUuaW1wb3J0Sm9iRmlsdGVyT3B0aW9uc0xvYWQoKTsKICAkc2NvcGUuaWpmSW5wdXRWaXNpYmxlID0gZmFsc2U7CiAgJHNjb3BlLm5ld0ltcG9ydEpvYkZpbHRlciA9IG5ldyBJbXBvcnRKb2JGaWx0ZXIoKTsKICAkc2NvcGUubmV3SW1wb3J0Sm9iRmlsdGVyLmluaXRpYWxpemUoKTsKCiAgJHNjb3BlLnNob3dJamZJbnB1dCA9IGZ1bmN0aW9uKCkgewogICAgJHNjb3BlLmlqZklucHV0VmlzaWJsZSA9IHRydWU7CiAgfTsKCiAgJHNjb3BlLmFkZEltcG9ydEpvYkZpbHRlciA9IGZ1bmN0aW9uKCkgewogICAgQXBpU2VydmljZS5jcmVhdGVJbXBvcnRKb2JGaWx0ZXIoJHNjb3BlLm5ld0ltcG9ydEpvYkZpbHRlci5zZXJpYWxpemUoKSkudGhlbigKICAgICAgICBmdW5jdGlvbihpbXBvcnRfam9iX2ZpbHRlcikgewogICAgICAgICAgJHNjb3BlLmltcG9ydEpvYkZpbHRlck9wdGlvbnNMb2FkKCk7CiAgICAgICAgICBzZWxmLmN1cnJlbnRDb25mLmltcG9ydF9qb2JfZmlsdGVyX2lkID0gaW1wb3J0X2pvYl9maWx0ZXIuaWQ7CiAgICAgICAgfQogICAgKTsKICAgICRzY29wZS5pamZJbnB1dFZpc2libGUgPSBmYWxzZTsKICB9Owo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
       </register>
     </registers>
     <search>
-      <last-search>unicon</last-search>
+      <last-search>unico</last-search>
       <last-offset />
-      <last-pattern>unicon</last-pattern>
+      <last-pattern>unico</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1037,7 +1049,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjcmVhdGVfcGpwcF9pbXBvcnRfcmVjcnVpdGVyX2FuZF9zb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxwZXJtaXR0ZWRfcGFyYW1zXD4=</entry>
         <entry encoding="base64">XDxTb3VyY2VcPg==</entry>
@@ -1057,6 +1068,7 @@
         <entry encoding="base64">XDxtYW5hZ2VfaW1wb3J0X2NvbmZpZ3NcPg==</entry>
         <entry encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</entry>
         <entry>unicon</entry>
+        <entry>unico</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
