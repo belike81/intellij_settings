@@ -404,6 +404,9 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" timestamp="1496048705851">
+        <mark key="'" line="15" column="2" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_create.rb" timestamp="1485272309890">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="24" />
@@ -503,6 +506,12 @@
         <mark key="^" line="35" column="126" />
         <mark key="." line="35" column="89" />
       </file>
+      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="76" />
+        <mark key="^" line="0" column="76" />
+        <mark key="." line="0" column="76" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_job_filter_api.rb" timestamp="1485793214632">
         <mark key="[" line="23" column="37" />
         <mark key="]" line="23" column="43" />
@@ -526,6 +535,13 @@
         <mark key="]" line="181" column="39" />
         <mark key="." line="181" column="39" />
         <mark key="^" line="181" column="39" />
+      </file>
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" timestamp="1496048992872">
+        <mark key="'" line="33" column="37" />
+        <mark key="[" line="7" column="24" />
+        <mark key="]" line="7" column="29" />
+        <mark key="^" line="7" column="29" />
+        <mark key="." line="7" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/spec/factories/locations.rb" timestamp="1474648616925">
         <mark key="[" line="0" column="0" />
@@ -832,12 +848,6 @@
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483615845207">
         <mark key="'" line="54" column="2" />
       </file>
-      <file name="$APPLICATION_CONFIG_DIR$/consoles/.datagrid/cell" timestamp="1475057307320">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="76" />
-        <mark key="^" line="0" column="76" />
-        <mark key="." line="0" column="76" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter.rb" timestamp="1485849307451">
         <mark key="[" line="2" column="29" />
         <mark key="]" line="2" column="36" />
@@ -858,8 +868,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
-      <jump line="26" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher_active_type.rb" />
       <jump line="10" column="30" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_behaviour_type_create.rb" />
@@ -958,13 +966,15 @@
       <jump line="429" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" />
       <jump line="430" column="14" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" />
       <jump line="27" column="44" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/event_queue/events/job_site_spec.rb" />
+      <jump line="15" column="2" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="33" column="37" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">LmdzdWIoJyZhbXA7JywgJyYnKQ==</text>
+        <text>docker_example</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">LmdzdWIoJyZhbXA7JywgJyYnKQ==</text>
+        <text>docker_example</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</text>
