@@ -401,14 +401,25 @@
         <mark key="." line="0" column="26" />
         <mark key="^" line="0" column="26" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" timestamp="1496048705851">
-        <mark key="'" line="15" column="2" />
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" timestamp="1496053187611">
+        <mark key="'" line="16" column="2" />
+        <mark key="[" line="12" column="21" />
+        <mark key="]" line="13" column="12" />
+        <mark key="^" line="13" column="12" />
+        <mark key="." line="13" column="12" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser_create.rb" timestamp="1485272309890">
         <mark key="[" line="12" column="24" />
         <mark key="]" line="12" column="24" />
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="24" />
+      </file>
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/containers/unicorn.rb" timestamp="1496053174713">
+        <mark key="'" line="58" column="2" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="58" column="2" />
+        <mark key="^" line="58" column="2" />
+        <mark key="." line="58" column="2" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20170104103325_move_notes_to_job_sites.rb" timestamp="1483528144562">
         <mark key="[" line="1" column="6" />
@@ -870,7 +881,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/job_filter_active_type.rb" />
       <jump line="1" column="2" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher_active_type.rb" />
       <jump line="10" column="30" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_behaviour_type_create.rb" />
       <jump line="383" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
@@ -970,6 +980,7 @@
       <jump line="27" column="44" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/spec/models/event_queue/events/job_site_spec.rb" />
       <jump line="15" column="2" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
       <jump line="33" column="37" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Dockerfile" />
+      <jump line="58" column="2" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/containers/unicorn.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -979,7 +990,7 @@
         <text>docker_example</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</text>
+        <text>unicon</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0KDpzb3VyY2VfZGF0YSkgZG8KICAgICAgICB7ICJhcGlfa2V5IiA9PiAicTNvNGlqU1ZFUmFhYTEyMzRyc0FBQSIsICJqb2IiID0+IHsgInRpdGxlIiA9PiAiUHJvamVrdG1hbmFnZXIgKHcvbSkgZiZ1dW1sO3IgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdCZhdW1sO3QiCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBlbmQKICAgICAgbGV0KDpvdXRwdXQpIGRvCiAgICAgICAgeyAidGl0bGUiID0+ICAgICAgIFt7ICJjb25maWRlbmNlIiA9PiAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSIgPT4gIlByb2pla3RtYW5hZ2VyICh3L20pIGbDvHIgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdMOkdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb21tZW50IiA9PiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlY29nbml0aW9uX3Rva2VuIiA9PiAiU3BlY3NfZXh0cmFjdG9yIE1hcHBpbmciIH1dCiAgICAgICAgfQogICAgICBlbmQKICAgICAgaXQgInJlcGxhY2VzIGh0bWwgZXNjYXBlZCB1bWxhdXRlIHdpdGggdGhlaXIgdXRmLTggY2hhcmFjdGVyIiBkbwogICAgICAgIHN0dWJfZW52KCdwcm9kdWN0aW9uJykgZG8KICAgICAgICAgIGV4cGVjdChXb3Jrc3RhdGlvbnM6OkV4dHJhY3RvcnM6OlNwZWNFeHRyYWN0b3IubmV3KHZlcnNpb24pLmNhbGxfc2VydmljZS50b19oYXNoKS50byBlcSBvdXRwdXQKICAgICAgICBlbmQKICAgICAgZW5kCg==</text>
@@ -1016,9 +1027,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</last-search>
+      <last-search>unicon</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</last-pattern>
+      <last-pattern>unicon</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1026,7 +1037,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxJbXBvcnRDb25maWdFbnRpdHlcPg==</entry>
         <entry encoding="base64">XDxjcmVhdGVfcGpwcF9pbXBvcnRfcmVjcnVpdGVyX2FuZF9zb3VyY2VcPg==</entry>
         <entry encoding="base64">XDxpZFw+</entry>
         <entry encoding="base64">XDxwZXJtaXR0ZWRfcGFyYW1zXD4=</entry>
@@ -1046,6 +1056,7 @@
         <entry encoding="base64">XDxJbXBvcnRTaG93Q29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxtYW5hZ2VfaW1wb3J0X2NvbmZpZ3NcPg==</entry>
         <entry encoding="base64">XDxtYW5hZ2Vfc291cmNlc1w+</entry>
+        <entry>unicon</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
