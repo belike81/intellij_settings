@@ -420,12 +420,12 @@
         <mark key="^" line="12" column="31" />
         <mark key="." line="12" column="24" />
       </file>
-      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/containers/unicorn.rb" timestamp="1496053174713">
+      <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/containers/unicorn.rb" timestamp="1496235053772">
         <mark key="'" line="58" column="2" />
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="58" column="2" />
-        <mark key="^" line="58" column="2" />
-        <mark key="." line="58" column="2" />
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20170104103325_move_notes_to_job_sites.rb" timestamp="1483528144562">
         <mark key="[" line="1" column="6" />
