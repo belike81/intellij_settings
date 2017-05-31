@@ -15,6 +15,9 @@
         <mark key="." line="3" column="41" />
         <mark key="^" line="3" column="41" />
       </file>
+      <file name="/a.dummy" timestamp="1485791510402">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/job_expiry_entry_api.rb" timestamp="1485525979085">
         <mark key="[" line="10" column="60" />
         <mark key="]" line="10" column="60" />
@@ -817,6 +820,9 @@
         <mark key="]" line="6" column="4" />
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1496237048307">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/event_queue/event_queue_controller.js" timestamp="1484652342011">
         <mark key="'" line="100" column="25" />
