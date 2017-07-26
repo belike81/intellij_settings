@@ -356,6 +356,9 @@
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/ClickConfig.js" timestamp="1485255824618">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" timestamp="1501077281800">
+        <mark key="'" line="213" column="11" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/attribute_merging.rb" timestamp="1483544864536">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="11" />
@@ -911,7 +914,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="142" column="11" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="9" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/edit.html" />
       <jump line="528" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
       <jump line="260" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
@@ -1011,6 +1013,7 @@
       <jump line="2" column="10" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
       <jump line="22" column="32" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
       <jump line="40" column="49" filename="$USER_HOME$/Projects/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="213" column="11" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/backend/api_service.js" />
     </jumps>
     <registers>
       <register name="&quot;" type="8">
@@ -1021,7 +1024,7 @@
         <text>belike81/ios-checkboxes</text>
       </register>
       <register name="/" type="4">
-        <text>pry</text>
+        <text encoding="base64">XDxyZXByb2Nlc3NCb3RDb25mSWRlbnRpZmllcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgbGV0KDpzb3VyY2VfZGF0YSkgZG8KICAgICAgICB7ICJhcGlfa2V5IiA9PiAicTNvNGlqU1ZFUmFhYTEyMzRyc0FBQSIsICJqb2IiID0+IHsgInRpdGxlIiA9PiAiUHJvamVrdG1hbmFnZXIgKHcvbSkgZiZ1dW1sO3IgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdCZhdW1sO3QiCiAgICAgICAgICB9CiAgICAgICAgfQogICAgICBlbmQKICAgICAgbGV0KDpvdXRwdXQpIGRvCiAgICAgICAgeyAidGl0bGUiID0+ICAgICAgIFt7ICJjb25maWRlbmNlIiA9PiAxMDAsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJ2YWx1ZSIgPT4gIlByb2pla3RtYW5hZ2VyICh3L20pIGbDvHIgZGVuIEtvbnplcm5iZXJlaWNoIFF1YWxpdMOkdCIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICJjb21tZW50IiA9PiAiIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgInJlY29nbml0aW9uX3Rva2VuIiA9PiAiU3BlY3NfZXh0cmFjdG9yIE1hcHBpbmciIH1dCiAgICAgICAgfQogICAgICBlbmQKICAgICAgaXQgInJlcGxhY2VzIGh0bWwgZXNjYXBlZCB1bWxhdXRlIHdpdGggdGhlaXIgdXRmLTggY2hhcmFjdGVyIiBkbwogICAgICAgIHN0dWJfZW52KCdwcm9kdWN0aW9uJykgZG8KICAgICAgICAgIGV4cGVjdChXb3Jrc3RhdGlvbnM6OkV4dHJhY3RvcnM6OlNwZWNFeHRyYWN0b3IubmV3KHZlcnNpb24pLmNhbGxfc2VydmljZS50b19oYXNoKS50byBlcSBvdXRwdXQKICAgICAgICBlbmQKICAgICAgZW5kCg==</text>
@@ -1059,9 +1062,9 @@
       </register>
     </registers>
     <search>
-      <last-search>pry</last-search>
+      <last-search encoding="base64">XDxyZXByb2Nlc3NCb3RDb25mSWRlbnRpZmllcnNcPg==</last-search>
       <last-offset />
-      <last-pattern>pry</last-pattern>
+      <last-pattern encoding="base64">XDxyZXByb2Nlc3NCb3RDb25mSWRlbnRpZmllcnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1069,7 +1072,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxNb2RlbExpc3RcPg==</entry>
         <entry>mount</entry>
         <entry encoding="base64">XDxJbXBvcnRFZGl0Q29udHJvbGxlclw+</entry>
         <entry encoding="base64">XDxKb2JCZWhhdmlvdXJUeXBlXD4=</entry>
@@ -1089,6 +1091,7 @@
         <entry>should</entry>
         <entry>pry-remo</entry>
         <entry>pry</entry>
+        <entry encoding="base64">XDxyZXByb2Nlc3NCb3RDb25mSWRlbnRpZmllcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
