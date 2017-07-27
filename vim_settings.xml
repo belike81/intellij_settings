@@ -114,6 +114,12 @@
         <mark key="^" line="3" column="30" />
         <mark key="." line="3" column="30" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/db/migrate/20160728133828_remove_index_job_annotations_on_creator_id.rb" timestamp="1501141285701">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/bot_conf/index.html" timestamp="1484219862780">
         <mark key="[" line="7" column="21" />
         <mark key="]" line="7" column="24" />
@@ -513,6 +519,12 @@
         <mark key="]" line="7" column="27" />
         <mark key="^" line="7" column="27" />
         <mark key="." line="7" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/db/migrate/20160728131047_remove_index_job_annotations_on_workstation_name.rb" timestamp="1501141277924">
+        <mark key="[" line="2" column="4" />
+        <mark key="]" line="2" column="4" />
+        <mark key="^" line="2" column="4" />
+        <mark key="." line="2" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/main_menu/index.html" timestamp="1484639464129">
         <mark key="[" line="28" column="60" />
