@@ -9,12 +9,12 @@
         <mark key="^" line="48" column="33" />
         <mark key="." line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" timestamp="1501672882662">
-        <mark key="'" line="68" column="10" />
-        <mark key="[" line="73" column="14" />
-        <mark key="]" line="73" column="14" />
-        <mark key="." line="73" column="14" />
-        <mark key="^" line="73" column="13" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" timestamp="1501674846224">
+        <mark key="'" line="69" column="14" />
+        <mark key="[" line="71" column="0" />
+        <mark key="]" line="71" column="0" />
+        <mark key="^" line="68" column="33" />
+        <mark key="." line="71" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_content_types.html.erb" timestamp="1474284528453">
         <mark key="[" line="3" column="35" />
@@ -976,7 +976,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="33" column="6" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_controller.js" />
       <jump line="66" column="9" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/source_controller.js" />
       <jump line="14" column="17" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/source_controller.js" />
       <jump line="19" column="17" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/source_controller.js" />
@@ -1076,57 +1075,58 @@
       <jump line="27" column="12" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="68" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="13" column="31" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
+      <jump line="70" column="14" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxwcm9jZXNzX3Jlc3BvbnNlX2JvZHlcPg==</text>
+        <text>bind</text>
       </register>
       <register name="0" type="4">
         <text>'ContextService'</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICAjIEhhbmRsZSBlbnRyaWVzIG9uZSBieSBvbmUKICAgICAgICAgICAgICB6aXBfZmlsZS5lYWNoIGRvIHxlbnRyeXwKICAgICAgICAgICAgICAgICMgRXh0cmFjdCB0byBmaWxlL2RpcmVjdG9yeS9zeW1saW5rCiAgICAgICAgICAgICAgICBwdXRzICJFeHRyYWN0aW5nICN7ZW50cnkubmFtZX0iCiAgICAgICAgICAgICAgICBlbnRyeS5leHRyYWN0KGRlc3RfZmlsZSkKCiAgICAgICAgICAgICAgICAjIFJlYWQgaW50byBtZW1vcnkKICAgICAgICAgICAgICAgIGNvbnRlbnQgPSBlbnRyeS5nZXRfaW5wdXRfc3RyZWFtLnJlYWQKICAgICAgICAgICAgICBlbmQKCiAgICAgICAgICAgICAgIyBGaW5kIHNwZWNpZmljIGVudHJ5Cg==</text>
+        <text encoding="base64">ICAgICAgICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuYm9keQo=</text>
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5wcnkK</text>
       </register>
-      <register name="4" type="4">
+      <register name="4" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgICAjIEhhbmRsZSBlbnRyaWVzIG9uZSBieSBvbmUKICAgICAgICAgICAgICB6aXBfZmlsZS5lYWNoIGRvIHxlbnRyeXwKICAgICAgICAgICAgICAgICMgRXh0cmFjdCB0byBmaWxlL2RpcmVjdG9yeS9zeW1saW5rCiAgICAgICAgICAgICAgICBwdXRzICJFeHRyYWN0aW5nICN7ZW50cnkubmFtZX0iCiAgICAgICAgICAgICAgICBlbnRyeS5leHRyYWN0KGRlc3RfZmlsZSkKCiAgICAgICAgICAgICAgICAjIFJlYWQgaW50byBtZW1vcnkKICAgICAgICAgICAgICAgIGNvbnRlbnQgPSBlbnRyeS5nZXRfaW5wdXRfc3RyZWFtLnJlYWQKICAgICAgICAgICAgICBlbmQKCiAgICAgICAgICAgICAgIyBGaW5kIHNwZWNpZmljIGVudHJ5Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgcmVzcG9uc2UuYm9keQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAgICAgYmluZGluZy5wcnkK</text>
+      </register>
+      <register name="7" type="4">
         <text>Fix for having a nil value in the salaries in case of no locations given
 
 This is a fix for the issue reported http://agile.experteer.com/browse/JCA-138</text>
       </register>
-      <register name="5" type="2">
+      <register name="8" type="2">
         <text encoding="base64">ICAgICAgc2VsZi5zb3VyY2UudXNlcl9pZCA9IHVzZXJfaWQK</text>
       </register>
-      <register name="6" type="2">
-        <text encoding="base64">CiAgZGVidWdnZXIKCg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICBkZWJ1Z2dlcjsK</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">ICBjb25zb2xlLmxvZyhDb250ZXh0U2VydmljZS51c2VySWQoKSk7Cg==</text>
-      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgICAgICBmdW5jdGlvbihzb3VyY2UpIHsKICAgICAgICAgICAgICAgIHNlbGYuc291cmNlQ29uZi5pbml0aWFsaXplKHNvdXJjZSk7Cg==</text>
+        <text encoding="base64">CiAgZGVidWdnZXIKCg==</text>
       </register>
       <register name=":" type="4">
         <text>48</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxwcm9jZXNzX3Jlc3BvbnNlX2JvZHlcPg==</last-search>
+      <last-search>bind</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxwcm9jZXNzX3Jlc3BvbnNlX2JvZHlcPg==</last-pattern>
+      <last-pattern>bind</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1134,7 +1134,6 @@ This is a fix for the issue reported http://agile.experteer.com/browse/JCA-138</
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxpZklucHV0VmlzaWJsZVw+</entry>
         <entry encoding="base64">XDxqb2JfZXhwaXJ5X2VudHJpZXNcPg==</entry>
         <entry encoding="base64">XDxnZXRMaXN0XD4=</entry>
         <entry encoding="base64">XDxJbXBvcnRTaG93Q29udHJvbGxlclw+</entry>
@@ -1154,6 +1153,7 @@ This is a fix for the issue reported http://agile.experteer.com/browse/JCA-138</
         <entry encoding="base64">XDxmZXRjaF9yZWRpcmVjdFw+</entry>
         <entry encoding="base64">XDxmZXRjaF9kaXJlY3RcPg==</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Jlc3BvbnNlX2JvZHlcPg==</entry>
+        <entry>bind</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
