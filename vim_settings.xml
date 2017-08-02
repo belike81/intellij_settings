@@ -86,7 +86,13 @@
         <mark key="." line="32" column="25" />
         <mark key="^" line="32" column="25" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1501682941713">
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_job_extractor.rb" timestamp="1501687458207">
+        <mark key="[" line="13" column="53" />
+        <mark key="]" line="14" column="16" />
+        <mark key="^" line="14" column="16" />
+        <mark key="." line="14" column="16" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1501687760526">
         <mark key="'" line="57" column="0" />
         <mark key="[" line="59" column="0" />
         <mark key="]" line="59" column="0" />
