@@ -98,11 +98,11 @@
         <mark key="]" line="17" column="14" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1501764456749">
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1501767052826">
         <mark key="'" line="17" column="0" />
-        <mark key="[" line="7" column="0" />
-        <mark key="]" line="7" column="0" />
-        <mark key="." line="7" column="0" />
+        <mark key="[" line="8" column="24" />
+        <mark key="]" line="8" column="24" />
+        <mark key="." line="8" column="24" />
         <mark key="^" line="9" column="18" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config_active_type.rb" timestamp="1485268575540">
@@ -1144,10 +1144,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>generated_filename</text>
+        <text>config</text>
       </register>
       <register name="-" type="4">
-        <text>generated_filename</text>
+        <text>config</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxzdG9yZV9wYXRoXD4=</text>
@@ -1237,8 +1237,8 @@
         <entry>48</entry>
         <entry>wincmd j</entry>
         <entry>406</entry>
-        <entry>wincmd l</entry>
         <entry>wincmd h</entry>
+        <entry>wincmd l</entry>
       </history-cmd>
       <history-expr />
       <history-input />
