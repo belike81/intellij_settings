@@ -98,8 +98,8 @@
         <mark key="]" line="14" column="0" />
         <mark key="." line="14" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1501754800587">
-        <mark key="'" line="51" column="21" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1501755606088">
+        <mark key="'" line="17" column="0" />
         <mark key="[" line="6" column="0" />
         <mark key="]" line="6" column="0" />
         <mark key="." line="6" column="0" />
@@ -772,6 +772,12 @@
         <mark key="^" line="24" column="43" />
         <mark key="." line="24" column="43" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assembly/workstations/salary_extractor.rb" timestamp="1501755736396">
+        <mark key="[" line="70" column="37" />
+        <mark key="]" line="71" column="9" />
+        <mark key="^" line="71" column="9" />
+        <mark key="." line="71" column="9" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/config/database.yml" timestamp="1474714829100">
         <mark key="[" line="11" column="12" />
         <mark key="]" line="11" column="26" />
@@ -935,7 +941,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501744318974">
+      <file name="/Dummy.txt" timestamp="1501755784632">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1084,7 +1090,6 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/tmp/import/cache/dupa.xml" />
       <jump line="5208" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/tmp/import/cache/dupa.xml" />
       <jump line="73" column="14" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="17" column="14" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="28" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="44" column="55" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="21" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
@@ -1124,6 +1129,7 @@
       <jump line="27" column="12" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="100" column="2" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="11" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
+      <jump line="17" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1250,6 +1256,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed CLOSE_BRACKET</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
