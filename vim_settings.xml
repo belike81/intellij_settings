@@ -219,8 +219,10 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" timestamp="1501695257437">
-        <mark key="'" line="34" column="13" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" timestamp="1501768181882">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="0" />
+        <mark key="." line="34" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/description_service.rb" timestamp="1484741243815">
         <mark key="'" line="13" column="0" />
@@ -374,6 +376,12 @@
         <mark key="]" line="6" column="71" />
         <mark key="." line="6" column="71" />
         <mark key="^" line="6" column="71" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/lib/consumers/xml_feed_consumer.rb" timestamp="1501768355785">
+        <mark key="[" line="15" column="55" />
+        <mark key="]" line="15" column="68" />
+        <mark key="." line="15" column="68" />
+        <mark key="^" line="15" column="68" />
       </file>
       <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/docker-compose.yml" timestamp="1496055728001">
         <mark key="'" line="14" column="16" />
@@ -1015,12 +1023,11 @@
         <mark key="." line="2" column="36" />
         <mark key="^" line="2" column="36" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" timestamp="1501763700398">
-        <mark key="'" line="48" column="44" />
-        <mark key="[" line="48" column="42" />
-        <mark key="]" line="48" column="48" />
-        <mark key="." line="48" column="48" />
-        <mark key="^" line="48" column="48" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" timestamp="1501768345636">
+        <mark key="[" line="35" column="0" />
+        <mark key="]" line="35" column="0" />
+        <mark key="." line="35" column="0" />
+        <mark key="^" line="42" column="3" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/assembly/assembly_line_spec.rb" timestamp="1501759027818">
         <mark key="[" line="401" column="0" />
@@ -1041,9 +1048,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="34" column="21" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_edit_controller.js" />
-      <jump line="60" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_edit_controller.js" />
-      <jump line="90" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_edit_controller.js" />
       <jump line="29" column="12" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="13" column="31" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/Gemfile.lock" />
@@ -1141,43 +1145,46 @@
       <jump line="96" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="97" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="92" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
+      <jump line="36" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
+      <jump line="2" column="17" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
+      <jump line="6" column="7" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>config</text>
+        <text>get_feed</text>
       </register>
       <register name="-" type="4">
-        <text>config</text>
+        <text>get_feed</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzdG9yZV9wYXRoXD4=</text>
+        <text encoding="base64">XDxlcnJvcnNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAdXJsID0gb3B0aW9uc1s6dXJsXQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgQGxpc3Quc2xpY2UoMC4uOSkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICByZXR1cm4gQHJlc3BvbnNlIEByZXNwb25zZQo=</text>
+        <text encoding="base64">ICAgICAgQGVycm9ycyA9IFtdCiAgICAgIEBsaXN0ID0gW10K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIGF0dHJfcmVhZGVyIDpzdGF0cwoK</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHMuZmlsZV9mZXRjaF9lcnJvciEK</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgICAgc3RhdHMuZmlsZV9mZXRjaGVkIQo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBpbml0aWFsaXpqagogICAgICBAc3RhdHMgPSBTdGF0aXN0aWNzLm5ldwogICAgZW5kCgo=</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRlZiBmZXRjaF94bWwodXJsLCBmb3JjZTogZmFsc2UpCiAgICAgIEBpbXBvcnRfY29uZmlnLmZldGNoZXIuZmV0Y2hfdXJsKHVybCwgZm9yY2UpCiAgICBlbmQKCg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgICAgICAgIGVhY2hfZXh0cmFjdGVkX2pvYl94bWwoZnVsbF94bWwpIGRvIHxzaW5nbGVfam9iX3htbHwKICAgICAgICAgICAgQGxpc3QgPDwgWG1sSm9iLm5ldyhzaW5nbGVfam9iX3htbCkKICAgICAgICAgIGVuZAo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICB1cmxzLmVhY2ggZG8gfHVybHwK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBkZWYgZ2V0X2ZlZWQKICAgICAgQGltcG9ydF9jb25maWcudXJsX2J1aWxkZXJzLmVhY2ggZG8gfHVybF9idWlsZGVyfAogICAgICAgIHVybHMgPSB1cmxfYnVpbGRlci5idWlsZAoKICAgICAgICB1cmxzLmVhY2ggZG8gfHVybHwKICAgICAgICAgIGZ1bGxfeG1sID0gZmV0Y2hfeG1sKHVybCkKICAgICAgICAgIGVhY2hfZXh0cmFjdGVkX2pvYl94bWwoZnVsbF94bWwpIGRvIHxzaW5nbGVfam9iX3htbHwKICAgICAgICAgICAgQGxpc3QgPDwgWG1sSm9iLm5ldyhzaW5nbGVfam9iX3htbCkKICAgICAgICAgIGVuZAogICAgICAgIGVuZAogICAgICBlbmQKICAgIGVuZAo=</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICAgIGZldGNoX3JlZGlyZWN0KGNvbmZpZ1snbWF4X3JlZGlyZWN0cyddIHx8IERFRkFVTFRfTUFYX1JFRElSRUNUUykK</text>
+        <text encoding="base64">ICAgICAgICBmZWVkLmdldF9mZWVkCg==</text>
       </register>
       <register name="9" type="2">
         <text encoding="base64">Cg==</text>
@@ -1187,9 +1194,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzdG9yZV9wYXRoXD4=</last-search>
+      <last-search encoding="base64">XDxlcnJvcnNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzdG9yZV9wYXRoXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxlcnJvcnNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1197,7 +1204,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjYWNoZV9maWxlbmFtZVw+</entry>
         <entry>ssl</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Jlc3BvbnNlX2JvZHlcPg==</entry>
         <entry encoding="base64">XDxzdG9yZVw+</entry>
@@ -1217,6 +1223,7 @@
         <entry encoding="base64">XDxfdXJpXD4=</entry>
         <entry encoding="base64">XDx1cmlfb2JqXD4=</entry>
         <entry encoding="base64">XDxzdG9yZV9wYXRoXD4=</entry>
+        <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
