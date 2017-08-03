@@ -643,11 +643,6 @@
         <mark key="^" line="13" column="15" />
         <mark key="." line="14" column="25" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/statistics/statistics_type_controller.js" timestamp="1501147194308">
-        <mark key="'" line="17" column="34" />
-        <mark key="[" line="10" column="36" />
-        <mark key="]" line="10" column="51" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_interstitials.html.erb" timestamp="1474284518763">
         <mark key="[" line="3" column="36" />
         <mark key="]" line="3" column="42" />
@@ -941,7 +936,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501755784632">
+      <file name="/Dummy.txt" timestamp="1501759033468">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1015,6 +1010,11 @@
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" timestamp="1501695112063">
         <mark key="'" line="15" column="21" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/assembly/assembly_line_spec.rb" timestamp="1501759027818">
+        <mark key="[" line="401" column="0" />
+        <mark key="]" line="401" column="123" />
+        <mark key="." line="401" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/ImportJobFilter.js" timestamp="1484655489239">
         <mark key="[" line="24" column="13" />
@@ -1133,7 +1133,7 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">CiAgICBhdHRyX3JlYWRlciA6ZmlsZW5hbWUK</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0X2FueV9pbnN0YW5jZV9vZihBc3NlbWJseUxpbmUpLnRvIHJlY2VpdmUoOmNhbGxfd29ya3N0YXRpb24pLndpdGgoV29ya3N0YXRpb25zOjpTYWxhcnlFeHRyYWN0b3IpLmFuZF9yZXR1cm4oe30pCg==</text>
       </register>
       <register name="-" type="4">
         <text>generate_filename(url)</text>
@@ -1142,7 +1142,7 @@
         <text encoding="base64">XDxmZXRjaF9yZWRpcmVjdFw+</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZGVmIGNhY2hlX2ZpbGVuYW1lCiAgICAgICAgQGNhY2hlX2ZpbGVuYW1lIHx8PSBGaWxlLmpvaW4oUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmltcG9ydF9jYWNoZV9kaXIsIGdlbmVyYXRlX2ZpbGVuYW1lKHVybCkpCiAgICAgIGVuZAoKICAgICAgZGVmIGVuc3VyZV9jYWNoZV9kaXIKICAgICAgICBGaWxlVXRpbHMubWtkaXJfcChSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuaW1wb3J0X2NhY2hlX2RpcikgdW5sZXNzIEZpbGUuZXhpc3Q/KFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5pbXBvcnRfY2FjaGVfZGlyKQogICAgICBlbmQKCiAgICAgIGRlZiBnZW5lcmF0ZV9maWxlbmFtZShzdHJpbmcpCiAgICAgICAgc3RyaW5nLmdzdWIoL1teXHdccyxcW1xdK18tXSsvLCAnLScpCiAgICAgICAgICAgIC5nc3ViKC8oXnxcYlxzKVxzKygkfFxzP1xiKS8sICdcXDFcXDInKQogICAgICAgICAgICAuZ3N1YigvXHMrfCwvLCAnXycpCiAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgICAgZXhwZWN0X2FueV9pbnN0YW5jZV9vZihBc3NlbWJseUxpbmUpLnRvIHJlY2VpdmUoOmNhbGxfd29ya3N0YXRpb24pLndpdGgoV29ya3N0YXRpb25zOjpTYWxhcnlFeHRyYWN0b3IpLmFuZF9yZXR1cm4oe30pCg==</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">CiAgICBhdHRyX3JlYWRlciA6ZmlsZW5hbWUK</text>
@@ -1172,7 +1172,7 @@
         <text encoding="base64">ICAgICAgcHJpdmF0ZQo=</text>
       </register>
       <register name=":" type="4">
-        <text>48</text>
+        <text>406</text>
       </register>
     </registers>
     <search>
@@ -1208,7 +1208,6 @@
         <entry encoding="base64">XDxmZXRjaF9yZWRpcmVjdFw+</entry>
       </history-search>
       <history-cmd>
-        <entry>19</entry>
         <entry>168</entry>
         <entry>38</entry>
         <entry>98</entry>
@@ -1228,6 +1227,7 @@
         <entry>wincmd j</entry>
         <entry>wincmd h</entry>
         <entry>wincmd l</entry>
+        <entry>406</entry>
       </history-cmd>
       <history-expr />
       <history-input />
