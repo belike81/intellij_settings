@@ -9,12 +9,12 @@
         <mark key="^" line="48" column="33" />
         <mark key="." line="48" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" timestamp="1501765432074">
-        <mark key="'" line="69" column="150" />
-        <mark key="[" line="9" column="28" />
-        <mark key="]" line="9" column="21" />
-        <mark key="." line="9" column="21" />
-        <mark key="^" line="9" column="21" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" timestamp="1501766356204">
+        <mark key="'" line="92" column="18" />
+        <mark key="[" line="28" column="20" />
+        <mark key="]" line="28" column="29" />
+        <mark key="." line="28" column="29" />
+        <mark key="^" line="28" column="29" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_content_types.html.erb" timestamp="1474284528453">
         <mark key="[" line="3" column="35" />
@@ -1041,7 +1041,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="17" column="34" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/statistics/statistics_type_controller.js" />
       <jump line="34" column="21" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_edit_controller.js" />
       <jump line="60" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_edit_controller.js" />
       <jump line="90" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/import/import_edit_controller.js" />
@@ -1119,7 +1118,6 @@
       <jump line="37" column="30" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="55" column="28" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="90" column="15" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="96" column="66" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="103" column="17" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="104" column="120" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="54" column="19" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
@@ -1130,7 +1128,6 @@
       <jump line="44" column="50" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="32" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="94" column="77" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="97" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="19" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="25" column="20" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="98" column="20" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
@@ -1141,16 +1138,19 @@
       <jump line="59" column="31" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="60" column="56" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="69" column="150" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
+      <jump line="96" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
+      <jump line="97" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
+      <jump line="92" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>_</text>
+        <text>generated_filename</text>
       </register>
       <register name="-" type="4">
-        <text>_</text>
+        <text>generated_filename</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cmlfb2JqXD4=</text>
+        <text encoding="base64">XDxzdG9yZV9wYXRoXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAdXJsID0gb3B0aW9uc1s6dXJsXQo=</text>
@@ -1187,9 +1187,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cmlfb2JqXD4=</last-search>
+      <last-search encoding="base64">XDxzdG9yZV9wYXRoXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cmlfb2JqXD4=</last-pattern>
+      <last-pattern encoding="base64">XDxzdG9yZV9wYXRoXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1197,7 +1197,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzY3J1Yl9pbnZhbGlkX2NoYXJhY3RlcnNcPg==</entry>
         <entry encoding="base64">XDxjYWNoZV9maWxlbmFtZVw+</entry>
         <entry>ssl</entry>
         <entry encoding="base64">XDxwcm9jZXNzX3Jlc3BvbnNlX2JvZHlcPg==</entry>
@@ -1217,6 +1216,7 @@
         <entry encoding="base64">XDxnZW5lcmF0ZWRfZmlsZW5hbWVcPg==</entry>
         <entry encoding="base64">XDxfdXJpXD4=</entry>
         <entry encoding="base64">XDx1cmlfb2JqXD4=</entry>
+        <entry encoding="base64">XDxzdG9yZV9wYXRoXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
