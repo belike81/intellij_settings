@@ -1225,9 +1225,9 @@
         <entry>16</entry>
         <entry>48</entry>
         <entry>wincmd j</entry>
-        <entry>wincmd h</entry>
         <entry>wincmd l</entry>
         <entry>406</entry>
+        <entry>wincmd h</entry>
       </history-cmd>
       <history-expr />
       <history-input />
