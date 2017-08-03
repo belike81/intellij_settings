@@ -840,8 +840,8 @@
         <mark key="^" line="81" column="89" />
         <mark key="." line="81" column="89" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/Gemfile.lock" timestamp="1501676643538">
-        <mark key="'" line="498" column="8" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/Gemfile.lock" timestamp="1501749296296">
+        <mark key="'" line="449" column="7" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_size_spec.rb" timestamp="1472545549273">
         <mark key="[" line="1" column="0" />
@@ -1014,7 +1014,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="279" column="0" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/security/power.rb" />
       <jump line="51" column="45" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/edit.html" />
       <jump line="9" column="45" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/admin/source/edit.html" />
       <jump line="14" column="41" filename="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/import_config_api.rb" />
@@ -1114,6 +1113,7 @@
       <jump line="27" column="12" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="59" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/.rubocop.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/.rubocop_todo.yml" />
+      <jump line="449" column="7" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/Gemfile.lock" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1123,7 +1123,7 @@
         <text>false</text>
       </register>
       <register name="/" type="4">
-        <text>Use</text>
+        <text>rubyrace</text>
       </register>
       <register name="0" type="4">
         <text>'ContextService'</text>
@@ -1160,9 +1160,9 @@
       </register>
     </registers>
     <search>
-      <last-search>Use</last-search>
+      <last-search>rubyrace</last-search>
       <last-offset />
-      <last-pattern>Use</last-pattern>
+      <last-pattern>rubyrace</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1170,8 +1170,6 @@
     </search>
     <history>
       <history-search>
-        <entry>zip</entry>
-        <entry encoding="base64">XDxlbnRyeVw+</entry>
         <entry encoding="base64">XDxmZXRjaF9kaXJlY3RcPg==</entry>
         <entry encoding="base64">XDxjb252ZXJ0XD4=</entry>
         <entry encoding="base64">XDxmZXRjaF91cmxcPg==</entry>
@@ -1190,6 +1188,8 @@
         <entry>Security</entry>
         <entry>lint</entry>
         <entry>Use</entry>
+        <entry>cell</entry>
+        <entry>rubyrace</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd l</entry>
