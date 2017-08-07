@@ -220,7 +220,8 @@
         <mark key="." line="13" column="30" />
         <mark key="^" line="13" column="30" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" timestamp="1501768181882">
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" timestamp="1502087438622">
+        <mark key="'" line="26" column="6" />
         <mark key="[" line="34" column="0" />
         <mark key="]" line="34" column="0" />
         <mark key="." line="34" column="0" />
@@ -1050,7 +1051,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="5193" column="1039" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/tmp/import/cache/dupa.xml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/tmp/import/cache/dupa.xml" />
       <jump line="5208" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/tmp/import/cache/dupa.xml" />
       <jump line="73" column="14" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
@@ -1150,6 +1150,7 @@
       <jump line="27" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="53" column="86" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="52" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
+      <jump line="26" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
