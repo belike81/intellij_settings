@@ -517,6 +517,12 @@
         <mark key="^" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/neuvoo/job.xml.erb" timestamp="1502102825693">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="5" column="33" />
+        <mark key="^" line="5" column="33" />
+        <mark key="." line="5" column="33" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20170104103325_move_notes_to_job_sites.rb" timestamp="1483528144562">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="11" />
@@ -953,7 +959,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1501838629357">
+      <file name="/Dummy.txt" timestamp="1502102828597">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -966,6 +972,9 @@
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/event_queue/event_queue_controller.js" timestamp="1484652342011">
         <mark key="'" line="100" column="25" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" timestamp="1502102787125">
+        <mark key="'" line="159" column="9" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/helpers/shareable_helper.rb" timestamp="1472742429703">
         <mark key="[" line="74" column="0" />
@@ -1051,12 +1060,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/tmp/import/cache/dupa.xml" />
-      <jump line="5208" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/tmp/import/cache/dupa.xml" />
-      <jump line="73" column="14" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="28" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
-      <jump line="44" column="55" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
-      <jump line="21" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="12" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="37" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="16" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
@@ -1151,6 +1154,12 @@
       <jump line="53" column="86" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="52" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="26" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" />
+      <jump line="163" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
+      <jump line="165" column="7" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
+      <jump line="172" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
+      <jump line="173" column="59" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
+      <jump line="157" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
+      <jump line="159" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1160,7 +1169,7 @@
         <text>0</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</text>
+        <text encoding="base64">XDx0cmFja2luZ19wYXJhbXNcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBAdXJsID0gb3B0aW9uc1s6dXJsXQo=</text>
@@ -1197,9 +1206,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</last-search>
+      <last-search encoding="base64">XDx0cmFja2luZ19wYXJhbXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</last-pattern>
+      <last-pattern encoding="base64">XDx0cmFja2luZ19wYXJhbXNcPg==</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1207,7 +1216,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxzdG9yZVw+</entry>
         <entry encoding="base64">XDxzdGF0c1w+</entry>
         <entry encoding="base64">XDxsb2dfaW1wb3J0X2Vycm9yXD4=</entry>
         <entry encoding="base64">XDx1cGRhdGVfZXhwaXJ5X2VudHJ5XD4=</entry>
@@ -1227,6 +1235,7 @@
         <entry encoding="base64">XDxkb1w+</entry>
         <entry encoding="base64">XDxlYWNoX2pvYlw+</entry>
         <entry encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</entry>
+        <entry encoding="base64">XDx0cmFja2luZ19wYXJhbXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>168</entry>
