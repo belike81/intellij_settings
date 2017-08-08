@@ -1020,10 +1020,10 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/models/import/fetcher_spec.rb" timestamp="1502105278373">
-        <mark key="[" line="11" column="40" />
-        <mark key="]" line="11" column="48" />
-        <mark key="." line="11" column="48" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/models/import/fetcher_spec.rb" timestamp="1502180282548">
+        <mark key="[" line="11" column="11" />
+        <mark key="]" line="11" column="11" />
+        <mark key="." line="11" column="11" />
         <mark key="^" line="11" column="48" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/video_player_state.rb" timestamp="1473833834522">
@@ -1189,10 +1189,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>.</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZVw+</text>
