@@ -568,11 +568,11 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser/legacy/anzeigendaten.rb" timestamp="1502188456769">
-        <mark key="[" line="69" column="24" />
-        <mark key="]" line="70" column="20" />
-        <mark key="^" line="70" column="20" />
-        <mark key="." line="70" column="20" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser/legacy/anzeigendaten.rb" timestamp="1502189763088">
+        <mark key="'" line="22" column="17" />
+        <mark key="[" line="70" column="0" />
+        <mark key="]" line="70" column="0" />
+        <mark key="." line="70" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924063444_add_index_for_parent_id_to_target_group.rb" timestamp="1474698896288">
         <mark key="[" line="1" column="12" />
@@ -986,7 +986,7 @@
         <mark key="." line="6" column="4" />
         <mark key="^" line="4" column="23" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502119884383">
+      <file name="/Dummy.txt" timestamp="1502190598044">
         <mark key="[" line="0" column="0" />
         <mark key="]" line="0" column="0" />
         <mark key="." line="0" column="0" />
@@ -1058,11 +1058,10 @@
         <mark key="." line="35" column="40" />
         <mark key="^" line="35" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" timestamp="1502188135481">
-        <mark key="[" line="42" column="29" />
-        <mark key="]" line="43" column="16" />
-        <mark key="^" line="43" column="16" />
-        <mark key="." line="43" column="16" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" timestamp="1502189780250">
+        <mark key="[" line="43" column="0" />
+        <mark key="]" line="43" column="0" />
+        <mark key="." line="43" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/lib/pjpp/sync/job_site_annotations/update.rb" timestamp="1483615845207">
         <mark key="'" line="54" column="2" />
@@ -1105,7 +1104,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="68" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="59" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/.rubocop.yml" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/.rubocop_todo.yml" />
       <jump line="449" column="7" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/Gemfile.lock" />
@@ -1205,55 +1203,56 @@
       <jump line="2" column="20" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="110" column="23" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="20" column="19" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
+      <jump line="22" column="17" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser/legacy/anzeigendaten.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIHMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
         <text encoding="base64">IA==</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxsaW1pdFw+</text>
+        <text encoding="base64">XDxjb3VudHJ5X2NhY2hlXD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDphbnksIHVybCkudG9fcmV0dXJuKHN0YXR1czogNDA0KSB9Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSB7IHN0dWJfcmVxdWVzdCg6YW55LCB1cmwpLnRvX3JldHVybihzdGF0dXM6IDQwNCkgfQo=</text>
+        <text encoding="base64">ICAgIHMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDphbnksIHVybCkudG9fcmV0dXJuKHN0YXR1czogNDA0KSB9Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSB7IHN0dWJfcmVxdWVzdCg6YW55LCB1cmwpLnRvX3JldHVybihzdGF0dXM6IDQwNCkgfQo=</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIGZldGNoZXIuZmV0Y2hfZGlyZWN0KHVybCkKICAgIGV4cGVjdChmZXRjaGVyLnJlYWRfZmlsZSkudG8gZXEoeG1sX2ZpbGUpCg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDphbnksIHVybCkudG9fcmV0dXJuKHN0YXR1czogNDA0KSB9Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">CiAgICBkZXNjcmliZSAiYXV0aGVudGljYXRpb24iIGRvCiAgICAgIGxldCg6dXNlcikgeyAidXNlciIgfQogICAgICBsZXQoOnBhc3MpIHsgInBhc3MiIH0KICAgICAgbGV0KDp1cmwpIHsgImh0dHA6Ly8je3VzZXJ9OiN7cGFzc31AdGVzdC14bWwtdXJsLmNvbS90ZXN0LnhtbCIgfQoKICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDpnZXQsIHVybCkudG9fcmV0dXJuKGJvZHk6IHhtbF9maWxlKSB9CgogICAgICBpdCAic3BlYWtzIGh0dHAgYmFzaWMgYXV0aCIgZG8KICAgICAgICBleHBlY3QoaHR0cF9mZXRjaGVyLmZldGNoX2RpcmVjdCh1cmwpKS50byBlcSh0cnVlKQogICAgICBlbmQKICAgIGVuZAo=</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">IyAgICAgIHN1YmplY3QoOmh0dHBfZmV0Y2hlcil7IEZhY3RvcnlHaXJsLmJ1aWxkKDppbXBvcnRfaHR0cF9mZXRjaGVyKSB9Cg==</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgICAgbGV0KDp1cmwyKSB7ICJodHRwOi8vdGVzdC14bWwtdXJsLmNvbS90ZXN0Mi54bWwiIH0K</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIGZldGNoZXIuZmV0Y2hfZGlyZWN0KHVybCkKICAgIGV4cGVjdChmZXRjaGVyLnJlYWRfZmlsZSkudG8gZXEoeG1sX2ZpbGUpCg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">CiAgICBkZXNjcmliZSAiYXV0aGVudGljYXRpb24iIGRvCiAgICAgIGxldCg6dXNlcikgeyAidXNlciIgfQogICAgICBsZXQoOnBhc3MpIHsgInBhc3MiIH0KICAgICAgbGV0KDp1cmwpIHsgImh0dHA6Ly8je3VzZXJ9OiN7cGFzc31AdGVzdC14bWwtdXJsLmNvbS90ZXN0LnhtbCIgfQoKICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDpnZXQsIHVybCkudG9fcmV0dXJuKGJvZHk6IHhtbF9maWxlKSB9CgogICAgICBpdCAic3BlYWtzIGh0dHAgYmFzaWMgYXV0aCIgZG8KICAgICAgICBleHBlY3QoaHR0cF9mZXRjaGVyLmZldGNoX2RpcmVjdCh1cmwpKS50byBlcSh0cnVlKQogICAgICBlbmQKICAgIGVuZAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">IyAgICAgIHN1YmplY3QoOmh0dHBfZmV0Y2hlcil7IEZhY3RvcnlHaXJsLmJ1aWxkKDppbXBvcnRfaHR0cF9mZXRjaGVyKSB9Cg==</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDphbnksIHVybCkudG9fcmV0dXJuKGJvZHk6IHN1Y2Nlc3MpIH0K</text>
+        <text encoding="base64">ICAgICAgbGV0KDp1cmwyKSB7ICJodHRwOi8vdGVzdC14bWwtdXJsLmNvbS90ZXN0Mi54bWwiIH0K</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxsaW1pdFw+</last-search>
+      <last-search encoding="base64">XDxjb3VudHJ5X2NhY2hlXD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxsaW1pdFw+</last-pattern>
+      <last-pattern encoding="base64">XDxjb3VudHJ5X2NhY2hlXD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
       <last-dir>1</last-dir>
@@ -1261,7 +1260,6 @@
     </search>
     <history>
       <history-search>
-        <entry>url</entry>
         <entry encoding="base64">XDxfdXJpXD4=</entry>
         <entry encoding="base64">XDx1cmlfb2JqXD4=</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
@@ -1281,6 +1279,7 @@
         <entry encoding="base64">XDx1cmxcPg==</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9maWxlbmFtZVw+</entry>
         <entry encoding="base64">XDxsaW1pdFw+</entry>
+        <entry encoding="base64">XDxjb3VudHJ5X2NhY2hlXD4=</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
