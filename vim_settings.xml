@@ -134,6 +134,13 @@
         <mark key="." line="40" column="13" />
         <mark key="^" line="40" column="13" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/models/import/fetcher/http_fetcher_spec.rb" timestamp="1502185504809">
+        <mark key="'" line="24" column="30" />
+        <mark key="[" line="32" column="53" />
+        <mark key="]" line="32" column="56" />
+        <mark key="." line="32" column="56" />
+        <mark key="^" line="32" column="56" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/source_api.rb" timestamp="1485532257276">
         <mark key="[" line="41" column="72" />
         <mark key="]" line="41" column="72" />
@@ -1020,9 +1027,9 @@
         <mark key="." line="55" column="41" />
         <mark key="^" line="55" column="41" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/models/import/fetcher_spec.rb" timestamp="1502183107087">
-        <mark key="[" line="27" column="7" />
-        <mark key="]" line="28" column="6" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/models/import/fetcher_spec.rb" timestamp="1502185138072">
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="7" column="68" />
         <mark key="." line="28" column="6" />
         <mark key="^" line="28" column="6" />
       </file>
@@ -1086,7 +1093,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="82" column="14" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="83" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="87" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="6" column="20" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
@@ -1186,49 +1192,50 @@
       <jump line="7" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
       <jump line="14" column="38" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="11" column="28" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
+      <jump line="24" column="30" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/models/import/fetcher/http_fetcher_spec.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text encoding="base64">IE5vdEltcGxlbWVudGVkRXJyb3I=</text>
+        <text>success</text>
       </register>
       <register name="-" type="4">
-        <text>direct</text>
+        <text>success</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxmb3JjZVw+</text>
       </register>
-      <register name="0" type="4">
-        <text encoding="base64">IE5vdEltcGxlbWVudGVkRXJyb3I=</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBiZWZvcmUgZG8KICAgIHdlYm1vY2tfcmVnaXN0ZXJfdXJpX3dpdGhfaW1wb3J0X2ZpeHR1cmUodXJsLCAnZXhhbXBsZV9qb2JfZmVlZCcpCiAgZW5kCgogIGxldCg6dXJsKSB7ICJodHRwOi8vdGVzdC14bWwtdXJsLmNvbS90ZXN0LnhtbCIgfQogIGxldCg6eG1sX2ZpbGUpIHsgcmVhZF9maWxlX29mX2ltcG9ydF9maXh0dXJlKCdleGFtcGxlX2pvYl9mZWVkJykgIH0K</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">CiAgZGVzY3JpYmUgIlhNTCBjb252ZXJzaW9uIiBkbwogICAgbGV0KDpmZXRjaGVkX3RleHQpIGRvCiAgICAgICI8eG1sPjx4bWwiCiAgICBlbmQKCiAgICBzdWJqZWN0KDpjb252ZXJ0KSB7IGZldGNoZXIuc2VuZCg6Y29udmVydCwgZmV0Y2hlZF90ZXh0KSB9CgogICAgY29udGV4dCAic2NydWJiaW5nIGludmFsaWQgY2hhcmFjdGVycyBlbmFibGVkIiBkbwogICAgICBsZXQoOmZldGNoZWRfdGV4dCkgeyAiTVx4ODFuY2hlbiIgfQogICAgICBiZWZvcmUgeyBmZXRjaGVyLmNvbmZpZ1snc2NydWJfaW52YWxpZF9jaGFyYWN0ZXJzJ10gPSB0cnVlIH0KCiAgICAgIGl0ICJyZW1vdmVzIHVua25vd24gY2hhcmFjdGVycyIgZG8KICAgICAgICBpc19leHBlY3RlZC50byBlcSgiTe+/vW5jaGVuIikKICAgICAgZW5kCiAgICBlbmQKCiAgICBjb250ZXh0ICJlbmNvZGluZyBjb252ZXJzaW9uIGVuYWJsZWQiIGRvCiAgICAgIGxldCg6ZmV0Y2hlZF90ZXh0KSB7ICJNXHhmY25jaGVuIiB9CiAgICAgIGJlZm9yZSB7IGZldGNoZXIuY29uZmlnWydmcm9tX2VuY29kaW5nJ10gPSAnV0lORE9XUy0xMjUyJyB9CgogICAgICBpdCAiY29udmVydHMgdGhlIGVuY29kaW5nIiBkbwogICAgICAgIGlzX2V4cGVjdGVkLnRvIGVxKCJNw7xuY2hlbiIpCiAgICAgIGVuZAogICAgZW5kCgogICAgY29udGV4dCAiZGVjb2RlX2h0bWxfZW50aXRpZXMgZW5hYmxlZCIgZG8KICAgICAgbGV0KDpmZXRjaGVkX3RleHQpIHsgIk0mdXVtbDtuY2hlbiIgfQogICAgICBiZWZvcmUgeyBmZXRjaGVyLmNvbmZpZ1snZGVjb2RlX2h0bWxfZW50aXRpZXMnXSA9IHRydWUgfQoKICAgICAgaXQgImRlY29kZXMgdGhlIGh0bWwgZW50aXRpZXMiIGRvCiAgICAgICAgaXNfZXhwZWN0ZWQudG8gZXEoIk3DvG5jaGVuIikKICAgICAgZW5kCiAgICBlbmQKCiAgICBjb250ZXh0ICJmaXggeG1sIGhlYWRlciBlbmFibGVkIiBkbwogICAgICBsZXQoOmZldGNoZWRfdGV4dCkgeyAnPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PicgfQogICAgICBiZWZvcmUgeyBmZXRjaGVyLmNvbmZpZ1snZml4X2VuY29kaW5nX2hlYWRlciddID0gdHJ1ZSB9CgogICAgICBpdCAiZGVjb2RlcyB0aGUgaHRtbCBlbnRpdGllcyIgZG8KICAgICAgICBpc19leHBlY3RlZC50byBlcSgnPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4nKQogICAgICBlbmQKICAgIGVuZAoKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgbGV0KDp1cmwyKSB7ICJodHRwOi8vdGVzdC14bWwtdXJsLmNvbS90ZXN0Mi54bWwiIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICBkZXNjcmliZSAnY2FjaGluZycgZG8KCiAgICBjb250ZXh0ICdjYWNoaW5nIGVuYWJsZWQnIGRvCiAgICAgIGJlZm9yZSBkbwogICAgICAgIGFsbG93KHN1YmplY3QpLnRvIHJlY2VpdmUoOmZldGNoX2RpcmVjdCkKICAgICAgZW5kCgogICAgICBhZnRlciB7IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5pbXBvcnRfY2FjaGVkX2ZldGNoZXIgPSBAY2FjaGVkIH0KCiAgICAgIGl0ICd1c2VzIHRoZSBjYWNoZV9mZXRjaGVyJyBkbwogICAgICAgIGV4cGVjdChzdWJqZWN0KS50byByZWNlaXZlKDpmZXRjaF9jYWNoZSkKICAgICAgICBzdWJqZWN0LmZldGNoX3VybCh1cmwpCiAgICAgIGVuZAogICAgZW5kCgogICAgY29udGV4dCAnY2FjaGluZyBkaXNhYmxlZCcgZG8KICAgICAgYmVmb3JlIGRvCiAgICAgICAgQGNhY2hlZCA9IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5pbXBvcnRfY2FjaGVkX2ZldGNoZXIKICAgICAgICBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuaW1wb3J0X2NhY2hlZF9mZXRjaGVyID0gZmFsc2UKICAgICAgZW5kCgogICAgICBhZnRlciB7IFJhaWxzLmFwcGxpY2F0aW9uLmNvbmZpZy5pbXBvcnRfY2FjaGVkX2ZldGNoZXIgPSBAY2FjaGVkIH0KCiAgICAgIGl0ICdmZXRjaGVzIGRpcmVjdGx5JyBkbwogICAgICAgIGV4cGVjdChzdWJqZWN0KS50byByZWNlaXZlKDpmZXRjaF9kaXJlY3QpCiAgICAgICAgc3ViamVjdC5mZXRjaF91cmwodXJsKQogICAgICBlbmQKICAgIGVuZAogIGVuZAoK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgICBSYWlscy5hcHBsaWNhdGlvbi5jb25maWcuaW1wb3J0X2NhY2hlZF9mZXRjaGVyID0gdHJ1ZQo=</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDphbnksIHVybCkudG9fcmV0dXJuKGJvZHk6IHN1Y2Nlc3MpIH0K</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBAY2FjaGVkID0gUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmltcG9ydF9jYWNoZWRfZmV0Y2hlcgo=</text>
+        <text encoding="base64">ICAgIGVuZAo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIGNvbmZpZy5pbXBvcnRfY2FjaGVkX2ZldGNoZXIgPSB0cnVlCg==</text>
+        <text encoding="base64">ICAgIGNvbnRleHQgImJhc2ljIGZldGNoaW5nIiBkbwo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLnVzZV9jYWNoZT8KICAgICAgUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmltcG9ydF9jYWNoZWRfZmV0Y2hlcgogICAgZW5kCgo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">CiAgY29uZmlnLmltcG9ydF9jYWNoZWRfZmV0Y2hlciA9IHRydWUK</text>
+        <text encoding="base64">CiAgbGV0KDp1cmwpIHsgImh0dHA6Ly90ZXN0LXhtbC11cmwuY29tL3Rlc3QueG1sIiB9Cg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIGRlZiBzZWxmLnVzZV9jYWNoZT8KICAgICAgUmFpbHMuYXBwbGljYXRpb24uY29uZmlnLmltcG9ydF9jYWNoZWRfZmV0Y2hlcgogICAgZW5kCgo=</text>
+        <text encoding="base64">ICBsZXQoOnN1Y2Nlc3MpIHsgInN1Y2Nlc3MiIH0K</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICAgIGVuZAo=</text>
+        <text encoding="base64">CiAgZGVzY3JpYmUgIlhNTCBjb252ZXJzaW9uIiBkbwogICAgbGV0KDpmZXRjaGVkX3RleHQpIGRvCiAgICAgICI8eG1sPjx4bWwiCiAgICBlbmQKCiAgICBzdWJqZWN0KDpjb252ZXJ0KSB7IGZldGNoZXIuc2VuZCg6Y29udmVydCwgZmV0Y2hlZF90ZXh0KSB9CgogICAgY29udGV4dCAic2NydWJiaW5nIGludmFsaWQgY2hhcmFjdGVycyBlbmFibGVkIiBkbwogICAgICBsZXQoOmZldGNoZWRfdGV4dCkgeyAiTVx4ODFuY2hlbiIgfQogICAgICBiZWZvcmUgeyBmZXRjaGVyLmNvbmZpZ1snc2NydWJfaW52YWxpZF9jaGFyYWN0ZXJzJ10gPSB0cnVlIH0KCiAgICAgIGl0ICJyZW1vdmVzIHVua25vd24gY2hhcmFjdGVycyIgZG8KICAgICAgICBpc19leHBlY3RlZC50byBlcSgiTe+/vW5jaGVuIikKICAgICAgZW5kCiAgICBlbmQKCiAgICBjb250ZXh0ICJlbmNvZGluZyBjb252ZXJzaW9uIGVuYWJsZWQiIGRvCiAgICAgIGxldCg6ZmV0Y2hlZF90ZXh0KSB7ICJNXHhmY25jaGVuIiB9CiAgICAgIGJlZm9yZSB7IGZldGNoZXIuY29uZmlnWydmcm9tX2VuY29kaW5nJ10gPSAnV0lORE9XUy0xMjUyJyB9CgogICAgICBpdCAiY29udmVydHMgdGhlIGVuY29kaW5nIiBkbwogICAgICAgIGlzX2V4cGVjdGVkLnRvIGVxKCJNw7xuY2hlbiIpCiAgICAgIGVuZAogICAgZW5kCgogICAgY29udGV4dCAiZGVjb2RlX2h0bWxfZW50aXRpZXMgZW5hYmxlZCIgZG8KICAgICAgbGV0KDpmZXRjaGVkX3RleHQpIHsgIk0mdXVtbDtuY2hlbiIgfQogICAgICBiZWZvcmUgeyBmZXRjaGVyLmNvbmZpZ1snZGVjb2RlX2h0bWxfZW50aXRpZXMnXSA9IHRydWUgfQoKICAgICAgaXQgImRlY29kZXMgdGhlIGh0bWwgZW50aXRpZXMiIGRvCiAgICAgICAgaXNfZXhwZWN0ZWQudG8gZXEoIk3DvG5jaGVuIikKICAgICAgZW5kCiAgICBlbmQKCiAgICBjb250ZXh0ICJmaXggeG1sIGhlYWRlciBlbmFibGVkIiBkbwogICAgICBsZXQoOmZldGNoZWRfdGV4dCkgeyAnPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iaXNvLTg4NTktMSI/PicgfQogICAgICBiZWZvcmUgeyBmZXRjaGVyLmNvbmZpZ1snZml4X2VuY29kaW5nX2hlYWRlciddID0gdHJ1ZSB9CgogICAgICBpdCAiZGVjb2RlcyB0aGUgaHRtbCBlbnRpdGllcyIgZG8KICAgICAgICBpc19leHBlY3RlZC50byBlcSgnPD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4nKQogICAgICBlbmQKICAgIGVuZAoKICBlbmQK</text>
       </register>
       <register name=":" type="4">
-        <text>406</text>
+        <text>12</text>
       </register>
     </registers>
     <search>
@@ -1264,7 +1271,6 @@
         <entry encoding="base64">XDxmb3JjZVw+</entry>
       </history-search>
       <history-cmd>
-        <entry>168</entry>
         <entry>38</entry>
         <entry>98</entry>
         <entry>18</entry>
@@ -1284,6 +1290,7 @@
         <entry>406</entry>
         <entry>wincmd h</entry>
         <entry>wincmd l</entry>
+        <entry>12</entry>
       </history-cmd>
       <history-expr />
       <history-input />
