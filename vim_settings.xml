@@ -140,9 +140,9 @@
         <mark key="^" line="3" column="24" />
         <mark key="." line="3" column="36" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/ita/job.xml.erb" timestamp="1502269634261">
-        <mark key="[" line="3" column="48" />
-        <mark key="]" line="3" column="48" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/ita/job.xml.erb" timestamp="1502286778702">
+        <mark key="[" line="6" column="0" />
+        <mark key="]" line="6" column="51" />
         <mark key="^" line="3" column="48" />
         <mark key="." line="3" column="48" />
       </file>
@@ -570,10 +570,10 @@
         <mark key="^" line="36" column="35" />
         <mark key="." line="23" column="31" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/fra/job.xml.erb" timestamp="1502280916864">
-        <mark key="[" line="43" column="18" />
-        <mark key="]" line="43" column="20" />
-        <mark key="." line="43" column="20" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/fra/job.xml.erb" timestamp="1502286785244">
+        <mark key="[" line="31" column="0" />
+        <mark key="]" line="32" column="0" />
+        <mark key="." line="31" column="0" />
         <mark key="^" line="43" column="20" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/source_api.rb" timestamp="1501148572453">
@@ -1197,8 +1197,8 @@
       <jump line="24" column="32" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/ita/jobrapido.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>tracking_url</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIDx1cmw+PCU9IEBqb2IudHJhY2tpbmdfdXJsICAlPjwvdXJsPgo=</text>
       </register>
       <register name="-" type="4">
         <text>tracking_url</text>
@@ -1207,34 +1207,34 @@
         <text>top</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICA8am9iPgogICAgPGlkPjwlPSBAam9iLmlkICU+PC9pZD4KICAgIDx0aXRsZT48JT0gQGpvYi50aXRsZSAlPjwvdGl0bGU+CiAgICA8Y29tcGFueT48JT0gQGpvYi5jb21wYW55X25hbWUgJT48L2NvbXBhbnk+CiAgICA8c3VtbWFyeT48JT0gQGpvYi5zdW1tYXJ5ICU+PC9zdW1tYXJ5PgogICAgPGRlc2NyaXB0aW9uPjwlPSBAam9iLmRlc2NyaXB0aW9uX3RleHQgJT48L2Rlc2NyaXB0aW9uPgogICAgPHVybD48JT0gQGpvYi50cmFja2luZ191cmwgICU+PC91cmw+CiAgICA8emlwPjwlPSBAam9iLnppcCAlPjwvemlwPgogICAgPGxvY2F0aW9uPjwlPSBAam9iLmxvY2F0aW9uICU+PC9sb2NhdGlvbj4KICAgIDxwdWJsaXNoZWRfYXQ+PCU9IEBqb2IucHVibGlzaGVkX2F0ICU+PC9wdWJsaXNoZWRfYXQ+CiAgICA8c2FsYXJ5PjwlPSBAam9iLnNhbGFyeSAlPjwvc2FsYXJ5PgogIDwvam9iPgo=</text>
+        <text encoding="base64">ICAgIDx1cmw+PCFbQ0RBVEFbPCU9IEBqb2IudHJhY2tpbmdfdXJsICU+XV0+PC91cmw+Cg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIDxjb21wYW55PjwlPSBAam9iLmNvbXBhbnlfbmFtZSAlPjwvY29tcGFueT4K</text>
+        <text encoding="base64">ICAgIDx1cmw+PCU9IEBqb2IudHJhY2tpbmdfdXJsICAlPjwvdXJsPgo=</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">IDxqb2I+CiAgICA8aWQ+PCU9IEBqb2IuaWQgJT48L2lkPgogICAgPHRpdGxlPjwlPSBAam9iLnRpdGxlICU+PC90aXRsZT4KICAgIDxzdW1tYXJ5PjwlPSBAam9iLnN1bW1hcnkgJT48L3N1bW1hcnk+CiAgICA8ZGVzY3JpcHRpb24+PCU9IEBqb2IuZGVzY3JpcHRpb25fdGV4dCAlPjwvZGVzY3JpcHRpb24+CiAgICA8dXJsPjwlPUBqb2IudXJsJT48L3VybD4KICAgIDx6aXA+PCU9IEBqb2IuemlwICU+PC96aXA+CiAgICA8bG9jYXRpb24+PCU9IEBqb2IubG9jYXRpb24gJT48L2xvY2F0aW9uPgogICAgPHB1Ymxpc2hlZF9hdD48JT0gQGpvYi5wdWJsaXNoZWRfYXQgJT48L3B1Ymxpc2hlZF9hdD4KICAgIDxzYWxhcnk+PCU9IEBqb2Iuc2FsYXJ5ICU+PC9zYWxhcnk+CiAgPC9qb2I+Cg==</text>
+        <text encoding="base64">ICAgIDxjb21wYW55PjwlPSBAam9iLmNvbXBhbnlfbmFtZSAlPjwvY29tcGFueT4K</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIDxjb21wYW55PjwhW0NEQVRBWzwlPSBAam9iLmNvbXBhbnlfbmFtZSAlPl1dPC9jb21wYW55Pgo=</text>
+        <text encoding="base64">IDxqb2I+CiAgICA8aWQ+PCU9IEBqb2IuaWQgJT48L2lkPgogICAgPHRpdGxlPjwlPSBAam9iLnRpdGxlICU+PC90aXRsZT4KICAgIDxzdW1tYXJ5PjwlPSBAam9iLnN1bW1hcnkgJT48L3N1bW1hcnk+CiAgICA8ZGVzY3JpcHRpb24+PCU9IEBqb2IuZGVzY3JpcHRpb25fdGV4dCAlPjwvZGVzY3JpcHRpb24+CiAgICA8dXJsPjwlPUBqb2IudXJsJT48L3VybD4KICAgIDx6aXA+PCU9IEBqb2IuemlwICU+PC96aXA+CiAgICA8bG9jYXRpb24+PCU9IEBqb2IubG9jYXRpb24gJT48L2xvY2F0aW9uPgogICAgPHB1Ymxpc2hlZF9hdD48JT0gQGpvYi5wdWJsaXNoZWRfYXQgJT48L3B1Ymxpc2hlZF9hdD4KICAgIDxzYWxhcnk+PCU9IEBqb2Iuc2FsYXJ5ICU+PC9zYWxhcnk+CiAgPC9qb2I+Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHMgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICAgIDxjb21wYW55PjwhW0NEQVRBWzwlPSBAam9iLmNvbXBhbnlfbmFtZSAlPl1dPC9jb21wYW55Pgo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
+        <text encoding="base64">ICAgIHMgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIGJlZm9yZSB7IHN0dWJfcmVxdWVzdCg6YW55LCB1cmwpLnRvX3JldHVybihzdGF0dXM6IDQwNCkgfQo=</text>
+        <text encoding="base64">ICAgICAgICAgIGJpbmRpbmcucHJ5Cg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDphbnksIHVybCkudG9fcmV0dXJuKHN0YXR1czogNDA0KSB9Cg==</text>
+        <text encoding="base64">ICAgIGJlZm9yZSB7IHN0dWJfcmVxdWVzdCg6YW55LCB1cmwpLnRvX3JldHVybihzdGF0dXM6IDQwNCkgfQo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmVmb3JlIHsgc3R1Yl9yZXF1ZXN0KDphbnksIHVybCkudG9fcmV0dXJuKHN0YXR1czogNDA0KSB9Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIGZldGNoZXIuZmV0Y2hfZGlyZWN0KHVybCkKICAgIGV4cGVjdChmZXRjaGVyLnJlYWRfZmlsZSkudG8gZXEoeG1sX2ZpbGUpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
