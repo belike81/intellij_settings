@@ -584,6 +584,10 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/sql/statements.rb" timestamp="1502361943860">
+        <mark key="[" line="86" column="0" />
+        <mark key="]" line="86" column="50" />
+      </file>
       <file name="$USER_HOME$/Projects/walmart_reviewer/Gemfile" timestamp="1475518199304">
         <mark key="[" line="22" column="13" />
         <mark key="]" line="23" column="31" />
@@ -884,6 +888,12 @@
         <mark key="]" line="81" column="89" />
         <mark key="^" line="81" column="89" />
         <mark key="." line="81" column="89" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobsmart/chd/sql.erb" timestamp="1502362024940">
+        <mark key="[" line="4" column="20" />
+        <mark key="]" line="4" column="24" />
+        <mark key="." line="4" column="24" />
+        <mark key="^" line="4" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_size_spec.rb" timestamp="1472545549273">
         <mark key="[" line="1" column="0" />
@@ -1192,16 +1202,16 @@
     </jumps>
     <registers>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fc291cmNlOiAnam9icmFwaWRvJywgdXRtX2NhbXBhaWduOiAnam9icmFwaWRvK2ZyK3RvcCtpbmR1c3RyaWVzJykK</text>
+        <text encoding="base64">ICAgICAgICAgIGFkZCBDb25zdHJhaW50czo6TGFuZ3VhZ2VDb2RlTm90SW4sICJGUiIK</text>
       </register>
       <register name="-" type="4">
-        <text>tracking_url</text>
+        <text>GermanSwissJobs</text>
       </register>
       <register name="/" type="4">
-        <text>top</text>
+        <text>german</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIDx1cmw+PCFbQ0RBVEFbPCU9IEBqb2IudHJhY2tpbmdfdXJsICU+XV0+PC91cmw+Cg==</text>
+        <text encoding="base64">ICAgICAgICAgIGFkZCBDb25zdHJhaW50czo6TGFuZ3VhZ2VDb2RlTm90SW4sICJGUiIK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fc291cmNlOiAnam9icmFwaWRvJywgdXRtX2NhbXBhaWduOiAnam9icmFwaWRvK2ZyK3RvcCtpbmR1c3RyaWVzJykK</text>
@@ -1235,9 +1245,9 @@
       </register>
     </registers>
     <search>
-      <last-search>top</last-search>
+      <last-search>german</last-search>
       <last-offset />
-      <last-pattern>top</last-pattern>
+      <last-pattern>german</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
@@ -1245,7 +1255,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cmlfb2JqXD4=</entry>
         <entry encoding="base64">XDxlcnJvcnNcPg==</entry>
         <entry encoding="base64">XDxkb1w+</entry>
         <entry encoding="base64">XDxlYWNoX2pvYlw+</entry>
@@ -1265,6 +1274,7 @@
         <entry encoding="base64">XDxsaW1pdFw+</entry>
         <entry encoding="base64">XDxjb3VudHJ5X2NhY2hlXD4=</entry>
         <entry>top</entry>
+        <entry>german</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
