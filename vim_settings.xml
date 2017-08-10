@@ -98,10 +98,8 @@
         <mark key="^" line="18" column="38" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/fra/sql.erb" timestamp="1502268935341">
-        <mark key="[" line="36" column="0" />
-        <mark key="]" line="37" column="49" />
+        <mark key="]" line="35" column="49" />
         <mark key="^" line="35" column="82" />
-        <mark key="." line="36" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/import/import_config_active_type.rb" timestamp="1485268575540">
         <mark key="[" line="23" column="30" />
@@ -123,9 +121,6 @@
         <mark key="." line="28" column="0" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/fra/job.xml.erb" timestamp="1502286785244">
-        <mark key="[" line="31" column="0" />
-        <mark key="]" line="32" column="0" />
-        <mark key="." line="31" column="0" />
         <mark key="^" line="43" column="20" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/source_api.rb" timestamp="1501148572453">
@@ -1244,7 +1239,7 @@
       <last-offset />
       <last-pattern>top</last-pattern>
       <last-replace>~</last-replace>
-      <last-substitute encoding="base64">XDxBcGlTZXJ2aWNlXD4=</last-substitute>
+      <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
