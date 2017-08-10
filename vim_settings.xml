@@ -469,6 +469,12 @@
         <mark key="." line="0" column="24" />
         <mark key="^" line="0" column="24" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobster/lu/jobster.rb" timestamp="1502362839600">
+        <mark key="[" line="3" column="22" />
+        <mark key="]" line="3" column="43" />
+        <mark key="." line="3" column="43" />
+        <mark key="^" line="3" column="43" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/features/step_definitions/web_steps.rb" timestamp="1472564503676">
         <mark key="[" line="182" column="40" />
         <mark key="]" line="182" column="5" />
@@ -1201,11 +1207,11 @@
       <jump line="24" column="32" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/ita/jobrapido.rb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAgIGFkZCBDb25zdHJhaW50czo6TGFuZ3VhZ2VDb2RlTm90SW4sICJGUiIK</text>
+      <register name="&quot;" type="4">
+        <text>jobster_lu</text>
       </register>
       <register name="-" type="4">
-        <text>GermanSwissJobs</text>
+        <text>jobster_lu</text>
       </register>
       <register name="/" type="4">
         <text>german</text>
