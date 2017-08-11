@@ -535,12 +535,6 @@
         <mark key="." line="10" column="71" />
         <mark key="^" line="10" column="71" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" timestamp="1502087438622">
-        <mark key="'" line="26" column="6" />
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="0" />
-        <mark key="." line="34" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Cebiro-CRM/app/controllers/users_controller.rb" timestamp="1474546787893">
         <mark key="[" line="8" column="5" />
         <mark key="]" line="9" column="1" />
@@ -610,12 +604,6 @@
         <mark key="." line="16" column="63" />
         <mark key="^" line="16" column="68" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/fra/jobrapido.rb" timestamp="1502353187959">
-        <mark key="'" line="17" column="0" />
-        <mark key="[" line="50" column="0" />
-        <mark key="]" line="50" column="98" />
-        <mark key="." line="50" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_content_type_spec.rb" timestamp="1472546790562">
         <mark key="[" line="1" column="0" />
         <mark key="]" line="1" column="47" />
@@ -670,17 +658,14 @@
         <mark key="." line="13" column="21" />
         <mark key="^" line="13" column="21" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser/legacy/anzeigendaten.rb" timestamp="1502189763088">
-        <mark key="'" line="22" column="17" />
-        <mark key="[" line="70" column="0" />
-        <mark key="]" line="70" column="0" />
-        <mark key="." line="70" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_annotation.rb" timestamp="1483457839390">
         <mark key="[" line="33" column="0" />
         <mark key="]" line="33" column="0" />
         <mark key="^" line="33" column="14" />
         <mark key="." line="33" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" timestamp="1502448435421">
+        <mark key="'" line="281" column="4" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20150505134153_create_job_site_annotations.rb" timestamp="1483525490719">
         <mark key="[" line="2" column="0" />
@@ -941,36 +926,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="86" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="87" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="71" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="100" column="2" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="17" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" />
-      <jump line="54" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="75" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="63" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="66" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="78" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="84" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="99" column="44" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="31" column="33" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="41" column="7" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="55" column="81" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="67" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="79" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="105" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="62" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="50" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="90" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="42" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="118" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
-      <jump line="29" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
-      <jump line="47" column="23" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
-      <jump line="48" column="44" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
-      <jump line="37" column="30" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="55" column="28" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="90" column="15" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="103" column="17" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="104" column="120" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="54" column="19" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="36" column="20" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
@@ -1041,6 +996,36 @@
       <jump line="61" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/development.rb" />
       <jump line="47" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/development.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/production_owner.rb" />
+      <jump line="146" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="7" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="9" column="23" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="11" column="88" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="53" column="129" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="54" column="75" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="55" column="57" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="56" column="44" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="77" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="79" column="19" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="80" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="81" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="82" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="85" column="38" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="90" column="53" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="92" column="53" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="102" column="51" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="107" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="110" column="31" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="115" column="24" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="117" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="118" column="21" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="220" column="12" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="221" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="222" column="25" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="290" column="72" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="292" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="296" column="22" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="306" column="22" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
+      <jump line="281" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -1050,7 +1035,7 @@
         <text>true</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxhbGxvd2VkX3dlYm1vY2tfc2l0ZXNcPg==</text>
+        <text>status</text>
       </register>
       <register name="0" type="4">
         <text>config.allowed_webmock_localhost</text>
@@ -1111,9 +1096,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxhbGxvd2VkX3dlYm1vY2tfc2l0ZXNcPg==</last-search>
+      <last-search>status</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxhbGxvd2VkX3dlYm1vY2tfc2l0ZXNcPg==</last-pattern>
+      <last-pattern>status</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
@@ -1121,7 +1106,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxlYWNoX2pvYlw+</entry>
         <entry encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</entry>
         <entry encoding="base64">XDx0cmFja2luZ19wYXJhbXNcPg==</entry>
         <entry>cache</entry>
@@ -1141,6 +1125,7 @@
         <entry>german</entry>
         <entry encoding="base64">XDxhbGxvd2VkX3dlYm1vdmtfc2l0ZXNcPg==</entry>
         <entry encoding="base64">XDxhbGxvd2VkX3dlYm1vY2tfc2l0ZXNcPg==</entry>
+        <entry>status</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
