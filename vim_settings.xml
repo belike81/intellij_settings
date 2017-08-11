@@ -493,9 +493,6 @@
         <mark key="^" line="5" column="19" />
         <mark key="." line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/fra/job.xml.erb" timestamp="1502286785244">
-        <mark key="^" line="43" column="20" />
-      </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/source_api.rb" timestamp="1501148572453">
         <mark key="[" line="40" column="6" />
         <mark key="]" line="40" column="13" />
