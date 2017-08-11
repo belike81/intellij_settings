@@ -29,10 +29,6 @@
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher.rb" timestamp="1502379198964">
         <mark key="'" line="7" column="8" />
-        <mark key="[" line="12" column="25" />
-        <mark key="]" line="12" column="42" />
-        <mark key="." line="12" column="42" />
-        <mark key="^" line="12" column="42" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/views/shared/_video_player_placement_types.html.erb" timestamp="1474285292148">
         <mark key="[" line="3" column="37" />
@@ -567,11 +563,8 @@
         <mark key="." line="102" column="17" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/development.rb" timestamp="1502379185082">
-        <mark key="'" line="47" column="9" />
-        <mark key="[" line="63" column="21" />
-        <mark key="]" line="63" column="52" />
-        <mark key="." line="60" column="40" />
-        <mark key="^" line="60" column="40" />
+        <mark key="[" line="43" column="21" />
+        <mark key="]" line="43" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/workstations/relevance_decider.rb" timestamp="1483459017876">
         <mark key="[" line="45" column="0" />
@@ -592,10 +585,9 @@
         <mark key="^" line="15" column="68" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/staging.rb" timestamp="1502379170031">
-        <mark key="[" line="127" column="0" />
-        <mark key="]" line="131" column="2" />
-        <mark key="." line="130" column="52" />
-        <mark key="^" line="130" column="52" />
+        <mark key="]" line="129" column="2" />
+        <mark key="." line="119" column="52" />
+        <mark key="^" line="119" column="52" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/models/location.rb" timestamp="1474701668847">
         <mark key="[" line="2" column="42" />
