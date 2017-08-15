@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Personal/Cebiro-CRM/docker-compose.yml" timestamp="1502801141042">
-        <mark key="[" line="9" column="0" />
-        <mark key="]" line="9" column="0" />
-        <mark key="." line="9" column="0" />
-        <mark key="^" line="4" column="42" />
+      <file name="$USER_HOME$/code/Personal/Cebiro-CRM/docker-compose.yml" timestamp="1502804597409">
+        <mark key="[" line="12" column="41" />
+        <mark key="]" line="14" column="10" />
+        <mark key="." line="14" column="10" />
+        <mark key="^" line="14" column="10" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" timestamp="1502706675852">
         <mark key="'" line="18" column="10" />
@@ -489,11 +489,11 @@
         <mark key="." line="2" column="74" />
         <mark key="^" line="2" column="74" />
       </file>
-      <file name="$USER_HOME$/code/Personal/Cebiro-CRM/Dockerfile" timestamp="1502801576539">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="2" />
-        <mark key="." line="12" column="2" />
-        <mark key="^" line="12" column="2" />
+      <file name="$USER_HOME$/code/Personal/Cebiro-CRM/Dockerfile" timestamp="1502805181650">
+        <mark key="[" line="8" column="14" />
+        <mark key="]" line="8" column="14" />
+        <mark key="." line="8" column="14" />
+        <mark key="^" line="8" column="14" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/features/step_definitions/web_steps.rb" timestamp="1472564503676">
         <mark key="[" line="182" column="40" />
@@ -1127,6 +1127,12 @@
         <mark key="." line="39" column="17" />
         <mark key="^" line="39" column="17" />
       </file>
+      <file name="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" timestamp="1502806546972">
+        <mark key="'" line="27" column="17" />
+        <mark key="[" line="29" column="0" />
+        <mark key="]" line="29" column="0" />
+        <mark key="." line="29" column="0" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/ImportJobFilter.js" timestamp="1484655489239">
         <mark key="[" line="24" column="13" />
         <mark key="]" line="24" column="18" />
@@ -1141,12 +1147,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="49" column="82" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="58" column="43" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="59" column="31" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="60" column="56" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="69" column="150" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="96" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="92" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="2" column="17" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="6" column="7" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
@@ -1241,55 +1241,61 @@
       <jump line="28" column="33" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="55" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="23" column="22" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Dockerfile" />
+      <jump line="38" column="12" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="6" column="27" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="20" column="13" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="48" column="0" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="3" column="13" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
+      <jump line="27" column="17" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>COPY</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICBnZW0gJ3F1aWV0X2Fzc2V0cycK</text>
       </register>
       <register name="-" type="4">
-        <text>COPY</text>
+        <text>, '1.0.1'</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</text>
+        <text>check</text>
       </register>
       <register name="0" type="4">
         <text>config.allowed_webmock_localhost</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICBnZW0gJ3F1aWV0X2Fzc2V0cycK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">Z2VtICdpb3MtY2hlY2tib3hlcycsIGdpdGh1YjogJ2JlbGlrZTgxL2lvcy1jaGVja2JveGVzJwo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">RU5WIEJVTkRMRV9QQVRIIC9ib3gK</text>
+        <text encoding="base64">ICBnZW0gJ3RoaW4nCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">IyBDaGVjayBmb3IgZ2VtcyBhbmQgaW5zdGFsbCBpZiByZXF1aXJlZApidW5kbGUgY2hlY2sgfHwgYnVuZGxlIGluc3RhbGwKCg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIHZvbHVtZXNfZnJvbToKICAgICAgLSBib3gKICBib3g6CiAgICBpbWFnZTogYnVzeWJveAogICAgdm9sdW1lczoKICAgICAgLSAvYm94Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIGxpbmtzCg==</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">RU5WIEJVTkRMRV9QQVRIIC9ib3gK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">IyBDaGVjayBmb3IgZ2VtcyBhbmQgaW5zdGFsbCBpZiByZXF1aXJlZApidW5kbGUgY2hlY2sgfHwgYnVuZGxlIGluc3RhbGwKCg==</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">IyBEZWZpbmUgdGhlIHNjcmlwdCB3ZSB3YW50IHJ1biBvbmNlIHRoZSBjb250YWluZXIgYm9vdHMKIyBVc2UgdGhlICJleGVjIiBmb3JtIG9mIENNRCBzbyBvdXIgc2NyaXB0IHNodXRzIGRvd24gZ3JhY2VmdWxseSBvbiBTSUdURVJNIChpLmUuIGBkb2NrZXIgc3RvcGApCg==</text>
+        <text encoding="base64">ICAgIHZvbHVtZXNfZnJvbToKICAgICAgLSBib3gKICBib3g6CiAgICBpbWFnZTogYnVzeWJveAogICAgdm9sdW1lczoKICAgICAgLSAvYm94Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">IyBCYXNlIG91ciBpbWFnZSBvbiBhbiBvZmZpY2lhbCwgbWluaW1hbCBpbWFnZSBvZiBvdXIgcHJlZmVycmVkIFJ1YnkK</text>
+        <text encoding="base64">ICAgIGxpbmtzCg==</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</last-search>
+      <last-search>check</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</last-pattern>
+      <last-pattern>check</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
@@ -1297,8 +1303,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxmb3JjZVw+</entry>
-        <entry>succes</entry>
         <entry encoding="base64">XDxzdG9yZV9wYXRoXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZWRfZmlsZW5hbWVcPg==</entry>
         <entry encoding="base64">XDx1cmxcPg==</entry>
@@ -1317,6 +1321,8 @@
         <entry encoding="base64">XDxwYXJzZV9mZWVkXD4=</entry>
         <entry encoding="base64">XDxyZWFkX2ZldGNoZWRfZmlsZVw+</entry>
         <entry encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</entry>
+        <entry>thin</entry>
+        <entry>check</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
