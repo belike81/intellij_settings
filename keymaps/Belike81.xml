@@ -1,4 +1,5 @@
 <keymap version="1" name="Belike81" parent="TextMate">
+  <action id="$SelectAll" />
   <action id="ActivateStructureToolWindow" />
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="meta 7" />
@@ -23,6 +24,7 @@
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="alt enter" />
   </action>
+  <action id="Diagram.SelectAll" />
   <action id="EditorChooseLookupItem" />
   <action id="EditorDown">
     <keyboard-shortcut first-keystroke="down" />
@@ -38,6 +40,9 @@
   <action id="FindNext" />
   <action id="Generate">
     <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="GotoAction">
+    <keyboard-shortcut first-keystroke="meta a" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift meta f12" />
