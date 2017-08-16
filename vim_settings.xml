@@ -1161,8 +1161,8 @@
         <mark key="." line="35" column="40" />
         <mark key="^" line="35" column="40" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" timestamp="1502711374438">
-        <mark key="'" line="56" column="8" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" timestamp="1502873603145">
+        <mark key="'" line="55" column="0" />
         <mark key="[" line="38" column="9" />
         <mark key="]" line="39" column="17" />
         <mark key="." line="39" column="17" />
@@ -1263,7 +1263,6 @@
       <jump line="36" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="51" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="28" column="33" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
-      <jump line="55" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="23" column="22" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Dockerfile" />
       <jump line="38" column="12" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
       <jump line="6" column="27" filename="$USER_HOME$/code/Personal/Cebiro-CRM/Gemfile" />
@@ -1283,6 +1282,7 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/beyond/sql.erb" />
       <jump line="0" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/neuvoo/usa/sql.erb" />
       <jump line="4" column="53" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobinga/bef/sql.erb" />
+      <jump line="55" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
