@@ -3,12 +3,6 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" timestamp="1502706675852">
-        <mark key="'" line="18" column="10" />
-        <mark key="[" line="94" column="0" />
-        <mark key="]" line="94" column="0" />
-        <mark key="." line="94" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/api/job_expiry_entry_api.rb" timestamp="1485525979085">
         <mark key="[" line="10" column="60" />
         <mark key="]" line="10" column="60" />
@@ -202,6 +196,12 @@
         <mark key="." line="11" column="77" />
         <mark key="^" line="11" column="77" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobster/lu/sql.erb" timestamp="1502872755739">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
+      </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/linkedin/sql.erb" timestamp="1502457220053">
         <mark key="'" line="1" column="80" />
         <mark key="[" line="0" column="1" />
@@ -240,10 +240,11 @@
         <mark key="." line="5" column="19" />
         <mark key="^" line="5" column="19" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobinga/bef/sql.erb" timestamp="1502364255700">
-        <mark key="[" line="2" column="57" />
-        <mark key="]" line="2" column="74" />
-        <mark key="." line="2" column="74" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobinga/bef/sql.erb" timestamp="1502873275911">
+        <mark key="'" line="4" column="53" />
+        <mark key="[" line="4" column="50" />
+        <mark key="]" line="4" column="50" />
+        <mark key="." line="4" column="50" />
         <mark key="^" line="2" column="74" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/target_groups_controller.rb" timestamp="1474703222097">
@@ -462,10 +463,6 @@
         <mark key="^" line="666" column="44" />
         <mark key="." line="674" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/support/import_spec_helpers.rb" timestamp="1502105238153">
-        <mark key="[" line="5" column="47" />
-        <mark key="]" line="5" column="73" />
-      </file>
       <file name="$USER_HOME$/Projects/global_test_app/app/controllers/api/v1/locations_controller.rb" timestamp="1474701527060">
         <mark key="[" line="2" column="11" />
         <mark key="]" line="2" column="16" />
@@ -484,7 +481,7 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1502872051565">
+      <file name="/Dummy.txt" timestamp="1502873332078">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/db/seeds/0030_admins.yml" timestamp="1501143043254">
@@ -554,6 +551,10 @@
         <mark key="." line="4" column="0" />
         <mark key="^" line="13" column="10" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/indeed/eur/sql.erb" timestamp="1502872690929">
+        <mark key="[" line="33" column="0" />
+        <mark key="]" line="36" column="10" />
+      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/parsers/flights/attributes.rb" timestamp="1474546468642">
         <mark key="[" line="48" column="21" />
         <mark key="]" line="48" column="33" />
@@ -577,6 +578,12 @@
         <mark key="]" line="40" column="27" />
         <mark key="." line="40" column="27" />
         <mark key="^" line="40" column="27" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobster/no/sql.erb" timestamp="1502872762824">
+        <mark key="[" line="1" column="37" />
+        <mark key="]" line="1" column="41" />
+        <mark key="." line="1" column="41" />
+        <mark key="^" line="1" column="41" />
       </file>
       <file name="$USER_HOME$/Projects/guardians_destiny/.ruby-version" timestamp="1474958743668">
         <mark key="[" line="0" column="2" />
@@ -680,6 +687,12 @@
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/api/xml_feed_fetch_api.rb" timestamp="1502706994939">
         <mark key="'" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobinga/se/sql.erb" timestamp="1502873052568">
+        <mark key="[" line="2" column="63" />
+        <mark key="]" line="2" column="64" />
+        <mark key="." line="2" column="64" />
+        <mark key="^" line="2" column="64" />
+      </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/beyond/usa/beyond.rb" timestamp="1502871488648">
         <mark key="'" line="29" column="0" />
         <mark key="[" line="7" column="0" />
@@ -723,10 +736,6 @@
         <mark key="]" line="102" column="17" />
         <mark key="^" line="102" column="17" />
         <mark key="." line="102" column="17" />
-      </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/development.rb" timestamp="1502379185082">
-        <mark key="[" line="43" column="21" />
-        <mark key="]" line="43" column="52" />
       </file>
       <file name="$USER_HOME$/code/Personal/Cebiro-CRM/config/unicorn.rb" timestamp="1502808026150">
         <mark key="'" line="21" column="0" />
@@ -870,10 +879,6 @@
         <mark key="." line="2" column="0" />
         <mark key="^" line="2" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/sql/statements.rb" timestamp="1502457247460">
-        <mark key="[" line="86" column="0" />
-        <mark key="]" line="86" column="50" />
-      </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/production_owner.rb" timestamp="1502379480826">
         <mark key="'" line="0" column="0" />
       </file>
@@ -944,10 +949,6 @@
         <mark key="^" line="22" column="24" />
         <mark key="." line="22" column="24" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/nld/jobrapido.rb" timestamp="1502363705896">
-        <mark key="[" line="10" column="0" />
-        <mark key="]" line="10" column="21" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/assets/spa/models/ImportJobParser.js" timestamp="1484756244994">
         <mark key="[" line="22" column="0" />
         <mark key="]" line="22" column="0" />
@@ -982,6 +983,12 @@
         <mark key="[" line="18" column="0" />
         <mark key="]" line="25" column="6" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobinga/dk/sql.erb" timestamp="1502872990803">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+        <mark key="^" line="2" column="64" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/source_active_type.rb" timestamp="1485530050619">
         <mark key="[" line="28" column="33" />
         <mark key="]" line="29" column="25" />
@@ -1013,19 +1020,11 @@
         <mark key="." line="70" column="0" />
         <mark key="^" line="79" column="139" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/deu/sql.erb" timestamp="1502268914714">
-        <mark key="[" line="27" column="0" />
-        <mark key="]" line="28" column="46" />
-      </file>
       <file name="$USER_HOME$/Projects/Cebiro-CRM/config/database.yml" timestamp="1474368189703">
         <mark key="[" line="14" column="12" />
         <mark key="]" line="14" column="26" />
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
-      </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/cache_fetcher.rb" timestamp="1501765050534">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="28" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_placement_type_spec.rb" timestamp="1472545395103">
         <mark key="[" line="0" column="20" />
@@ -1045,11 +1044,11 @@
         <mark key="^" line="81" column="89" />
         <mark key="." line="81" column="89" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobsmart/chd/sql.erb" timestamp="1502362024940">
-        <mark key="[" line="4" column="20" />
-        <mark key="]" line="4" column="24" />
-        <mark key="." line="4" column="24" />
-        <mark key="^" line="4" column="24" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobsmart/chd/sql.erb" timestamp="1502872839416">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+        <mark key="^" line="3" column="24" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/spec/models/video_player_size_spec.rb" timestamp="1472545549273">
         <mark key="[" line="1" column="0" />
@@ -1081,10 +1080,6 @@
         <mark key="]" line="135" column="35" />
         <mark key="^" line="136" column="53" />
         <mark key="." line="135" column="35" />
-      </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/deu/job.xml.erb" timestamp="1502269113315">
-        <mark key="[" line="12" column="0" />
-        <mark key="]" line="12" column="47" />
       </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/device_type.rb" timestamp="1474542648114">
         <mark key="[" line="22" column="6" />
@@ -1188,7 +1183,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="163" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
       <jump line="165" column="7" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
       <jump line="172" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
       <jump line="173" column="59" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
@@ -1288,46 +1282,47 @@
       <jump line="83" column="2" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/neuvoo/usa/neuvoo.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/beyond/sql.erb" />
       <jump line="0" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/neuvoo/usa/sql.erb" />
+      <jump line="4" column="53" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobinga/bef/sql.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uKSBkbyB8c3RhdGVtZW50fAogICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6U2VsZWN0czo6Q29tcGFueQogICAgZW5kCgolPgo=</text>
+      <register name="&quot;" type="4">
+        <text>t</text>
       </register>
       <register name="-" type="4">
-        <text>top</text>
+        <text>t</text>
       </register>
       <register name="/" type="4">
         <text>ove</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIEpvYkV4cG9ydDo6U3FsOjpTdGF0ZW1lbnRzOjpKb2JzQnlDb3VudHJ5VmVyc2lvbi5uZXcoQGNvdW50cnlfdmVyc2lvbikgZG8gfHN0YXRlbWVudHwKICAgICAgc3RhdGVtZW50LmFkZCBTcWw6OlNlbGVjdHM6OkNvbXBhbnkKICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHN0YXRlbWVudC5hZGQgSm9iRXhwb3J0OjpTcWw6OlNlbGVjdHM6OkNvbXBhbnkK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uKSBkbyB8c3RhdGVtZW50fAogICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6U2VsZWN0czo6Q29tcGFueQogICAgZW5kCgolPgo=</text>
+        <text encoding="base64">ICAgIHN0YXRlbWVudC5hZGQgSm9iRXhwb3J0OjpTcWw6OlNlbGVjdHM6OkRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JFeHBvcnQ6OlNxbDo6U3RhdGVtZW50czo6Sm9ic0J5Q291bnRyeVZlcnNpb24ubmV3KEBjb3VudHJ5X3ZlcnNpb24pIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6U2VsZWN0czo6Q29tcGFueQogICAgICAgICAgI3N0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6U2FsYXJ5UmFuZ2VOb3RJbiwgWzEyMF0KICAgICAgICAgIHN0YXRlbWVudC53aGVyZSA8PCBbIkFORCIsImdlb2NvZGVzLmNpdHkgfiAnLiosLionIl0KICAgICAgICAgIHN0YXRlbWVudC5saW1pdD01MDAwMAogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fY2FtcGFpZ246ICJuZXV2b28rdXMrcmVtYWluaW5nK2JldHdlZW4rMTI1KzE1MCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWZmaWxpYXRlID0gOnVzX2FmZmlsaWF0ZV8xMjY4Cg==</text>
+        <text encoding="base64">ICBKb2JFeHBvcnQ6OlNxbDo6U3RhdGVtZW50czo6Sm9ic0J5Q291bnRyeVZlcnNpb24ubmV3KEBjb3VudHJ5X3ZlcnNpb24sIHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICBzdGF0ZW1lbnQuYWRkIEpvYkV4cG9ydDo6U3FsOjpTZWxlY3RzOjpDb21wYW55CiAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fY2FtcGFpZ246ICJuZXV2b28rdXMrdG9wK3N0YXRlcytiZXR3ZWVuKzEyNSsxNTAiKQo=</text>
+        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uKSBkbyB8c3RhdGVtZW50fAogICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6U2VsZWN0czo6Q29tcGFueQogICAgZW5kCgolPgo=</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWZmaWxpYXRlID0gOnVzX2FmZmlsaWF0ZV8xMjY3Cg==</text>
+        <text encoding="base64">ICAgICAgICBKb2JFeHBvcnQ6OlNxbDo6U3RhdGVtZW50czo6Sm9ic0J5Q291bnRyeVZlcnNpb24ubmV3KEBjb3VudHJ5X3ZlcnNpb24pIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6U2VsZWN0czo6Q29tcGFueQogICAgICAgICAgI3N0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6U2FsYXJ5UmFuZ2VOb3RJbiwgWzEyMF0KICAgICAgICAgIHN0YXRlbWVudC53aGVyZSA8PCBbIkFORCIsImdlb2NvZGVzLmNpdHkgfiAnLiosLionIl0KICAgICAgICAgIHN0YXRlbWVudC5saW1pdD01MDAwMAogICAgICAgIGVuZAo=</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fY2FtcGFpZ246ICJuZXV2b28rdXMrcmVtYWluaW5nK2JlbG93KzE1MCIpCg==</text>
+        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fY2FtcGFpZ246ICJuZXV2b28rdXMrcmVtYWluaW5nK2JldHdlZW4rMTI1KzE1MCIpCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWZmaWxpYXRlID0gOnVzX2FmZmlsaWF0ZV8xNzEK</text>
+        <text encoding="base64">ICBleHBvcnQuYWZmaWxpYXRlID0gOnVzX2FmZmlsaWF0ZV8xMjY4Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWZmaWxpYXRlID0gOnVzX2FmZmlsaWF0ZV8xNzAK</text>
+        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fY2FtcGFpZ246ICJuZXV2b28rdXMrdG9wK3N0YXRlcytiZXR3ZWVuKzEyNSsxNTAiKQo=</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
