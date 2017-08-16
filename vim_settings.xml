@@ -96,6 +96,12 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_job.rb" timestamp="1502877577323">
+        <mark key="[" line="80" column="53" />
+        <mark key="]" line="81" column="18" />
+        <mark key="^" line="81" column="18" />
+        <mark key="." line="81" column="18" />
+      </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160923130848_create_countries.rb" timestamp="1474651072613">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="13" />
@@ -516,6 +522,12 @@
         <mark key="]" line="2" column="54" />
         <mark key="." line="2" column="54" />
         <mark key="^" line="2" column="54" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" timestamp="1502877284342">
+        <mark key="'" line="28" column="6" />
+        <mark key="[" line="40" column="0" />
+        <mark key="]" line="40" column="0" />
+        <mark key="." line="40" column="0" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/neuvoo/deu/sql.erb" timestamp="1502866540806">
         <mark key="'" line="20" column="26" />
@@ -1167,7 +1179,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="172" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
       <jump line="173" column="59" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
       <jump line="157" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
       <jump line="159" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/lib/base.rb" />
@@ -1267,16 +1278,17 @@
       <jump line="4" column="53" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobinga/bef/sql.erb" />
       <jump line="55" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_feed.rb" />
       <jump line="62" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/runner.rb" />
+      <jump line="28" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/job_parser.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="-" type="4">
-        <text>t</text>
+        <text>exit</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVfZXhwaXJ5X2VudHJ5XD4=</text>
+        <text encoding="base64">XDx9XD4=</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIHN0YXRlbWVudC5hZGQgSm9iRXhwb3J0OjpTcWw6OlNlbGVjdHM6OkNvbXBhbnkK</text>
@@ -1285,37 +1297,37 @@
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHN0YXRlbWVudC5hZGQgSm9iRXhwb3J0OjpTcWw6OlNlbGVjdHM6OkRlc2NyaXB0aW9uCg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICBiaW5kaW5nLnByeQo=</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBKb2JFeHBvcnQ6OlNxbDo6U3RhdGVtZW50czo6Sm9ic0J5Q291bnRyeVZlcnNpb24ubmV3KEBjb3VudHJ5X3ZlcnNpb24sIHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICBzdGF0ZW1lbnQuYWRkIEpvYkV4cG9ydDo6U3FsOjpTZWxlY3RzOjpDb21wYW55CiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uKSBkbyB8c3RhdGVtZW50fAogICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6U2VsZWN0czo6Q29tcGFueQogICAgZW5kCgolPgo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgICBKb2JFeHBvcnQ6OlNxbDo6U3RhdGVtZW50czo6Sm9ic0J5Q291bnRyeVZlcnNpb24ubmV3KEBjb3VudHJ5X3ZlcnNpb24pIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6U2VsZWN0czo6Q29tcGFueQogICAgICAgICAgI3N0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6U2FsYXJ5UmFuZ2VOb3RJbiwgWzEyMF0KICAgICAgICAgIHN0YXRlbWVudC53aGVyZSA8PCBbIkFORCIsImdlb2NvZGVzLmNpdHkgfiAnLiosLionIl0KICAgICAgICAgIHN0YXRlbWVudC5saW1pdD01MDAwMAogICAgICAgIGVuZAo=</text>
+        <text encoding="base64">ICAgIHN0YXRlbWVudC5hZGQgSm9iRXhwb3J0OjpTcWw6OlNlbGVjdHM6OkRlc2NyaXB0aW9uCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fY2FtcGFpZ246ICJuZXV2b28rdXMrcmVtYWluaW5nK2JldHdlZW4rMTI1KzE1MCIpCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWZmaWxpYXRlID0gOnVzX2FmZmlsaWF0ZV8xMjY4Cg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>71</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVfZXhwaXJ5X2VudHJ5XD4=</last-search>
+      <last-search encoding="base64">XDx9XD4=</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVfZXhwaXJ5X2VudHJ5XD4=</last-pattern>
+      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
@@ -1323,8 +1335,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDx1cmxcPg==</entry>
-        <entry encoding="base64">XDxsaW1pdFw+</entry>
         <entry encoding="base64">XDxjb3VudHJ5X2NhY2hlXD4=</entry>
         <entry>top</entry>
         <entry>german</entry>
@@ -1343,6 +1353,8 @@
         <entry>check</entry>
         <entry>ove</entry>
         <entry encoding="base64">XDx1cGRhdGVfZXhwaXJ5X2VudHJ5XD4=</entry>
+        <entry encoding="base64">XDxqb2JfcGFyYW1zX2hhc2hcPg==</entry>
+        <entry encoding="base64">XDx9XD4=</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
