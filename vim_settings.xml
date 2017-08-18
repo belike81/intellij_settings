@@ -1358,7 +1358,7 @@
         <text>jobtome</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx9XD4=</text>
+        <text>memory</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fc291cmNlOiAiam9idG9tZSIpCg==</text>
@@ -1395,9 +1395,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx9XD4=</last-search>
+      <last-search>memory</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx9XD4=</last-pattern>
+      <last-pattern>memory</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
@@ -1405,7 +1405,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxjb3VudHJ5X2NhY2hlXD4=</entry>
         <entry>top</entry>
         <entry>german</entry>
         <entry encoding="base64">XDxhbGxvd2VkX3dlYm1vdmtfc2l0ZXNcPg==</entry>
@@ -1425,6 +1424,7 @@
         <entry encoding="base64">XDx1cGRhdGVfZXhwaXJ5X2VudHJ5XD4=</entry>
         <entry encoding="base64">XDxqb2JfcGFyYW1zX2hhc2hcPg==</entry>
         <entry encoding="base64">XDx9XD4=</entry>
+        <entry>memory</entry>
       </history-search>
       <history-cmd>
         <entry>43</entry>
