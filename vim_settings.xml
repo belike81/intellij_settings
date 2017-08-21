@@ -531,7 +531,7 @@
         <mark key="." line="11" column="33" />
         <mark key="^" line="11" column="33" />
       </file>
-      <file name="/Dummy.txt" timestamp="1503316971101">
+      <file name="/Dummy.txt" timestamp="1503321653833">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/db/seeds/0030_admins.yml" timestamp="1501143043254">
@@ -891,11 +891,11 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="0" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/spec/libs/import/job_params/bitwerk_spec.rb" timestamp="1503318243621">
-        <mark key="[" line="55" column="41" />
-        <mark key="]" line="55" column="41" />
-        <mark key="^" line="50" column="48" />
-        <mark key="." line="55" column="41" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/spec/libs/import/job_params/bitwerk_spec.rb" timestamp="1503321626563">
+        <mark key="[" line="57" column="17" />
+        <mark key="]" line="57" column="36" />
+        <mark key="^" line="57" column="36" />
+        <mark key="." line="57" column="36" />
       </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20170104103325_move_notes_to_job_sites.rb" timestamp="1483528144562">
         <mark key="[" line="1" column="6" />
@@ -1011,7 +1011,8 @@
         <mark key="." line="22" column="0" />
         <mark key="^" line="5" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/job_params/base.rb" timestamp="1503315556971">
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/job_params/base.rb" timestamp="1503321009165">
+        <mark key="'" line="369" column="4" />
         <mark key="[" line="483" column="6" />
         <mark key="]" line="483" column="28" />
       </file>
@@ -1033,12 +1034,11 @@
         <mark key="." line="3" column="35" />
         <mark key="^" line="3" column="35" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/job_params/bitwerk.rb" timestamp="1503315646521">
-        <mark key="'" line="25" column="0" />
-        <mark key="[" line="35" column="7" />
-        <mark key="]" line="35" column="7" />
-        <mark key="^" line="35" column="7" />
-        <mark key="." line="35" column="7" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/job_params/bitwerk.rb" timestamp="1503321458539">
+        <mark key="[" line="49" column="42" />
+        <mark key="]" line="49" column="42" />
+        <mark key="." line="49" column="42" />
+        <mark key="^" line="49" column="26" />
       </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160924064824_create_location_groups_locations.rb" timestamp="1474699729328">
         <mark key="[" line="4" column="25" />
@@ -1272,9 +1272,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="27" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="14" column="11" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
-      <jump line="22" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="28" column="20" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="97" column="77" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/http_fetcher.rb" />
       <jump line="41" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/spec/models/import/fetcher/http_fetcher_spec.rb" />
@@ -1372,55 +1369,58 @@
       <jump line="47" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/spec/libs/import/batch_import/bitwerk_spec.rb" />
       <jump line="119" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/spec/libs/import/batch_import/bitwerk_spec.rb" />
       <jump line="89" column="108" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/spec/libs/import/batch_import/bitwerk_spec.rb" />
+      <jump line="35" column="2" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/job_params/bitwerk.rb" />
+      <jump line="38" column="39" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/job_params/bitwerk.rb" />
+      <jump line="369" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/job_params/base.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="-" type="4">
-        <text>&quot;</text>
+        <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxKT0JfVklTSUJMRV9MT0NBVElPTlw+</text>
+        <text>url</text>
       </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgICAgZXhwZWN0KEN1cmw6OlBvc3RGaWVsZCkudG8gcmVjZWl2ZSg6Y29udGVudCkud2l0aCgiam9iW3Zpc2libGVfbG9jYXRpb25dIiwgIjAwMDAgV29sa2U3IikuYW5kX3JldHVybigiSk9CX1ZJU0lCTEVfTE9DQVRJT04iKQo=</text>
+      <register name="0" type="4">
+        <text>https://www.avalect.ch/jobdetail.cfm?id=2986</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uLCB0cnVlKSBkbyB8c3RhdGVtZW50fAoJICAgIHN0YXRlbWVudC5hZGQgU3FsOjpTZWxlY3RzOjpDb21wYW55CiAgICAgIHN0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6TGFuZ3VhZ2VDb2RlSW4sICJGUiIKICAgIGVuZAoKJT4KCg==</text>
+        <text encoding="base64">ICBwcml2YXRlCgogIGRlZiBwb3N0ZWRfYnlfYXZhbGVjdD8KICAgIGpvYl9lbGVtZW50KCd1cmwnKS50ZXh0LmluY2x1ZGVzPygnYXZhbGVjdCcpCiAgZW5kCg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkFsbEpvYnMubmV3KHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgc3RhdGVtZW50LmFkZF9maWx0ZXIgSm9iRXhwb3J0OjpTcWw6OkNvbnN0cmFpbnRzOjpDb3VudHJ5Q29kZUluLCAnU0UnCiAgICAgICAgc3RhdGVtZW50LmFkZCBKb2JFeHBvcnQ6OlNxbDo6U2VsZWN0czo6RGVzY3JpcHRpb24KICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBkZWYgam9iX2Rpc3BsYXlfc3RyYXRlZ3lfaWQKICAgIGlmIGV4dHJhY3RfdGV4dF9pZl9wcmVzZW50KCd1cmwnKSAmJiBwb3N0ZWRfYnlfYXZhbGVjdD8KICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpVUkwuaWQKICAgIGVsc2UKICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpERVNDUklQVElPTi5pZAogICAgZW5kCiAgZW5kCgo=</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkFsbEpvYnMubmV3KHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgc3RhdGVtZW50LmFkZF9maWx0ZXIgSm9iRXhwb3J0OjpTcWw6OkNvbnN0cmFpbnRzOjpDb3VudHJ5Q29kZUluLCAnREsnCiAgICAgICAgc3RhdGVtZW50LmFkZCBKb2JFeHBvcnQ6OlNxbDo6U2VsZWN0czo6RGVzY3JpcHRpb24KICAgICAgZW5kCg==</text>
+        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uLCB0cnVlKSBkbyB8c3RhdGVtZW50fAoJICAgIHN0YXRlbWVudC5hZGQgU3FsOjpTZWxlY3RzOjpDb21wYW55CiAgICAgIHN0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6TGFuZ3VhZ2VDb2RlSW4sICJGUiIKICAgIGVuZAoKJT4KCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpVUkwuaWQK</text>
+        <text encoding="base64">ICAgICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkFsbEpvYnMubmV3KHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgc3RhdGVtZW50LmFkZF9maWx0ZXIgSm9iRXhwb3J0OjpTcWw6OkNvbnN0cmFpbnRzOjpDb3VudHJ5Q29kZUluLCAnU0UnCiAgICAgICAgc3RhdGVtZW50LmFkZCBKb2JFeHBvcnQ6OlNxbDo6U2VsZWN0czo6RGVzY3JpcHRpb24KICAgICAgZW5kCg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpERVNDUklQVElPTi5pZAo=</text>
+        <text encoding="base64">ICAgICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkFsbEpvYnMubmV3KHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgc3RhdGVtZW50LmFkZF9maWx0ZXIgSm9iRXhwb3J0OjpTcWw6OkNvbnN0cmFpbnRzOjpDb3VudHJ5Q29kZUluLCAnREsnCiAgICAgICAgc3RhdGVtZW50LmFkZCBKb2JFeHBvcnQ6OlNxbDo6U2VsZWN0czo6RGVzY3JpcHRpb24KICAgICAgZW5kCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpVUkwuaWQK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICBkZWYgdXJsCiAgICBqb2JfZWxlbWVudCgndXJsJykudGV4dC5ibGFuaz8gPyBqb2JfZWxlbWVudCgnYXBwbGljYXRpb25fcm91dGluZ19yZWRpcmVjdF91cmwnKS50ZXh0IDogam9iX2VsZW1lbnQoJ3VybCcpLnRleHQKICBlbmQK</text>
+        <text encoding="base64">ICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpERVNDUklQVElPTi5pZAo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICMgQW4gdXJsIGlzIG5lZWRlZC4K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIDx1cmw+PCU9IEBqb2IudXJsICU+PC91cmw+Cg==</text>
+        <text encoding="base64">ICBkZWYgdXJsCiAgICBqb2JfZWxlbWVudCgndXJsJykudGV4dC5ibGFuaz8gPyBqb2JfZWxlbWVudCgnYXBwbGljYXRpb25fcm91dGluZ19yZWRpcmVjdF91cmwnKS50ZXh0IDogam9iX2VsZW1lbnQoJ3VybCcpLnRleHQKICBlbmQK</text>
       </register>
       <register name=":" type="4">
         <text>150</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxKT0JfVklTSUJMRV9MT0NBVElPTlw+</last-search>
+      <last-search>url</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxKT0JfVklTSUJMRV9MT0NBVElPTlw+</last-pattern>
+      <last-pattern>url</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
@@ -1428,8 +1428,6 @@
     </search>
     <history>
       <history-search>
-        <entry>status</entry>
-        <entry encoding="base64">XDxmaWxlX3NhdmVkXD4=</entry>
         <entry encoding="base64">XDxmZXRjaGVkXD4=</entry>
         <entry encoding="base64">XDxnZW5lcmF0ZV9maWxlbmFtZVw+</entry>
         <entry encoding="base64">XDxmZXRjaF9yZWRpcmVjdFw+</entry>
@@ -1448,6 +1446,8 @@
         <entry>visible</entry>
         <entry encoding="base64">XDxKT0JfUk9VVElOR19FTUFJTF9BRERSRVNTRVNcPg==</entry>
         <entry encoding="base64">XDxKT0JfVklTSUJMRV9MT0NBVElPTlw+</entry>
+        <entry encoding="base64">XDxqb2JfZGlzcGxheV9zdHJhdGVneV9pZFw+</entry>
+        <entry>url</entry>
       </history-search>
       <history-cmd>
         <entry>wincmd k</entry>
@@ -1501,6 +1501,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
       </shortcut-conflict>
     </shortcut-conflicts>
     <editor>
