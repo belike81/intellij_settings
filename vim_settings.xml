@@ -891,6 +891,12 @@
         <mark key="^" line="6" column="0" />
         <mark key="." line="7" column="0" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/spec/libs/import/job_params/bitwerk_spec.rb" timestamp="1503318243621">
+        <mark key="[" line="55" column="41" />
+        <mark key="]" line="55" column="41" />
+        <mark key="^" line="50" column="48" />
+        <mark key="." line="55" column="41" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/migrate/20170104103325_move_notes_to_job_sites.rb" timestamp="1483528144562">
         <mark key="[" line="1" column="6" />
         <mark key="]" line="1" column="11" />
@@ -1369,10 +1375,10 @@
     </jumps>
     <registers>
       <register name="&quot;" type="4">
-        <text>VISIBLE_LOCATION</text>
+        <text>&quot;</text>
       </register>
       <register name="-" type="4">
-        <text>VISIBLE_LOCATION</text>
+        <text>&quot;</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxKT0JfVklTSUJMRV9MT0NBVElPTlw+</text>
