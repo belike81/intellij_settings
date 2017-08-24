@@ -224,8 +224,8 @@
         <mark key="." line="1" column="41" />
         <mark key="^" line="1" column="41" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" timestamp="1503581671200">
-        <mark key="'" line="34" column="10" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" timestamp="1503583205458">
+        <mark key="'" line="45" column="21" />
         <mark key="[" line="33" column="32" />
         <mark key="]" line="33" column="5" />
         <mark key="^" line="33" column="5" />
@@ -1287,9 +1287,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="63" column="97" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/ita/jobrapido.rb" />
-      <jump line="24" column="32" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/jobrapido/ita/jobrapido.rb" />
-      <jump line="61" column="18" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/development.rb" />
       <jump line="47" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/development.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/production_owner.rb" />
       <jump line="146" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
@@ -1387,6 +1384,9 @@
       <jump line="29" column="6" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/vendor/bundle/ruby/2.3.0/gems/hop_hop-0.7.3/lib/hop_hop/event.rb" />
       <jump line="34" column="10" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" />
       <jump line="48" column="8" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/vendor/bundle/ruby/2.3.0/gems/hop_hop-0.7.3/lib/hop_hop/event.rb" />
+      <jump line="37" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" />
+      <jump line="38" column="26" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" />
+      <jump line="45" column="21" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" />
     </jumps>
     <registers>
       <register name="&quot;" type="2">
@@ -1396,7 +1396,7 @@
         <text>1</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxzZW5kZXJcPg==</text>
+        <text>job_supp</text>
       </register>
       <register name="0" type="4">
         <text>https://www.avalect.ch/jobdetail.cfm?id=2986</text>
@@ -1433,9 +1433,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxzZW5kZXJcPg==</last-search>
+      <last-search>job_supp</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxzZW5kZXJcPg==</last-pattern>
+      <last-pattern>job_supp</last-pattern>
       <last-replace>~</last-replace>
       <last-substitute>top</last-substitute>
       <last-dir>1</last-dir>
@@ -1443,7 +1443,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxwYXJzZV9mZWVkXD4=</entry>
         <entry encoding="base64">XDxyZWFkX2ZldGNoZWRfZmlsZVw+</entry>
         <entry encoding="base64">XDxlYWNoX2V4dHJhY3RlZF9qb2JfeG1sXD4=</entry>
         <entry>thin</entry>
@@ -1463,6 +1462,7 @@
         <entry encoding="base64">XDxqb2JfZGlyZWN0X3N1cHBseVw+</entry>
         <entry encoding="base64">XDxuZXdcPg==</entry>
         <entry encoding="base64">XDxzZW5kZXJcPg==</entry>
+        <entry>job_supp</entry>
       </history-search>
       <history-cmd>
         <entry>40</entry>
