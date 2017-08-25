@@ -180,9 +180,6 @@
         <mark key="." line="6" column="22" />
         <mark key="^" line="6" column="22" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/app/lib/import/extractor/base.rb" timestamp="1503310294842">
-        <mark key="'" line="506" column="37" />
-      </file>
       <file name="$USER_HOME$/Projects/_WORK/user-interface/ui-dist/src/main/ruby/app/models/insertion_order_term_video_player_interstitial.rb" timestamp="1473844172825">
         <mark key="[" line="7" column="122" />
         <mark key="]" line="7" column="122" />
@@ -415,9 +412,10 @@
         <mark key="." line="299" column="28" />
         <mark key="^" line="299" column="28" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/thelocal/eur/sql.erb" timestamp="1503043055875">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="74" />
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/thelocal/eur/sql.erb" timestamp="1503666527550">
+        <mark key="[" line="107" column="0" />
+        <mark key="]" line="108" column="69" />
+        <mark key="." line="107" column="0" />
       </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/spec/libs/import/batch_import/bitwerk_spec.rb" timestamp="1503316924179">
         <mark key="'" line="89" column="108" />
@@ -462,6 +460,10 @@
         <mark key="]" line="24" column="43" />
         <mark key="^" line="24" column="43" />
         <mark key="." line="24" column="43" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/trovit/ita/sql.erb" timestamp="1503666484777">
+        <mark key="[" line="14" column="0" />
+        <mark key="]" line="15" column="64" />
       </file>
       <file name="$USER_HOME$/code/Personal/belike81.github.io/timer.js" timestamp="1502882789824">
         <mark key="[" line="7" column="1" />
@@ -1396,8 +1398,8 @@
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/trovit/deu/job.xml.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>e</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAgIHN0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6Sm9iVHlwZUluLCBbMSwzLDRdCiAgICAgICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6Q29uc3RyYWludHM6OkpvYlByZW1pdW1UeXBlTm90SW4sIFs0LCA3XQo=</text>
       </register>
       <register name="-" type="4">
         <text>e</text>
@@ -1406,7 +1408,7 @@
         <text>job_supp</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fc291cmNlOiAidHJvdml0IiwgdXRtX2NvbnRlbnQ6ICdqb2InLCB1dG1fY2FtcGFpZ246ICd0cm92aXQrZGUrZ2VuZXJpYytmZWVkJykK</text>
+        <text encoding="base64">ICAgICAgICAgIHN0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6Sm9iVHlwZUluLCBbMSwzLDRdCiAgICAgICAgICBzdGF0ZW1lbnQuYWRkIFNxbDo6Q29uc3RyYWludHM6OkpvYlByZW1pdW1UeXBlTm90SW4sIFs0LCA3XQo=</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICA8JSAKICAgYWZmaWxpYXRlX3N0cmluZyA9IFsxLDJdLmluY2x1ZGU/KEBqb2Iuc2FsYXJ5X3JhbmdlX2lkKSA/ICJhZmZpbGlhdGVfMjAxNF8wMV8yMTY2IiA6ICJhZmZpbGlhdGVfMjAxNF8wMV8yMjQxIgogICU+Cg==</text>
