@@ -106,11 +106,6 @@
         <mark key="." line="3" column="33" />
         <mark key="^" line="3" column="33" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/xml_job.rb" timestamp="1502878663639">
-        <mark key="[" line="81" column="0" />
-        <mark key="]" line="81" column="0" />
-        <mark key="." line="81" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/global_test_app/db/migrate/20160923130848_create_countries.rb" timestamp="1474651072613">
         <mark key="[" line="3" column="8" />
         <mark key="]" line="3" column="13" />
@@ -256,6 +251,10 @@
         <mark key="." line="6" column="11" />
         <mark key="^" line="6" column="11" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/tiptopjob/ita/tiptopjob.rb" timestamp="1503660991483">
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="118" />
+      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/db/schema.rb" timestamp="1485860628755">
         <mark key="'" line="430" column="14" />
         <mark key="[" line="431" column="13" />
@@ -335,6 +334,12 @@
         <mark key="]" line="3" column="83" />
         <mark key="." line="3" column="83" />
         <mark key="^" line="3" column="83" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/trovit/deu/trovit.rb" timestamp="1503661203613">
+        <mark key="[" line="10" column="0" />
+        <mark key="]" line="10" column="110" />
+        <mark key="." line="10" column="0" />
+        <mark key="^" line="10" column="94" />
       </file>
       <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/config/database.yml" timestamp="1496055822987">
         <mark key="[" line="19" column="0" />
@@ -476,6 +481,12 @@
         <mark key="]" line="63" column="80" />
         <mark key="." line="63" column="80" />
         <mark key="^" line="63" column="80" />
+      </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/trovit/deu/job.xml.erb" timestamp="1503661056111">
+        <mark key="'" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
       </file>
       <file name="$USER_HOME$/Projects/walmart_reviewer/Rakefile" timestamp="1475513178146">
         <mark key="[" line="3" column="0" />
@@ -818,6 +829,12 @@
         <mark key="." line="15" column="68" />
         <mark key="^" line="15" column="68" />
       </file>
+      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/trovit/ita/trovit.rb" timestamp="1503661212588">
+        <mark key="[" line="5" column="93" />
+        <mark key="]" line="5" column="94" />
+        <mark key="." line="5" column="94" />
+        <mark key="^" line="5" column="94" />
+      </file>
       <file name="$USER_HOME$/Projects/Personal/Cebiro-CRM/docker-compose.yml" timestamp="1496055728001">
         <mark key="'" line="14" column="16" />
         <mark key="[" line="16" column="0" />
@@ -1108,11 +1125,6 @@
         <mark key="." line="14" column="26" />
         <mark key="^" line="14" column="26" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/cabinet_recr/job.xml.erb" timestamp="1503309817783">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="51" />
-        <mark key="." line="4" column="0" />
-      </file>
       <file name="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/import/fetcher/cache_fetcher.rb" timestamp="1501765050534">
         <mark key="[" line="12" column="0" />
         <mark key="]" line="12" column="28" />
@@ -1241,11 +1253,6 @@
         <mark key="^" line="288" column="30" />
         <mark key="." line="288" column="30" />
       </file>
-      <file name="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/neuvoo/chd/sql.erb" timestamp="1503043393555">
-        <mark key="[" line="5" column="0" />
-        <mark key="]" line="5" column="0" />
-        <mark key="." line="5" column="0" />
-      </file>
       <file name="$USER_HOME$/Projects/Experteer/experteer-dev/jobcontentapp/app/models/job_site_active_type.rb" timestamp="1483529645453">
         <mark key="[" line="55" column="21" />
         <mark key="]" line="55" column="41" />
@@ -1287,7 +1294,6 @@
       </file>
     </filemarks>
     <jumps>
-      <jump line="47" column="9" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/development.rb" />
       <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/config/environments/production_owner.rb" />
       <jump line="146" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
       <jump line="7" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/job_version.rb" />
@@ -1387,46 +1393,47 @@
       <jump line="37" column="4" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" />
       <jump line="38" column="26" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" />
       <jump line="45" column="21" filename="$USER_HOME$/code/Experteer/experteer-dev/jobcontentapp/app/models/hop_event.rb" />
+      <jump line="0" column="0" filename="$USER_HOME$/code/Experteer/experteer-dev/pjpp/misc/export/job_exports/trovit/deu/job.xml.erb" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+      <register name="&quot;" type="4">
+        <text>e</text>
       </register>
       <register name="-" type="4">
-        <text>1</text>
+        <text>e</text>
       </register>
       <register name="/" type="4">
         <text>job_supp</text>
       </register>
-      <register name="0" type="4">
-        <text>https://www.avalect.ch/jobdetail.cfm?id=2986</text>
+      <register name="0" type="2">
+        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fc291cmNlOiAidHJvdml0IiwgdXRtX2NvbnRlbnQ6ICdqb2InLCB1dG1fY2FtcGFpZ246ICd0cm92aXQrZGUrZ2VuZXJpYytmZWVkJykK</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICA8JSAKICAgYWZmaWxpYXRlX3N0cmluZyA9IFsxLDJdLmluY2x1ZGU/KEBqb2Iuc2FsYXJ5X3JhbmdlX2lkKSA/ICJhZmZpbGlhdGVfMjAxNF8wMV8yMTY2IiA6ICJhZmZpbGlhdGVfMjAxNF8wMV8yMjQxIgogICU+Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
+        <text encoding="base64">ICBleHBvcnQuYWRkX3RyYWNraW5nX3BhcmFtcyh1dG1fc291cmNlOiAidHJvdml0IikK</text>
       </register>
       <register name="3" type="2">
         <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICBwcml2YXRlCgogIGRlZiBwb3N0ZWRfYnlfYXZhbGVjdD8KICAgIGpvYl9lbGVtZW50KCd1cmwnKS50ZXh0LmluY2x1ZGVzPygnYXZhbGVjdCcpCiAgZW5kCg==</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICBkZWYgam9iX2Rpc3BsYXlfc3RyYXRlZ3lfaWQKICAgIGlmIGV4dHJhY3RfdGV4dF9pZl9wcmVzZW50KCd1cmwnKSAmJiBwb3N0ZWRfYnlfYXZhbGVjdD8KICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpVUkwuaWQKICAgIGVsc2UKICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpERVNDUklQVElPTi5pZAogICAgZW5kCiAgZW5kCgo=</text>
+        <text encoding="base64">ICAgICAgYmluZGluZy5wcnkK</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uLCB0cnVlKSBkbyB8c3RhdGVtZW50fAoJICAgIHN0YXRlbWVudC5hZGQgU3FsOjpTZWxlY3RzOjpDb21wYW55CiAgICAgIHN0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6TGFuZ3VhZ2VDb2RlSW4sICJGUiIKICAgIGVuZAoKJT4KCg==</text>
+        <text encoding="base64">ICBwcml2YXRlCgogIGRlZiBwb3N0ZWRfYnlfYXZhbGVjdD8KICAgIGpvYl9lbGVtZW50KCd1cmwnKS50ZXh0LmluY2x1ZGVzPygnYXZhbGVjdCcpCiAgZW5kCg==</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkFsbEpvYnMubmV3KHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgc3RhdGVtZW50LmFkZF9maWx0ZXIgSm9iRXhwb3J0OjpTcWw6OkNvbnN0cmFpbnRzOjpDb3VudHJ5Q29kZUluLCAnU0UnCiAgICAgICAgc3RhdGVtZW50LmFkZCBKb2JFeHBvcnQ6OlNxbDo6U2VsZWN0czo6RGVzY3JpcHRpb24KICAgICAgZW5kCg==</text>
+        <text encoding="base64">ICBkZWYgam9iX2Rpc3BsYXlfc3RyYXRlZ3lfaWQKICAgIGlmIGV4dHJhY3RfdGV4dF9pZl9wcmVzZW50KCd1cmwnKSAmJiBwb3N0ZWRfYnlfYXZhbGVjdD8KICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpVUkwuaWQKICAgIGVsc2UKICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpERVNDUklQVElPTi5pZAogICAgZW5kCiAgZW5kCgo=</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkFsbEpvYnMubmV3KHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgc3RhdGVtZW50LmFkZF9maWx0ZXIgSm9iRXhwb3J0OjpTcWw6OkNvbnN0cmFpbnRzOjpDb3VudHJ5Q29kZUluLCAnREsnCiAgICAgICAgc3RhdGVtZW50LmFkZCBKb2JFeHBvcnQ6OlNxbDo6U2VsZWN0czo6RGVzY3JpcHRpb24KICAgICAgZW5kCg==</text>
+        <text encoding="base64">PCU9CgogICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkpvYnNCeUNvdW50cnlWZXJzaW9uLm5ldyhAY291bnRyeV92ZXJzaW9uLCB0cnVlKSBkbyB8c3RhdGVtZW50fAoJICAgIHN0YXRlbWVudC5hZGQgU3FsOjpTZWxlY3RzOjpDb21wYW55CiAgICAgIHN0YXRlbWVudC5hZGQgU3FsOjpDb25zdHJhaW50czo6TGFuZ3VhZ2VDb2RlSW4sICJGUiIKICAgIGVuZAoKJT4KCg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgICAgSm9iRGlzcGxheVN0cmF0ZWd5OjpVUkwuaWQK</text>
+        <text encoding="base64">ICAgICAgSm9iRXhwb3J0OjpTcWw6OlN0YXRlbWVudHM6OkFsbEpvYnMubmV3KHRydWUpIGRvIHxzdGF0ZW1lbnR8CiAgICAgICAgc3RhdGVtZW50LmFkZF9maWx0ZXIgSm9iRXhwb3J0OjpTcWw6OkNvbnN0cmFpbnRzOjpDb3VudHJ5Q29kZUluLCAnU0UnCiAgICAgICAgc3RhdGVtZW50LmFkZCBKb2JFeHBvcnQ6OlNxbDo6U2VsZWN0czo6RGVzY3JpcHRpb24KICAgICAgZW5kCg==</text>
       </register>
       <register name=":" type="4">
         <text>49</text>
